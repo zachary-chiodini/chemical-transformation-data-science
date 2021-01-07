@@ -3,7 +3,9 @@ from math import log
 from typing import Dict, List, Set, Union
 
 class NaiveBayes :
-
+    '''
+    Multinomial Naive Bayes
+    '''
     Count, Probaility = int, float
     Class, Output, Document, Word = str, str, str, str
 
