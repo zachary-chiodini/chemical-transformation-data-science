@@ -1,4 +1,7 @@
 import random, re
+import numpy as np
+from math import e
+from nptyping import NDArray
 from typing import Dict, List, Optional, Set, Union
 
 class LogisticRegression :
@@ -18,9 +21,82 @@ class LogisticRegression :
         self.__vecfindall = np.vectorize( 
             lambda voc, doc : int( voc in doc ) 
             )
-        self.stop_words = {}
-        with open( 'stopset.txt' ) as file :
-            self.stop_words = set( file.read().split( ',' ) )
+        self.stop_words = self.stop_words = {
+            'if', 'might', 'big', 'opens', 'but', 'got',
+            'almost', 'differently', 'since', 'why', 'things',
+            'under', 'perhaps', 'grouped', 'whose', 'show',
+            'say', 'first', 'us', 'used', 'room', 'that',
+            'seems', 'groups', 'over', 'we', 'whether',
+            'wants', 'thus', 'number', 'four', 'you',
+            'anywhere', 'smaller', 'within', 'man', 'already',
+            'may', 'second', 'though', 'to', 'furthering',
+            'finds', 'across', 'through', 'give', 'needing',
+            'turns', 'see', 'really', 'interesting', 'what',
+            'while', 'ever', 'yet', 'latest', 'greater', 'be',
+            'forth', 'nowhere', 'end', 'is', 'on', 'everyone',
+            'clear', 'where', 'all', 'area', 'anybody', 'turn',
+            'made', 'your', 'ten', 'place', 'faces', 'our',
+            'here', 'clearly', 'than', 'something', 'downed',
+            'sure', 'asks', 'backs', 'seven', 'everywhere',
+            'parts', 'went', 'herself', 'youngest', 'important',
+            'put', 'uses', 'around', 'until', 'during', 'these',
+            'younger', 'just', 'whole', 'come', 'became',
+            'large', 'off', 'mrs', 'seventh', 'must', 'being',
+            'presenting', 'rooms', 'his', 'toward', 'into',
+            'early', 'each', 'possible', 'later', 'everybody',
+            'open', 'highest', 'was', 'more', 'interested',
+            'backed', 'several', 'showing', 'most', 'interests',
+            'year', 'certain', 'well', 'fully', 'have',
+            'wanting', 'last', 'double', 'against', 'down',
+            'high', 'had', 'still', 'far', 'point', 'ordering',
+            'began', 'good', 'puts', 'then', 'says', 'opening',
+            'any', 'evenly', 'given', 'long', 'who', 'because',
+            'again', 'away', 'others', 'downs', 'and', 'largely',
+            'three', 'nine', 'worked', 'higher', 'let', 'both',
+            'right', 'shows', 'has', 'taken', 'become', 'sees',
+            'men', 'my', 'making', 'problem', 'back', 'been',
+            'how', 'did', 'among', 'it', 'mostly', 'per',
+            'places', 'turning', 'saw', 'sides', 'himself',
+            'out', 'part', 'cases', 'opened', 'ending',
+            'although', 'seeming', 'member', 'therefore',
+            'pointed', 'fact', 'older', 'took', 'ended', 'two',
+            'other', 'above', 'once', 'keeps', 'think', 'eighth',
+            'there', 'use', 'enough', 'does', 'few', 'every',
+            'longest', 'somebody', 'way', 'present', 'needed',
+            'new', 'do', 'felt', 'side', 'he', 'interest', 'make',
+            'such', 'even', 'nothing', 'knows', 'needs', 'goods',
+            'itself', 'final', 'working', 'best', 'much',
+            'points', 'when', 'of', 'she', 'no', 'respectively',
+            'which', 'five', 'yours', 'thing', 'should', 'many',
+            'full', 'next', 'twice', 'oldest', 'longer', 'for',
+            'without', 'upon', 'seem', 'anything', 'backing',
+            'in', 'they', 'lets', 'so', 'smallest', 'came',
+            'cannot', 'said', 'someone', 'general', 'showed',
+            'from', 'less', 'downing', 'noone', 'tenth', 'sixth',
+            'case', 'wanted', 'works', 'thoughts', 'numbers',
+            'need', 'different', 'find', 'shall', 'knew', 'parting',
+            'wells', 'facts', 'together', 'him', 'myself', 'gets',
+            'ways', 'least', 'having', 'one', 'after', 'areas',
+            'take', 'ends', 'get', 'this', 'either', 'members',
+            'small', 'kind', 'six', 'great', 'some', 'would',
+            'quite', 'however', 'like', 'years', 'state', 'or',
+            'face', 'also', 'furthers', 'non', 'behind', 'group',
+            'know', 'with', 'them', 'necessary', 'order', 'rather',
+            'will', 'along', 'by', 'generally', 'gave', 'thought',
+            'presents', 'further', 'grouping', 'greatest', 'old',
+            'between', 'nobody', 'third', 'mr', 'those', 'eight',
+            'thinks', 'work', 'alone', 'furthered', 'their', 'the',
+            'seemed', 'her', 'newer', 'ninth', 'can', 'about',
+            'before', 'only', 'go', 'likely', 'not', 'gives',
+            'presented', 'another', 'at', 'parted', 'newest', 'very',
+            'ask', 'asking', 'turned', 'states', 'fifth', 'beings',
+            'up', 'often', 'same', 'known', 'problems', 'differ',
+            'somewhere', 'keep', 'certainly', 'anyone', 'too',
+            'going', 'want', 'me', 'seconds', 'never', 'triple',
+            'young', 'its', 'as', 'everything', 'were', 'asked',
+            'done', 'pointing', 'ordered', 'an', 'orders', 'could',
+            'better', 'are', 'becomes', 'today', 'always', 'now'
+            }
             
     def train( self, 
         data : Dict[ Class, Set[ Document ] ],
