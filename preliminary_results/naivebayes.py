@@ -1,20 +1,21 @@
 import random, re
 from math import log
-from typing import Dict, List, Set, Union
+from typing import Dict, List, Optional, Set, Union
 
 class NaiveBayes :
     '''
     Multinomial Naive Bayes
     '''
     Count, Probaility = int, float
-    Class, Output, Document, Word = str, str, str, str
+    Class, Document, Word = str, str, str
+    Data = Dict[ Class, Set[ Document ] ]
 
     def __init__( self ) -> None :
         self.logPc  : Dict[ Class, Probability ] = {} 
         self.logPwc : Dict[ Class, Dict[ Word, Probability ] ] = {}
         self.vocabulary  : Dict[ Class, Set[ Document ] ] = {}
         self.classvocab  : Dict[ Class, Set[ Document ] ] = {}
-        self.predictions : Dict[ Class, Dict[ Class, int ] ] = {}
+        self.predictions : Dict[ Class, Dict[ Class, Count ] ] = {}
         self.accuracy = 0.0
         self.stop_words = {
             'if', 'might', 'big', 'opens', 'but', 'got',
@@ -94,19 +95,17 @@ class NaiveBayes :
             }
         return
 
-    def train(
-        self : object,
-        data : Dict[ Class, Set[ Document ] ]
-        ) -> None :
+    def train( self, data : Dict[ Class, Set[ Document ] ] ) -> None :
         '''
         Naive Bayes Training Algorithm
         '''
         self.vocabulary = self.__extract( data )
         self.vocabulary = self.__removeFirstQ( self.vocabulary )
         self.classvocab = self.__classVocab( data, self.vocabulary )
+        totaldocs = sum( len( data[ label ] ) for label in data )
         for label in data :
             self.logPwc[ label ] = {}
-            self.logPc[ label ]  = log( len( data[ label ] ) / len( data ) )
+            self.logPc[ label ]  = log( len( data[ label ] ) / totaldocs )
             total_count = sum( self.classvocab[ label ].values() )
             for word in self.vocabulary :
                 count = self.classvocab[ label ][ word ]
@@ -115,10 +114,7 @@ class NaiveBayes :
                     )
         return
 
-    def test(
-        self : object,
-        data : Dict[ Class, Set[ Document ] ]
-        ) -> None :
+    def test( self, data : Dict[ Class, Set[ Document ] ] ) -> None :
         '''
         Naive Bayes Testing Algorithm
         '''
@@ -138,8 +134,58 @@ class NaiveBayes :
             self.accuracy = 0
         return
 
-    def trainAndTest(
-        self  : object,
+    def kFoldValidate( self,
+        data : Dict[ Class, Set[ Document ] ],
+        k : int = 10
+        ) -> None :
+        '''
+        K-Fold Cross-Validation
+        '''
+        self.predictions = {}
+        self.accuracy = 0.0
+        accuracy = []
+        ntested, ntrained = 0, 0
+        predictions = {
+            label : { label : 0  for label in data }
+            for label in data
+            }
+        shuffled : Data = {}
+        klist : List[ Data ] = []
+        # shuffling data
+        for label in data :
+            temp = list( data[ label ] )
+            random.shuffle( temp )
+            shuffled[ label ] = temp
+        # creating k sets of data
+        temp = {}
+        for i in range( 1, k + 1 ) :
+            for label in shuffled :
+                strt = int( round( ( ( i - 1 ) / k ) * len( shuffled[ label ] ), 0 ) )
+                fnsh = int( round( ( i / k ) * len( shuffled[ label ] ), 0 ) )
+                temp[ label ] = shuffled[ label ][ strt : fnsh ]
+            klist.append( temp )
+        # k-fold cross validation
+        for i in range( len( klist ) ) :
+            test = klist[ i ]
+            for j in range( len( klist ) ) :
+                if i == j :
+                    continue
+                train = klist[ j ]
+                self.train( train )
+                self.test( test )
+                ntrained += sum( len( train[ label ] )
+                                 for label in train )
+                accuracy.append( self.accuracy )
+                for label in self.predictions :
+                    for predicted in self.predictions[ label ] :
+                        predictions[ label ][ predicted ] += \
+                            self.predictions[ label ][ predicted ]
+            ntested += sum( len( test[ label ] )
+                            for label in test )
+        self.__calcStats( predictions, accuracy, ntrained, ntested )
+        return
+
+    def trainAndTest( self,
         data  : Dict[ Class, Set[ Document ] ],
         ratio : float = 0.0,
         iters : int = 10
@@ -148,10 +194,11 @@ class NaiveBayes :
         Monte Carlo Cross-Validation
         '''
         assert 0 <= ratio < 1, 'Ratio is between 0 and 1.'
+        self.predictions = {}
+        self.accuracy = 0.0
         test, train = {}, {}
         ntested, ntrained = 0, 0
         accuracy = []
-        truelabelnumb = { label : 0 for label in data }
         predictions = {
             label : { label : 0  for label in data }
             for label in data
@@ -167,7 +214,6 @@ class NaiveBayes :
                 random.shuffle( shuffle )
                 train[ label ] = shuffle[ : index ]
                 test [ label ] = shuffle[ index : ]
-                truelabelnumb[ label ] += len( test[ label ] )
                 ntrained += len( train[ label ] )
                 ntested += len( test[ label ] )
             self.train( train )
@@ -177,29 +223,40 @@ class NaiveBayes :
                 for predicted in self.predictions[ label ] :
                     predictions[ label ][ predicted ] += \
                         self.predictions[ label ][ predicted ]
+        self.__calcStats( predictions, accuracy, ntrained, ntested )
+        return
+
+    def __calcStats( self,
+        predictions : Dict[ Class, Dict[ Class, Count ] ],
+        accuracy : List[ float ],
+        ntrained : int, ntested : int
+        ) -> None :
         # Calculating and displaying stats
         # True Positive Rate : True Positives / Actual Positives
         # False Positive Rate: False Positive / Actual Negatives
         # Precision: True Positives / ( True Positives + False Positives )
-        # Recall   : True Positives / ( True Positives + False Negatives )
         self.predictions = predictions.copy()
         for label in predictions :
-            truth_rate = predictions[ label ][ label ] / truelabelnumb[ label ]
-            false_rate = (
-                sum( predictions[ label_ ][ label ]
-                     for label_ in predictions ) \
-                - predictions[ label ][ label ]
-                ) / sum(
-                    predictions[ label ][ output ]
-                    for output in predictions
-                    )
-            precision = predictions[ label ][ label ] / sum(
-                predictions[ label_ ][ label ]
-                for label_ in predictions
+            # predictions :
+            # Dict[ Actual Class, Dict[ Output Class, Count ] ]
+            actual = 0
+            total_correct = 0
+            truth_plus_false = 0
+            for label_ in predictions :
+                actual += predictions[ label ][ label_ ]
+                total_correct += predictions[ label_ ][ label_ ]
+                truth_plus_false += predictions[ label_ ][ label ]
+            truth = predictions[ label ][ label ]
+            false = truth_plus_false - truth
+            self.predictions[ label ][ 'truth rate' ] = (
+                truth / actual
                 )
-            self.predictions[ label ][ 'precision'  ] = precision
-            self.predictions[ label ][ 'truth rate' ] = truth_rate
-            self.predictions[ label ][ 'false rate' ] = false_rate
+            self.predictions[ label ][ 'false rate' ] = (
+                false / ( total_correct - truth + false )
+                )
+            self.predictions[ label ][ 'precision'  ] = (
+                truth / truth_plus_false
+                )
         if len( accuracy ) > 1 :
             mean = sum( accuracy ) / len( accuracy )
             stdv = sum( ( x - mean )**2 / ( len( accuracy ) - 1 )
@@ -234,6 +291,8 @@ class NaiveBayes :
         return label[ prob.index( max( prob ) ) ]
 
     def __decimalPlace( self, n : Union[ int, str ] ) -> int :
+        if not n :
+            return 0
         n = str( n )
         if '.' in n :
             i, f = str( n ).split( '.' )
@@ -247,8 +306,7 @@ class NaiveBayes :
         return -len( n )
                     
 
-    def __extract(
-        self : object,
+    def __extract( self,
         data : Dict[ Class, Set[ Document ] ],
         pattern : str = '\\b[a-z]{2,}\\b'
         ) -> Dict[ Word, Count ] :
@@ -269,8 +327,7 @@ class NaiveBayes :
                             vocabulary[ word ] = 1
         return vocabulary
 
-    def __removeFirstQ(
-        self : object,
+    def __removeFirstQ( self,
         vocabulary : Dict[ Word, Count ]
         ) -> Dict[ Word, Count ] :
         '''
@@ -290,8 +347,7 @@ class NaiveBayes :
         return vocabulary
 
 
-    def __classVocab(
-        self : object,
+    def __classVocab( self,
         data : Dict[ Class, Set[ Document ] ],
         vocabulary : Dict[ Word, Count ]
         ) -> Dict[ Word, Count ] :
