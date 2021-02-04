@@ -1,0 +1,253 @@
+	id	parent_id	child_id	comments
+0	0	150		
+1	1	150		
+2	4	150	193	sulfonyl urea hydrolysis products; no ester hydrolysis products observed at pH4-8
+3	6	150	193	sulfonyl urea hydrolysis products
+4	8	150	195	sulfonyl urea hydrolysis products; no ester hydrolysis products observed at pH4-8
+5	10	150	195	sulfonyl urea hydrolysis products
+6	14	150	196	small amount of this ester hydrolysis product as well as its daugher product was observed at pH 9 and pH10
+7	16	40		
+8	19	40	197	equal amounts of all three products formed
+9	23	40	198	
+10	27	40	199	
+11	28	36		
+12	31	36	200	
+13	32	23		
+14	35	23	201	
+15	36	23		
+16	39	23	202	
+17	40	31		
+18	43	31	203	
+19	44	97		
+20	47	97	97	
+21	48	18		
+22	51	18	204	
+23	64	39		
+24	67	39	205	in acidic pH, 55% of this is formed; in pH 9-12, its 98%
+25	71	39	206	in acidic pH, 45% of this is formed; in pH 9-12, its 2%
+26	72	140		
+27	75	140	207	
+28	79	140	208	
+29	80	125		
+30	83	125	209	
+31	84	191	128	Major product. N-S clevage. There were other minor products reported by this reference, however, they were unsuccessful in isolating/analyzing them.
+32	85	191	128	Major product. N-S clevage. There were other minor products reported by this reference, howeevr, they were unsuccessful in isolating/analyzing them.
+33	86	191	128	Major product. N-S clevage. Predicted. There were other minor products reported by this reference, howeevr, they were unsuccessful in isolating/analyzing them.
+34	87	191		
+35	88	104		
+36	90	104	210	
+37	91	104	211	2-({[(4,6-dimethoxypyrimidin-2-yl)carbamoyl]aminosulfonyl}methyl)benzoic acid
+38	95	104	212	
+39	96	104	213	IN-J290. Sulfonyl urea hydrolysis
+40	97	104	213	IN-J290. Sulfonyl urea hydrolysis. Bensulfuron at pH7 was stable for a 30 day period
+41	98	104	214	IN-R9419. Carboxylic acid hydrolysis product; major. Sulfonyl urea hydrolysis products are minor products
+42	99	104	211	
+43	100	104	215	IN-N5297. Sulfonyl urea hydrolysis
+44	101	104	215	IN-N5297. Sulfonyl urea hydrolysis.  Bensulfuron at pH7 was stable for a 30 day period
+45	102	104		
+46	103	104	212	
+47	105	104	216	H1 (major product). it’s the deaminated degradation product of N,N-dimethyl-2-(sulfamoylamino)benzamide i.e. H2 
+48	106	104	216	H1.major product. it’s the deaminated degradation product of N,N-dimethyl-2-(sulfamoylamino)benzamide i.e. H2 
+49	109	104	217	H2 (minor product). sulfonyl urea hydrolysis product.
+50	110	104	217	H2 (minor product). sulfonyl urea hydrolysis product
+51	113	104	218	H4. Minor Product. Degradation product of H2
+52	114	104	218	H4. major Product. Degradation product of H2
+53	116	188		
+54	117	188		
+55	120	187	219	N-S cleavage product
+56	122	187		
+57	123	187	219	
+58	127	187	220	
+59	131	187	221	
+60	135	187	222	
+61	136	121		
+62	139	121	223	
+63	140	122	224	"in one month: ""pH 3. at 25°C:4.6% carbetamide degraded, main degradation product : oxazolone (<3%). pH 3. at 35°C : 14 % carbetamide degraded, main degradation product : oxazolone (8%)"""
+64	141	122	225	"in one month: ""pH 6. at 25°C:8.4% carbetamide degraded, main degradation product : carbetamide acid (4.3%). pH 6. at 35°C : 24.5% carbetamide degraded, main degradation product : carbetamide acid (17%)"""
+65	142	122	227	"""PH 9. at 25°C:61% carbetamide degraded,main degradation products :aniline (38%), carbetamide acid(15%) pH 9 at35°C: 95% carbetaide degraded, main degradation products :aniline (63%), carbetamide acid (23%)"""
+66	143	122	227	
+67	144	122		"half life was not calculated, reported as ""stable"""
+68	146	122	225	
+69	147	122	225	
+70	148	122		
+71	151	122	228	
+72	152	185	128	This is the only major metabolite reported by demelo paper and by umetsu
+73	155	185	128	
+74	156	185	229	minor product reported by umetsu  at pH 3 and pH 5
+75	157	185		
+76	160	185	230	minor product reported by umetsu  at pH 3, 5, 7 and 9.
+77	164	185	231	reported by EFSA 2004. 
+78	168	137		
+79	171	137	232	
+80	172	189		
+81	176	35		
+82	179	35	233	
+83	180	126		
+84	183	126	234	
+85	187	126	235	
+86	188	50		
+87	191	50	236	
+88	192	100		
+89	195	100	237	
+90	196	148	238	
+91	197	148	238	IN D7556
+92	199	148		
+93	200	148	239	it results from a subsequent degradation  from one of sulfonyl urea hydrolysis products
+94	201	148	239	IN 00581. it results from a subsequent degradation  from one of sulfonyl urea hydrolysis products(IN-D5803); only observed at higher temps for pH7
+95	202	148	239	IN 00581. it results from a subsequent degradation  from one of sulfonyl urea hydrolysis products (IN-D5803); only observed at higher temps for pH9
+96	204	148		no ester hydrolysis product observed
+97	205	148	193	IN-D5803
+98	206	148	193	IN-D5803. only observed at 50deg; at higher temp its all IN 00581
+99	212	90		
+100	215	90		
+101	216	161		
+102	218	161	240	lactone hydrolysis product. No carboxylic ester hydrolysis products reported with NaOH as base
+103	220	155		
+104	223	155	241	
+105	227	155	242	
+106	228	180		
+107	230	180	243	Nitrile hydrolysis is the main route followed by sequential amide hydrolysis
+108	232	153	244	sulfonyl urea products
+109	233	153	245	It is a product formed by ester hydrolysis followed by ring contraction. Such ring contraction reactions are unfrequently observed in addition to our typical sulfonyl urea pathway and other papers have reported this as well (Zheng, Wei, Yates, Scott, and Papiernik, Sharon .J. Agric. Food Chem. 2008, 56, 7367–7372)
+110	235	153		
+111	236	153	213	sulfonyl urea products
+112	240	153	245	. It is a product formed by ester hydrolysis followed by ring contraction. Such ring contraction reactions are unfrequently observed in addition to our typical sulfonyl urea pathway and other papers have reported this as well (Zheng, Wei, Yates, Scott, and Papiernik, Sharon .J. Agric. Food Chem. 2008, 56, 7367–7372)
+113	244	153	246	bridge contraction product
+114	248	101		
+115	251	101	247	
+116	252	186		
+117	255	186	248	
+118	256	134		
+119	257	134		detailed product study not performed; isolated products included sulfonyl urea hydrolysis products
+120	259	134	249	
+121	264	134		sulfonyl urea hydrolysis products
+122	270	134		Ring contraction product observed at basic pH; 
+123	272	134		
+124	274	134		detailed product study not performed; isolated products included sulfonyl urea hydrolysis products
+125	275	134	249	
+126	282	134		Ring contraction product observed at basic pH; 
+127	284	146		
+128	287	146	250	
+129	291	146	251	
+130	292	167		
+131	294	167	252	in alkaline solutions of pH 8.3 to 12, iprodione yields quantitatively and irreversibly the corresponding hydantoic acid. This product is a daughter degradation product from imide hydrolysis
+132	296	92		
+133	299	92		
+134	300	102		
+135	303	102	253	
+136	304	114		
+137	307	114	254	
+138	311	114	255	
+139	312	119		
+140	315	119	256	
+141	316	120		
+142	319	120	257	
+143	320	89		
+144	323	89		
+145	324	135	258	sulfonyl urea hydrolysis products
+146	325	135		
+147	328	190		
+148	331	190	259	
+149	335	190	260	
+150	339	190	261	
+151	343	190	262	
+152	344	105		
+153	347	105	263	
+154	348	138	213	sulfonyl urea hydrolysis products
+155	349	138		
+156	352	138	264	sulfonyl urea hydrolysis products
+157	355	138	265	
+158	356	33		
+159	359	33	266	
+160	360	93		
+161	363	93		
+162	364	49		
+163	367	49	267	
+164	368	116		
+165	371	116	268	
+166	372	98		
+167	375	98	269	
+168	376	91		
+169	379	91		
+170	380	145		sulfonyl urea hydrolysis products
+171	381	145		
+172	382	145		sulfonyl urea hydrolysis as well as bridge contraction products just like in case of halosulfuron
+173	383	145	270	
+174	387	145	271	
+175	388	145		
+176	391	145	270	
+177	394	145		sulfonyl urea hydrolysis as well as bridge contraction products just like in case of halosulfuron
+178	395	145	271	
+179	396	154		
+180	399	154	272	
+181	403	154	273	
+182	404	156	274	carbonate hydrolysis product
+183	407	156		
+184	408	117		
+185	411	117	275	
+186	415	117	276	
+187	416	139	277	sulfonyl urea hydrolysis products
+188	419	139	278	
+189	420	139	279	sulfonyl urea hydrolysis products
+190	423	139		
+191	425	139	280	ester hydrolysis product (detected at <5% at 50 degC at pH 7 and 9.)
+192	431	139	281	
+193	432	192	282	N-S cleavage product.  ~20% formed after 30 days 
+194	433	192	282	N-S cleavage product. ~36% formed after 30 days 
+195	434	192	282	N-S cleavage product. Predicted. ~18% formed after 30 days 
+196	435	192	282	
+197	436	192	283	methomyl hydrolysis product (carbamate); predicted as a 2nd Gen. minor product
+198	438	192	283	methomyl hydrolysis product (carbamate); predicted but as a 2nd Gen.~76% formed.
+199	439	192		
+200	440	51		
+201	443	51	284	
+202	444	152		
+203	445	152	285	IN-R9803.  Fig 8.4.4a, distribution% not reported; Venzon 1985 . Ester hydrolysis product. 
+204	449	152	286	IN-L5296. Fig 8.4.4a. sulfonyl urea product.
+205	453	152	193	IN-D5803. major product as reported by Venzon 1985 in B8.4.1. Sulfonyl urea product.
+206	457	152	287	 Fig 8.4.4a
+207	460	113		
+208	463	113	288	
+209	464	136		sulfonyl urea hydrolysis products
+210	466	136		
+211	467	136	289	
+212	471	136	290	
+213	472	99		
+214	475	99	291	
+215	476	103		
+216	477	103	292	carboxylic acid ester hydrolysis
+217	479	103	292	
+218	480	170	294	this is actual imide hydrolysis product
+219	483	170		
+220	484	170	295	this is more of a carbamate hydrolysis, and this subsequently get hydrolyzed too into 3,5-Dichloroaniline
+221	488	170	296	2nd Gen product (carbamate hydrolysis)
+222	492	147		
+223	495	147	297	
+224	499	147	298	
+225	500	94		
+226	503	94	299	
+227	507	94	300	
+228	508	127		
+229	511	127	301	
+230	512	128		
+231	515	128	302	
+232	516	96		
+233	519	96	303	
+234	520	47		
+235	523	47	304	
+236	524	48		
+237	527	48	305	
+238	528	95		carboxylic acid hydrolysis products
+239	529	95		
+240	531	95	306	
+241	536	143		sulfonyl urea products
+242	537	143		
+243	540	34		
+244	543	34	307	
+245	544	130		
+246	545	130	308	"""Oxamyl degraded quantitatively to IN-A2213 (oxime), which represented 52% AR by day 8 and 93.2% AR by day 30 at pH 7, and 49% AR after 3 hrs, 83% AR after 7 hrs and 105.6% AR by day 15 at pH 9 (Table 8.4.1.1-2 and Table 8.4.1.1-3). No other degradation products"" were observed"
+247	548	45		
+248	551	45	309	
+249	555	45	310	
+250	556	151		
+251	557	151		

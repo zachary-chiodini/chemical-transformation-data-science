@@ -1,0 +1,312 @@
+	id	name	smiles
+0	0	allyl chloride	C=CCCl
+1	1	chloromethane	CCl
+2	2	chloroethane	CCCl
+3	3	2-chloropropane	CC(C)Cl
+4	4	2-Chloro-2-methylpropane	CC(C)(C)Cl
+5	5	Cis-1,4-dichloro-2-butene	C(=CCCl)CCl
+6	6	Trans-1,4-dichloro-2-butene	C(=CCCl)CCl
+7	7	cis-1,3-dichloropropene	C(/C=C\Cl)Cl
+8	8	trans-1,3-dichloropropene	C(/C=C/Cl)Cl
+9	9	allyl bromide	C=CCBr
+10	10	1-bromo-3-phenylpropane	C1=CC=C(C=C1)CCCBr
+11	11	1-Bromoheptane	CCCCCCCBr
+12	12	bromomethane	CBr
+13	13	bromoethane	CCBr
+14	14	2-bromopropane	CC(C)Br
+15	15	1-Bromopropane	CCCBr
+16	16	1-Bromohexane	CCCCCCBr
+17	17	3-bromohexane	CCCC(CC)Br
+18	18	3,3-bis(bromomethyl)oxetane	BrCC1(CBr)COC1
+19	19	allyl iodide	C=CCI
+20	20	iodomethane	CI
+21	21	iodoethane	CCI
+22	22	2-iodopropane	CC(C)I
+23	23	1,2-Dichloroethane	C(CCl)Cl
+24	24	methylene chloride	C(Cl)Cl
+25	25	chloroform	C(Cl)(Cl)Cl
+26	26	carbon tetrachloride	ClC(Cl)(Cl)Cl
+27	27	Trichloroethane	CC(Cl)(Cl)Cl
+28	28	tribromomethane	C(Br)(Br)Br
+29	29	1,2-Dibromopropane	CC(CBr)Br
+30	30	1,3-dibromopropane	C(CBr)CBr
+31	31	2,2-Dibromopropane	BrC(Br)(C)C
+32	32	1,1-Dichloroethane	CC(Cl)Cl
+33	33	Pentachloroethane	C(C(Cl)(Cl)Cl)(Cl)Cl
+34	34	methoxychlor	COC1=CC=C(C=C1)C(C2=CC=C(C=C2)OC)C(Cl)(Cl)Cl
+35	35	DDT	C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)C(Cl)(Cl)Cl)Cl
+36	36	1,1,2,2-Tetrachloroethane	C(C(Cl)Cl)(Cl)Cl
+37	37	2,2-Dichloropropane	CC(C)(Cl)Cl
+38	38	(1aR,6R,7S,7aS)‐1aH,6H,7H,7aH‐naphtho[1,2‐b]oxirene‐6,7‐diol	O[C@@H]1[C@@H]2O[C@@H]2C2=C(C=CC=C2)[C@H]1O
+39	39	7‐oxabicyclo[4.1.0]hept‐2‐ene	C1CC2OC2C=C1
+40	40	(2Z)-9-oxabicyclo[6.1.0]non-2-ene	C1CCC2OC2\C=C/C1
+41	41	(3S,5R,6S,7R)-4-oxahexacyclo[11.6.2.0²,⁸.0³,⁵.0¹⁰,²⁰.0¹⁷,²¹]henicosa-1(19),2(8),9,11,13,15,17,20-octaene-6,7-diol	O[C@@H]1[C@H]2O[C@H]2C2=C(C=C3C=CC4=CC=CC5=CC=C2C3=C45)[C@H]1O
+42	42	(3R,5S,6S,7R)‐4‐oxahexacyclo[11.6.2.0²,⁸.0³,⁵.0¹⁰,²⁰.0¹⁷,²¹]henicosa‐1(20),2(8),9,11,13,15,17(21),18‐octaene‐6,7‐diol	O[C@@H]1[C@@H]2O[C@@H]2C2=C(C=C3C=CC4=CC=CC5=C4C3=C2C=C5)[C@H]1O
+43	43	Ethylene oxide	C1CO1
+44	44	propylene oxide	CC1CO1
+45	45	phosmet	COP(=S)(OC)SCN1C(=O)C2=CC=CC=C2C1=O
+46	46	chlorpyrifos	CCOP(=S)(OCC)OC1=NC(=C(C=C1Cl)Cl)Cl
+47	47	fenamiphos	CCOP(=O)(NC(C)C)OC1=CC(C)=C(SC)C=C1
+48	48	fenitrothion	COP(=S)(OC)OC1=CC(C)=C(C=C1)N(=O)=O
+49	49	Pirimiphos-methyl	CCN(CC)C1=NC(=CC(=N1)OP(=S)(OC)OC)C
+50	50	Dichlorvos	COP(=O)(OC)OC=C(Cl)Cl
+51	51	Tolclfos-methyl	CC1=CC(=C(C(=C1)Cl)OP(=S)(OC)OC)Cl
+52	52	pyraclofos	CCCSP(=O)(OCC)Oc1cnn(c1)c2ccc(cc2)Cl
+53	53	Iprobenfos	CC(C)OP(=O)(OC(C)C)SCc1ccccc1
+54	54	Diazinon	CCOP(=S)(OCC)Oc1cc(nc(n1)C(C)C)C
+55	55	Triazophos	CCOP(=S)(OCC)Oc1ncn(n1)c2ccccc2
+56	56	Profenofos	CCCSP(=O)(OCC)Oc1ccc(cc1Cl)Br
+57	57	chlorfenvinphos	CCOP(=O)(OCC)O/C(=C/Cl)/c1ccc(cc1Cl)Cl
+58	58	tetrachlorvinphos	COOP(=O)(O/C(=C\Cl)/c1cc(c(cc1Cl)Cl)Cl)OOC
+59	59	monocrotophos	C/C(=C\C(=N\C)\O)/OP(=O)(OC)OC
+60	60	Oxydemeton-methyl	CCS(=O)CCSP(=O)(OC)OC
+61	61	Phorate	CCOP(=S)(OCC)SCSCC
+62	62	Naled	COP(=O)(OC)OC(C(Cl)(Cl)Br)Br
+63	63	Phosgene	C(=O)(Cl)Cl
+64	64	Formyl chloride	C(=O)Cl
+65	65	Acetyl chloride	CC(=O)Cl
+66	66	Chloroacetyl chloride	C(C(=O)Cl)Cl
+67	67	Dichloroacetyl chloride	C(C(=O)Cl)(Cl)Cl
+68	68	Trichloroacetyl chloride	C(=O)(C(Cl)(Cl)Cl)Cl
+69	69	Oxalyl dichloride	C(=O)(C(=O)Cl)Cl
+70	70	Succinyl dichloride	C(CC(=O)Cl)C(=O)Cl
+71	71	Methyl thiochloroformate	CSC(Cl)=O
+72	72	chloro(ethylsulfanyl)methanone	CCSC(Cl)=O
+73	73	chloro(isopropylsulfanyl)methanone	CC(C)SC(Cl)=O
+74	74	phenyl thiochloroformate	ClC(=O)SC1=CC=CC=C1
+75	75	S-propyl chlorothioformate	CCCSC(Cl)=O
+76	76	Benzoyl fluoride	FC(=O)C1=CC=CC=C1
+77	77	Benzoyl chloride	ClC(=O)C1=CC=CC=C1
+78	78	3-chlorobenzoyl fluoride	FC(=O)C1=CC(Cl)=CC=C1
+79	79	3-chlorobenzoyl chloride	ClC(=O)C1=CC(Cl)=CC=C1
+80	80	3-(trifluoromethyl)benzoyl chloride	FC(F)(F)C1=CC=CC(=C1)C(Cl)=O
+81	81	4-nitrobenzoyl fluoride	[O-][N+](=O)C1=CC=C(C=C1)C(F)=O
+82	82	4-nitrobenzoyl chloride	[O-][N+](=O)C1=CC=C(C=C1)C(Cl)=O
+83	83	4-methoxybenzoyl fluoride	COC1=CC=C(C=C1)C(F)=O
+84	84	3-methoxybenzoyl fluoride	COC1=CC=CC(=C1)C(F)=O
+85	85	3-methoxybenzoyl chloride	COC1=CC=CC(=C1)C(Cl)=O
+86	86	4-methylbenzoyl fluoride	CC1=CC=C(C=C1)C(F)=O
+87	87	4-(dimethylamino)benzoyl fluoride	CN(C)C1=CC=C(C=C1)C(F)=O
+88	88	4-(dimethylamino)benzoyl chloride	CN(C)C1=CC=C(C=C1)C(Cl)=O
+89	89	Methyl Chloroformate	COC(=O)Cl
+90	90	Ethyl Chloroformate	CCOC(=O)Cl
+91	91	Propyl Chloroformate	CCCOC(=O)Cl
+92	92	Isopropyl Chloroformate	CC(C)OC(=O)Cl
+93	93	Phenyl Chloroformate	c1ccc(cc1)OC(=O)Cl
+94	94	bis(2-ethylhexyl) phthalate	CCCCC(CC)COC(=O)C1=CC=CC=C1C(=O)OCC(CC)CCCC
+95	95	fenpropathrin	CC1(C)C(C(=O)OC(C#N)C2=CC(OC3=CC=CC=C3)=CC=C2)C1(C)C
+96	96	chlorobenzilate	CCOC(=O)C(O)(C1=CC=C(Cl)C=C1)C1=CC=C(Cl)C=C1
+97	97	2,5-dichlorobenzoic acid methylester	COC(=O)c1cc(ccc1Cl)Cl
+98	98	Propaquizafop	[H][C@](C)(OC1=CC=C(OC2=CN=C3C=C(Cl)C=CC3=N2)C=C1)C(=O)OCCON=C(C)C
+99	99	Trinexapac	CCOC(=O)C1CC(=O)C(=C(C2CC2)O)C(=O)C1
+100	100	Diclofop-methyl	CC(C(=O)OC)Oc1ccc(cc1)Oc2ccc(cc2Cl)Cl
+101	101	Fluroxypyr	CCCCCCC(C)OC(=O)COc1c(c(c(c(n1)F)Cl)N)Cl
+102	102	Kresoxim-methyl	Cc1ccccc1OCc2ccccc2/C(=N/OC)/C(=O)OC
+103	103	Valifenalate	COC(=O)CC(NC(=O)[C@@H](NC(=O)OC(C)C)C(C)C)c1ccc(Cl)cc1
+104	104	Bensulfuron-methyl	COC(=O)c1ccccc1CS(=O)(=O)NC(=O)Nc1nc(OC)cc(OC)n1
+105	105	Naphtho(2,3-c)furan-1,3-dione	c1ccc2cc3c(cc2c1)C(=O)OC3=O
+106	106	3,6-dimethylphthalic anhydride	Cc1ccc(c2c1C(=O)OC2=O)C
+107	107	acetic anydride	CC(=O)OC(=O)C
+108	108	Trimethylacetic anhydride	CC(C)(C)C(=O)OC(=O)C(C)(C)C
+109	109	Succinic anhydride	C1CC(=O)OC1=O
+110	110	Glutaric anhydride	C1CC(=O)OC(=O)C1
+111	111	Maleic anhydride	C1=CC(=O)OC1=O
+112	112	Tetramethylsuccinic anhydride	CC1(C(=O)OC(=O)C1(C)C)C
+113	113	Triflumuron	FC(F)(F)OC1=CC=C(NC(=O)NC(=O)C2=CC=CC=C2Cl)C=C1
+114	114	Lufenuron	FC(C(F)(F)F)C(F)(F)OC1=C(Cl)C=C(NC(=O)NC(=O)C2=C(F)C=CC=C2F)C(Cl)=C1
+115	115	Flufenoxuron	FC1=CC=CC(F)=C1C(=O)NC(=O)NC1=C(F)C=C(OC2=C(Cl)C=C(C=C2)C(F)(F)F)C=C1
+116	116	Propanil	CCC(=O)NC1=CC(Cl)=C(Cl)C=C1
+117	117	Teflubenzuron	FC1=CC=CC(F)=C1C(=O)NC(=O)NC1=CC(Cl)=C(F)C(Cl)=C1F
+118	118	Novaluron	FC(OC(F)(F)F)C(F)(F)OC1=C(Cl)C=C(NC(=O)NC(=O)C2=C(F)C=CC=C2F)C=C1
+119	119	Methiocarb	CNC(=O)OC1=CC(C)=C(SC)C(C)=C1
+120	120	Methomyl	CNC(=O)ON=C(C)SC
+121	121	Carbendazim	COC(=O)NC1=NC2=CC=CC=C2N1
+122	122	Carbetamide	O=C(OC(C(=O)NCC)C)Nc1ccccc1
+123	123	Ethyl dimethylcarbamate	CCOC(=O)N(C)C
+124	124	Ethiofencarb	CCSCc1ccccc1OC(=O)NC
+125	125	Bendiocarb	CC1(Oc2cccc(c2O1)OC(=O)NC)C
+126	126	Desmedipham	CCOC(=O)Nc1cccc(c1)OC(=O)Nc2ccccc2
+127	127	carbaryl	CNC(=O)Oc1cccc2c1cccc2
+128	128	carbofuran	CC1(Cc2cccc(c2O1)OC(=O)NC)C
+129	129	Baygon	CC(C)OC1=CC=CC=C1OC(=O)NC
+130	130	oxamyl	CNC(=O)ON=C(C(=O)N(C)C)SC
+131	131	Aldicarb	O=C(O\N=C\C(SC)(C)C)NC
+132	132	Isoproturon	CC(C)C1=CC=C(C=C1)NC(=O)N(C)C
+133	133	Pencycuron	c1ccc(cc1)NC(=O)N(Cc2ccc(cc2)Cl)C3CCCC3
+134	134	Halosulfuron-methyl	COC(=O)C1=C(N(C)N=C1Cl)S(=O)(=O)NC(=O)NC1=NC(OC)=CC(OC)=N1
+135	135	Metsulfuron-methyl	COC(=O)C1=C(C=CC=C1)S(=O)(=O)NC(=O)NC1=NC(C)=NC(OC)=N1
+136	136	Triflusulfuron-methyl	CN(C)C1=NC(NC(=O)NS(=O)(=O)C2=C(C=CC=C2C)C(O)=O)=NC(OCC(F)(F)F)=N1
+137	137	Chlorsulfuron	COC1=NC(C)=NC(NC(=O)NS(=O)(=O)C2=CC=CC=C2Cl)=N1
+138	138	Nicosulfuron	COC1=CC(OC)=NC(NC(=O)NS(=O)(=O)C2=C(C=CC=N2)C(=O)N(C)C)=N1
+139	139	Thiencarbazone-methyl	COC(=O)c1csc(C)c1S(=O)(=O)NC(=O)N1N=C(OC)N(C)C1=O
+140	140	Azimsulfuron	COC1=CC(OC)=NC(NC(=O)NS(=O)(=O)C2=C(C=NN2C)C2=NN(C)N=N2)=N1
+141	141	sulfosulfuron	CCS(=O)(=O)c1c(n2ccccc2n1)S(=O)(=O)NC(=O)Nc3nc(cc(n3)OC)OC
+142	142	Orthosulfamuron	CN(C)C(=O)C1=CC=CC=C1NS(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC
+143	143	foramsulfuron	CN(C)C(=O)C1=C(C=C(C=C1)NC=O)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC
+144	144	Cinosulfuron	COCCOC1=CC=CC=C1S(=O)(=O)NC(=O)NC2=NC(=NC(=N2)OC)OC
+145	145	Pyrazosulfuron-ethyl	CCOC(=O)C1=C(N(N=C1)C)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC
+146	146	Imazosulfuron	COc1cc(nc(n1)NC(=O)NS(=O)(=O)C2C(=NC3=CC=CCN23)Cl)OC
+147	147	amidosulfuron	CN(S(=O)(=O)C)S(=O)(=O)NC(=O)NC1=NC(=CC(=N1)OC)OC
+148	148	Ethametsulfuron methyl	CCOC1=NC(=NC(=N1)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC)NC
+149	149	Prosulfuron	CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=CC=CC=C2CCC(F)(F)F
+150	150	 primisulfuron methyl	COC(=O)C1=CC=CC=C1S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC(F)F)OC(F)F
+151	151	thifensulfuron methyl	CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=C(SC=C2)C(=O)OC
+152	152	Tribenuron	CC1=NC(=NC(=N1)OC)N(C)C(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC
+153	153	Flupyrsulfuron-methyl	COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=C(C=CC(=N2)C(F)(F)F)C(=O)OC)OC
+154	154	Rimsulfuron	CCS(=O)(=O)c1cccnc1S(=O)(=O)NC(=O)Nc1nc(OC)cc(OC)n1
+155	155	Flazasulfuron	COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=C(C=CC=N2)C(F)(F)F)OC
+156	156	Spirotetramat	CCOC(=O)OC1=C(C(=O)N[C@@]12CC[C@@H](CC2)OC)c3c(ccc(c3)C)C
+157	157	Propylene carbonate	CC1COC(=O)O1
+158	158	3-[({[(2-Methyl-2-propanyl)peroxy]carbonyl}oxy)methyl]heptane	CCCCC(CC)COC(=O)OOC(C)(C)C
+159	159	Coumarin	c1ccc2c(c1)ccc(=O)o2
+160	160	thiocoumarin	c1ccc2c(c1)ccc(=S)o2
+161	161	Ethyl coumarin-3-carbaoxylate	CCOC(=O)c1cc2ccccc2oc1=O
+162	162	3-chloro coumarin	c1ccc2c(c1)cc(c(=O)o2)Cl
+163	163	2-furanone	C1C=COC1=O
+164	164	3-(m‐nitrophenyl)‐3‐methoxyphthalide	COC1(OC(=O)C2=C1C=CC=C2)C1=CC=CC(=C1)N(=O)=O
+165	165	3-phenylcoumaran-2-one	c1ccc(cc1)C2c3ccccc3OC2=O
+166	166	β-Butyrolactone	CC1CC(=O)O1
+167	167	Iprodione	CC(C)NC(=O)N1CC(=O)N(C1=O)c2cc(cc(c2)Cl)Cl
+168	168	N-phenylnaphthalimide	O=C1N(C(=O)C2=C1C=CC=C2)C1=CC=CC=C1
+169	169	N-(o-carboxyphenyl)-phthalimide	c1ccc2c(c1)C(=O)N(C2=O)c3ccccc3C(=O)O
+170	170	Vinclozolin	CC1(C(=O)N(C(=O)O1)c2cc(cc(c2)Cl)Cl)C=C
+171	171	benzonitrile	N#CC1=CC=CC=C1
+172	172	p-Chlorobenzonitrile	c1cc(ccc1C#N)Cl
+173	173	 1,10‐phenanthroline‐2‐carbonitrile	N#CC1=CC=C2C=CC3=CC=CN=C3C2=N1
+174	174	acetonitrile	CC#N
+175	175	Trichloroacetonitrile	C(#N)C(Cl)(Cl)Cl
+176	176	Bromo(dichloro)acetonitrile	C(#N)C(Cl)(Cl)Br
+177	177	Dibromochloroacetonitrile	C(#N)C(Cl)(Br)Br
+178	178	Tribromoacetonitrile	C(#N)C(Br)(Br)Br
+179	179	Dichloroacetonitrile	C(#N)C(Cl)Cl
+180	180	Flonicamid	FC(F)(F)C1=CC=NC=C1C(=O)NCC#N
+181	181	azetidin‐2‐one	O=C1CCN1
+182	182	piperidin‐2‐one	O=C1CCCCN1
+183	183	azepan‐2‐one	O=C1CCCCCN1
+184	184	pyrrolidin‐2‐one	O=C1CCCN1
+185	185	Carbosulfan	CCCCN(CCCC)SN(C)C(=O)Oc1cccc2c1OC(C2)(C)C
+186	186	Folpet	c1ccc2c(c1)C(=O)N(C2=O)SC(Cl)(Cl)Cl
+187	187	Captan	C1C=CCC2C1C(=O)N(C2=O)SC(Cl)(Cl)Cl
+188	188	Captafol	C1C=CCC2C1C(=O)N(C2=O)SC(C(Cl)Cl)(Cl)Cl
+189	189	Cyclohexylthiophthalimide	C1CCC(CC1)SN2C(=O)C3=CC=CC=C3C2=O
+190	190	N-tert-butylbenzothiazole-2-sulphenamide	CC(C)(C)NSC1=NC2=CC=CC=C2S1
+191	191	Benfuracarb	CCOC(=O)CCN(SN(C)C(=O)OC1=CC=CC2=C1OC(C)(C)C2)C(C)C
+192	192	Thiodicarb	C/C(=N\OC(=O)N(SN(C(=O)O/N=C(/SC)\C)C)C)/SC
+193	193	methyl 2-sulfamoylbenzoate	COC(=O)C1=CC=CC=C1S(N)(=O)=O |c:6,8,t:4|
+194	194	methyl 2-sulfamoylbenzoate	COC(=O)C1=CC=CC=C1S(N)(=O)=O
+195	195	4,6-bis(difluoromethoxy)pyrimidin-2-amine	NC1=NC(OC(F)F)=CC(OC(F)F)=N1
+196	196	2-({[4,6-bis(difluoromethoxy)pyrimidin-2-yl]carbamoyl}aminosulfonyl)benzoic acid	OC(=O)C1=CC=CC=C1S(=O)(=O)NC(=O)NC1=NC(OC(F)F)=CC(OC(F)F)=N1
+197	197	(3Z)‐cyclooct‐3‐ene‐1,2‐diol	OC1CCCC\C=C/C1O
+198	198	(2Z)-cyclooct-2-ene-1,4-diol	OC1CCCCC(O)\C=C/1
+199	199	(2Z,4Z)-cycloocta-2,4-dien-1-ol	OC1CCC\C=C/C=C\1
+200	200	1,1,2-Trichloroethene	C(=C(Cl)Cl)Cl
+201	201	ethylene glycol	
+202	202	Chloroethene	
+203	203	2-bromopropene	
+204	204	[3‐(bromomethyl)oxetan‐3‐yl]methanol	OCC1(CBr)COC1
+205	205	cyclohex‐3‐ene‐1,2‐diol	OC1CCC=CC1O
+206	206	cyclohex-2-ene-1,4-diol	OC1CCC(O)C=C1
+207	207	IN-J290	COC1=CC(OC)=NC(N)=N1
+208	208	IN-A8342	CN1N=NC(=N1)C1=C(N(C)N=C1)S(N)(=O)=O
+209	209	2,3-Isopropylidene dioxyphenol	CC1(Oc2cccc(c2O1)O)C
+210	210	COC1=CC(OC)=NC(NC(=O)NS(=O)(=O)CC2=CC=CC=C2C(O)=O)=N1	IN-R9419. Carboxylic acid hydrolysis product; major. Sulfonyl urea hydrolysis products are minor products
+211	211	Pyrimidine amine	COc1cc(OC)nc(N)n1
+212	212	sulphonamine	COC(=O)c1ccccc1CS(N)(=O)=O
+213	213	4,6-dimethoxypyrimidin-2-amine	COC1=CC(OC)=NC(N)=N1
+214	214	2-({[(4,6-dimethoxypyrimidin-2-yl)carbamoyl]aminosulfonyl}methyl)benzoic acid	COC1=CC(OC)=NC(NC(=O)NS(=O)(=O)CC2=CC=CC=C2C(O)=O)=N1
+215	215	methyl 2-(sulfamoylmethyl)benzoate	COC(=O)C1=CC=CC=C1CS(N)(=O)=O
+216	216	N-[2-(dimethylcarbamoyl)phenyl]sulfamic acid	CN(C)C(=O)C1=CC=CC=C1NS(O)(=O)=O
+217	217	N,N-dimethyl-2-(sulfamoylamino)benzamide	CN(C)C(=O)C1=CC=CC=C1NS(N)(=O)=O
+218	218	2-amino-N,N-dimethylbenzamide	CN(C)C(=O)C1=CC=CC=C1N
+219	219	4-cyclohexene-1,2-dicarboximide	C1C=CCC2C1C(=O)NC2=O
+220	220	carbon dioxide	
+221	221	hydrochloric acid	
+222	222	sulfur	
+223	223	2-aminobenzimidazole	NC1=NC2=CC=CC=C2N1
+224	224	oxazolone	c1coc(=O)[nH]1
+225	225	carbetamide acid	CC(OC(=O)NC1=CC=CC=C1)C(O)=O |c:8,10,t:6|
+226	226	carbetamide acid	CC(OC(=O)NC1=CC=CC=C1)C(O)=O
+227	227	Aniline	Nc1ccccc1
+228	228	Methomyl oxime	C/C(=N\O)/SC
+229	229	2,2-dimethyl-3H-1-benzofuran-7-yl N-(dibutylsulfamoyl)-N-methylcarbamate	CCCCN(CCCC)S(=O)(=O)N(C)C(=O)Oc1cccc2CC(C)(C)Oc12
+230	230	2,2-dimethyl-3H-1-benzofuran-7-yl N-[({[(2,2-dimethyl-3H-1-benzofuran-7-yl)oxy]carbonyl}(methyl)amino)disulfanyl]-N-methylcarbamate	CN(SSN(C)C(=O)Oc1cccc2CC(C)(C)Oc12)C(=O)Oc1cccc2CC(C)(C)Oc12
+231	231	dibutylamine	CCCCNCCCC
+232	232	chlorsulfuron_03000	NS(=O)(=O)C1=CC=CC=C1Cl
+233	233	dichlorodiphenyldichloroethylene	C1=CC(=CC=C1C(=C(Cl)Cl)C2=CC=C(C=C2)Cl)Cl
+234	234	aniline	C1=CC=C(C=C1)N
+235	235	EHPC	CCOC(=O)Nc1cccc(c1)O
+236	236	Dimethylphosphate	COP(O)(=O)OC
+237	237	Not identified	CC(C(=O)O)Oc1ccc(cc1)Oc2ccc(cc2Cl)Cl
+238	238	6-ethoxy-2-N-methyl-1,3,5-triazine-2,4-diamine	CCOC1=NC(NC)=NC(N)=N1
+239	239	saccharine	O=C1NS(=O)(=O)C2=C1C=CC=C2 |c:6,9,11|
+240	240	(2E)-2-(ethoxycarbonyl)-3-(2-hydroxyphenyl)prop-2-enoic acid	CCOC(=O)c(:c:c1ccccc1:o):[c](O)=O
+241	241	TPSA	NS(=O)(=O)C1=C(C=CC=N1)C(F)(F)F
+242	242	ADMP	COC1=CC(OC)=NC(N)=N1
+243	243	2-{[4-(trifluoromethyl)pyridin-3-yl]formamido}acetamide	NC(=O)CNC(=O)C1=CN=CC=C1C(F)(F)F
+244	244	methyl 2-sulfamoyl-6-(trifluoromethyl)pyridine-3-carboxylate	COC(=O)C1=C(N=C(C=C1)C(F)(F)F)S(N)(=O)=O
+245	245	1-(4,6-dimethoxypyrimidin-2-yl)-7-(trifluoromethyl)-3H-pyrido[2,3-d]pyrimidine-2,4-dione	COC1=CC(OC)=NC(=N1)N1C(=O)NC(=O)C2=C1N=C(C=C2)C(F)(F)F
+246	246	methyl 2-[1-(4,6-dimethoxypyrimidin-2-yl)carbamoylamino]-6-(trifluoromethyl)pyridine-3-carboxylate	COC(=O)C1=C(N=C(C=C1)C(F)(F)F)N(C(N)=O)C1=NC(OC)=CC(OC)=N1
+247	247	Fluroxypyr acid	C(C(=O)O)Oc1c(c(c(c(n1)F)Cl)N)Cl
+248	248	phthalimide	
+249	249	Halosulfuron-methyl rearrangement	COC(=O)C1=C(NC2=NC(OC)=CC(OC)=N2)N(C)N=C1Cl
+250	250	Imidazolyl (IM) ring	NS(=O)(=O)C1N2CC=CC=C2N=C1Cl
+251	251	Pyrimidinyl (PM) ring	COc1cc(OC)nc(N)n1
+252	252	hydantoic acid	C(C(=O)O)NC(=O)N
+253	253	Kresoxim-methyl, BF-490-1	Cc1ccccc1OCc2ccccc2/C(+n/OC)/C(=O)O
+254	254	Dichlorophenyl-labelled lufenuron	NC(=O)NC1=CC(Cl)=C(OC(F)(F)C(F)C(F)(F)F)C=C1Cl
+255	255	difluorophenyl-labelled lufenuron	OC(=O)C1=C(F)C=CC=C1F
+256	256	Methiocarb-phenol	CSC1=C(C)C=C(O)C=C1C
+257	257	Methomyl-oxime	CSC(C)=NO
+258	258	sulphonamide	
+259	259	mercaptobenzothiazole	
+260	260	di(benzothiazoyl-2)disulfide	
+261	261	tert-butylamine	
+262	262	benzothiazole	
+263	263	naphthalene‐2,3‐dicarboxylic acid	OC(=O)C1=CC2=CC=CC=C2C=C1C(O)=O
+264	264	N,N-dimethyl-2-sulfamoylpyridine-3-carboxamide	CN(C)C(=O)C1=C(N=CC=C1)S(N)(=O)=O
+265	265	ASDM	CN(C)C(=O)C1=C(N=CC=C1)S(N)(=O)=O
+266	266	tetrachloroethene	
+267	267	O-2-diethyl amino-6-methylpyrimidin-4-yl O-methylphosphorothionate	CCN(CC)C1=NC(C)=CC(OP(O)(=S)OC)=N1
+268	268	3,4-Dichloroaniline	NC1=CC(Cl)=C(Cl)C=C1
+269	269	Propaquizafop acid	CC(C(=O)O)Oc1ccc(cc1)Oc2cnc3cc(ccc3n2)Cl
+270	270	Pyrazosulfuron-ethyl_01200	COc1cc(OC)nc(N)n1
+271	271	Pyrazosulfuron-ethyl_01300	CCOC(=O)c1cnn(C)c1S(N)(=O)=O
+272	272	Pyridine	CCS(=O)(=O)c1cccnc1S(N)(=O)=O
+273	273	Pyrimidine	COc1cc(OC)nc(NC(N)=O)n1
+274	274	Spirotetramat-enol	CO[C@H]1CC[C@]2(CC1)NC(=O)C(=C2O)C1=C(C)C=CC(C)=C1
+275	275	2,6-difluorobenzoic acid	OC(=O)C1=C(F)C=CC=C1F
+276	276	(3,5-dichloro-2,4-difluorophenyl)urea	NC(=O)NC1=CC(Cl)=C(F)C(Cl)=C1F
+277	277	5-methoxy-4-methyl-2H-1,2,4-triazol-3-one	COC1=NNC(=O)N1C
+278	278	BYH 18636-MMT	COC1=NNC(=O)N1C
+279	279	methyl 5-methyl-4-sulfamoylthiophene-3-carboxylate	COC(=O)C1=CSC(C)=C1S(N)(=O)=O
+280	280	4-(3-methoxy-4-methyl-5-oxo-1,2,4-triazole-1-carbonylaminosulfonyl)-5-methylthiophene-3-carboxylic acid	COC1=NN(C(=O)NS(=O)(=O)C2=C(C)SC=C2C(O)=O)C(=O)N1C
+281	281	BYH 18636-sulfonamide	COC(=O)c1csc(C)c1S(N)(=O)=O
+282	282	methomyl	CNC(=O)O\N=C(/C)SC
+283	283	methomyl oxime	CS\C(C)=N/O
+284	284	DM-TM	COP(O)(=S)OC1=C(Cl)C=C(C)C=C1Cl
+285	285	2-({[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)(methyl)carbamoyl]amino}sulfonyl)benzoic acid	COC1=NC(C)=NC(=N1)N(C)C(=O)NS(=O)(=O)C1=CC=CC=C1C(O)=O |c:5,7,20,22,t:2,18|
+286	286	4-methoxy-N,6-dimethyl-1,3,5-triazin-2-amine	CNC1=NC(OC)=NC(C)=N1 |c:6,9,t:2|
+287	287	methyl 2-{[(4-hydroxy-6-methyl-1,3,5-triazin-2-yl)(methyl)carbamoyl]aminosulfonyl}benzoate	COC(=O)C1=CC=CC=C1S(=O)(=O)NC(=O)N(C)C1=NC(O)=NC(C)=N1
+288	288	2-chlorobenzoic acid	OC(=O)C1=C(Cl)C=CC=C1
+289	289	Triazine amine	CN(C)c1nc(N)nc(OCC(F)(F)F)n1
+290	290	methyl saccharin	Cc1cccc2C(=O)NS(=O)(=O)c12
+291	291	Trinexapac-acid	C1CC1C(=C2C(=O)CC(CC2=O)C(=O)O)O
+292	292	Valifenalate-acid	CC(C)OC(=O)N[C@@H](C(C)C)C(=O)NC(CC(O)=O)C1=CC=C(Cl)C=C1
+293	293	Valifenalate-acid	CC(C)OC(=O)N[C@@H](C(C)C)C(=O)NC(CC(O)=O)c1ccc(Cl)cc1
+294	294	2-[ [ (3,5-dichlorophenyl)carbamoyl]oxy]-2-methyl-3-butenoic acid	CC(OC(=O)NC1=CC(Cl)=CC(Cl)=C1)(C=C)C(O)=O
+295	295	3’,5’-dichloro-2-hydroxy-2-methylbut-3-enanilide	CC(O)(C=C)C(=O)NC1=CC(Cl)=CC(Cl)=C1
+296	296	3,5-dichloroaniline	NC1=CC(Cl)=CC(Cl)=C1
+297	297	2-amino-4,6-dimethoxypyrimidine	
+298	298	4,6-dimethoxypyrimidine-2-yl-carbamoylamidosulfuric acid	
+299	299	2-ethyl-hexyl hydrogen phthalate	CCCCC(CC)COC(=O)C1=CC=CC=C1C(O)=O
+300	300	2-ethylhexyl alcohol	CCCCC(CC)CO
+301	301	1-naphthol	c1ccc2c(c1)cccc2O
+302	302	carbofuran-phenol	CC1(Cc2cccc(c2O1)O)C
+303	303	chlorobenzilate acid	OC([C-]=O)(C1=CC=C(Cl)C=C1)C1=CC=C(Cl)C=C1
+304	304	fenamiphosphenol	CSC1=C(C)C=C(O)C=C1
+305	305	NMC	CC1=C(C=CC(O)=C1)N(=O)=O
+306	306	fenpropathrin acid	OC(C#N)C1=CC(OC2=CC=CC=C2)=CC=C1
+307	307	1,1'-(2,2-Dichloro-1,1-ethenediyl)bis(4-methoxybenzene)	COC1=CC=C(C=C1)C(=C(Cl)Cl)C2=CC=C(C=C2)OC
+308	308	Oxime	CSC(=NO)C(=O)N(C)C |w:3.3|
+309	309	Phthalamic acid 	C1=CC=C(C(=C1)C(=O)N)C(=O)O
+310	310	2-isopropyl-4-methyl-6-hydroxypyrimidine	CC(C)C1=NC(C)=CC(O)=N1

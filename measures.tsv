@@ -1,0 +1,918 @@
+parent_id	pH	pH min	pH max	half-life	half-life min	half-life max	half-life units	rate (k_1)	rate (k_1) min	rate (k_1) max	rate units	reaction	temperature (deg C)	activation (kcal/mol)	citation	comments	doi
+173								0.154			M^-1 min^-1	Nitrile Hydrolysis	25.149999999999977	15.1	R. Breslow, R. Fairweather, and J. Keana, J. Amer. Chem. Soc., 89,2135 (1967).		10.1021/ja00985a027
+150	4			2.34			days				days	Sulfonylurea Hydrolysis	15	13.867112810707457	Dinelli G. et al. J. Agric. Food Chem., Vol. 45, No. 5, 1997		10.1021/jf960649g
+150	4			1.41			days				days	Sulfonylurea Hydrolysis	20	13.867112810707457	Dinelli G. et al. J. Agric. Food Chem., Vol. 45, No. 5, 1997		10.1021/jf960649g
+150	4			1.06			days				days	Sulfonylurea Hydrolysis	25	13.867112810707457	Dinelli G. et al. J. Agric. Food Chem., Vol. 45, No. 5, 1997		10.1021/jf960649g
+150	4			0.65			days				days	Sulfonylurea Hydrolysis	30	13.867112810707457	Dinelli G. et al. J. Agric. Food Chem., Vol. 45, No. 5, 1997		10.1021/jf960649g
+150	4			0.47			days				days	Sulfonylurea Hydrolysis	35	13.867112810707457	Dinelli G. et al. J. Agric. Food Chem., Vol. 45, No. 5, 1997		10.1021/jf960649g
+150	4			0.22			days				days	Sulfonylurea Hydrolysis	45	13.867112810707457	Dinelli G. et al. J. Agric. Food Chem., Vol. 45, No. 5, 1997		10.1021/jf960649g
+150	4			0.12			days				days	Sulfonylurea Hydrolysis	55	13.867112810707457	Dinelli G. et al. J. Agric. Food Chem., Vol. 45, No. 5, 1997		10.1021/jf960649g
+150	4			3.106			days	0.223			days^-1	Sulfonylurea Hydrolysis	25	22.66	Braschi, L. et al. J. Agric. Food Chem., Vol. 48, No. 6, 2000	paper from 128973_Primisulfuron_(PUB Hydrolysis Information)	10.1021/jf990604q
+150	5			19.23			days	0.036			days^-1	Sulfonylurea Hydrolysis	25	22.66	Braschi, L. et al. J. Agric. Food Chem., Vol. 48, No. 6, 2000		10.1021/jf990604q
+150	6			155.4			days	0.00446			days^-1	Sulfonylurea Hydrolysis	25	22.66	Braschi, L. et al. J. Agric. Food Chem., Vol. 48, No. 6, 2000		10.1021/jf990604q
+150	7			1086			days	0.00064			days^-1	Sulfonylurea Hydrolysis	25	22.66	Braschi, L. et al. J. Agric. Food Chem., Vol. 48, No. 6, 2000		10.1021/jf990604q
+150	8			951.9			days	0.00073			days^-1	Sulfonylurea Hydrolysis	25	22.66	Braschi, L. et al. J. Agric. Food Chem., Vol. 48, No. 6, 2000		10.1021/jf990604q
+150	9			952.9			days	0.00073			days^-1	Sulfonylurea Hydrolysis	25	22.66	Braschi, L. et al. J. Agric. Food Chem., Vol. 48, No. 6, 2000		10.1021/jf990604q
+150	10			418.6			days	0.00165			days^-1	Sulfonylurea Hydrolysis	25	22.66	Braschi, L. et al. J. Agric. Food Chem., Vol. 48, No. 6, 2000		10.1021/jf990604q
+38	5							0.00031622776601683783			sec^-1	Epoxide Hydrolysis	30	15.4	Becker A.R. et al J. Am. Chem. Soc. 101, 19, 5679-5686, 1979	compound #2 in paper, Fig 1	10.1021/ja00513a037
+38	7							1e-05			sec^-1	Epoxide Hydrolysis	30	15.4	Becker A.R. et al J. Am. Chem. Soc. 101, 19, 5679-5686, 1979	compound #2 in paper, Fig 1	10.1021/ja00513a037
+38	9							1e-05			sec^-1	Epoxide Hydrolysis	30	15.4	Becker A.R. et al J. Am. Chem. Soc. 101, 19, 5679-5686, 1979		10.1021/ja00513a037
+40								3.55			M^-1 sec^-1	Epoxide Hydrolysis	25	17.67	Whalen D.L. J. Am. Chem. Soc. 95(10), 3432, 1973	 µ= 0.1, NaCl; rate is M-1Sec-1	10.1021/ja00791a086
+42	4.1							0.12589254117941667			sec^-1	Epoxide Hydrolysis	25	17.67	Whalen D.L. et al J. Am. Chem. Soc. 99(16), 5522, 1977	0.1M NaClO4 and 10^-4 M EDTA. Raw rates are log (kobs) s-1	10.1021/ja00458a069
+42	7							0.0006309573444801924			sec^-1	Epoxide Hydrolysis	25	17.67	Whalen D.L. et al J. Am. Chem. Soc. 99(16), 5522, 1977	0.1M NaClO4 and 10^-4 M EDTA. Raw rates are log (kobs) s-1	10.1021/ja00458a069
+42	9							0.0006309573444801924			sec^-1	Epoxide Hydrolysis	25	17.67	Whalen D.L. et al J. Am. Chem. Soc. 99(16), 5522, 1977		10.1021/ja00458a069
+41	4							0.0794328234724281			sec^-1	Epoxide Hydrolysis	25	17.67	Whalen D.L. et al J. Am. Chem. Soc. 99(16), 5522, 1977	0.1M NaClO4 and 10^-4 M EDTA. Raw rates are log (kobs) s-1	10.1021/ja00458a069
+41	7							0.02511886431509578			sec^-1	Epoxide Hydrolysis	25	17.67	Whalen D.L. et al J. Am. Chem. Soc. 99(16), 5522, 1977	0.1M NaClO4 and 10^-4 M EDTA. Raw rates are log (kobs) s-1	10.1021/ja00458a069
+41	9							0.02511886431509578			sec^-1	Epoxide Hydrolysis	25	17.67	Whalen D.L. et al J. Am. Chem. Soc. 99(16), 5522, 1977		10.1021/ja00458a069
+36	5							0.153			hr-1	Halogenated Aliphatics: Elimination	95	21.77	Cooper W.J. Et al Environ. Sci. Technol. 1987, 21, 1112-1114		10.1021/es00164a012
+36	5							0.0212			hr-1	Halogenated Aliphatics: Elimination	80	21.77	Cooper W.J. Et al Environ. Sci. Technol. 1987, 21, 1112-1114		10.1021/es00164a012
+36	5							0.00522			hr-1	Halogenated Aliphatics: Elimination	70	21.77	Cooper W.J. Et al Environ. Sci. Technol. 1987, 21, 1112-1114		10.1021/es00164a012
+36	6.85							0.0828			hr-1	Halogenated Aliphatics: Elimination	60	21.77	Cooper W.J. Et al Environ. Sci. Technol. 1987, 21, 1112-1114		10.1021/es00164a012
+36	6.85							0.0123			hr-1	Halogenated Aliphatics: Elimination	50	21.77	Cooper W.J. Et al Environ. Sci. Technol. 1987, 21, 1112-1114		10.1021/es00164a012
+36	8.82							0.294			hr-1	Halogenated Aliphatics: Elimination	40	21.77	Cooper W.J. Et al Environ. Sci. Technol. 1987, 21, 1112-1114		10.1021/es00164a012
+36	8.88							0.076			hr-1	Halogenated Aliphatics: Elimination	30	21.77	Cooper W.J. Et al Environ. Sci. Technol. 1987, 21, 1112-1114		10.1021/es00164a012
+32	7							2.15e-08			min^-1	Halogenated Aliphatics: Elimination	25	24.69	Jeffers, P.M. et. al Environ. Sci. Tech. 23, 965, 1989	rate in min-1	
+29	7							2.1e-06			sec^-1	Halogenated Aliphatics: Elimination	61	25.29	Vogel, T.M. and Reinhard, M Environ. Sci. Technol. 20,992, 1986	yielded bromopropenes (2-bromopropene and 1-bromopropene (cis and/or trans isomers) in the approximate ratio 1:1	10.1021/es00152a004
+29	9							2.1e-06			sec^-1	Halogenated Aliphatics: Elimination	61	25.29	Vogel, T.M. and Reinhard, M Environ. Sci. Technol. 20,992, 1986	pH 7-9 nuetral hydrolysis, activation energy same	10.1021/es00152a004
+29	11							5e-06			sec^-1	Halogenated Aliphatics: Elimination	61	23.49	Vogel, T.M. and Reinhard, M Environ. Sci. Technol. 20,992, 1986	pH 11 base hydrolysis, different activation energy	10.1021/es00152a004
+23	7							1.8300000000000002e-08			min^-1	Halogenated Aliphatics: Nucleophilic Substitution	25	24.89	Jeffers, P.M. et. al Environ. Sci. Tech. 23, 965, 1989	rate in min-1	
+23	7							1.8300000000000002e-08			min^-1	Halogenated Aliphatics: Elimination	25	25.814	Jeffers, P.M. et. al Environ. Sci. Tech. 23, 965, 1989	rate in min-1	
+23	7							1.8300000000000002e-08			min^-1	Halogenated Aliphatics: Elimination	25	24.69	Jeffers, P.M. et. al Environ. Sci. Tech. 23, 965, 1989	rate in min-1	
+30	7							1e-06			sec^-1	Halogenated Aliphatics: Elimination	45	22.49	Vogel, T.M. and Reinhard, M Environ. Sci. Technol. 20,992, 1986		10.1021/es00152a004
+30	9							1.4e-06			sec^-1	Halogenated Aliphatics: Elimination	45	22.49	Vogel, T.M. and Reinhard, M Environ. Sci. Technol. 20,992, 1986		10.1021/es00152a004
+30	11							1.4e-06			sec^-1	Halogenated Aliphatics: Elimination	45	22.49	Vogel, T.M. and Reinhard, M Environ. Sci. Technol. 20,992, 1986		10.1021/es00152a004
+30	7							6.9e-06			sec^-1	Halogenated Aliphatics: Elimination	61	22.49	Vogel, T.M. and Reinhard, M Environ. Sci. Technol. 20,992, 1986		10.1021/es00152a004
+30	9							6.9e-06			sec^-1	Halogenated Aliphatics: Elimination	61	22.49	Vogel, T.M. and Reinhard, M Environ. Sci. Technol. 20,992, 1986		10.1021/es00152a004
+30	11							8.6e-06			sec^-1	Halogenated Aliphatics: Elimination	61	22.49	Vogel, T.M. and Reinhard, M Environ. Sci. Technol. 20,992, 1986		10.1021/es00152a004
+11	7							2.4e-06			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	50	24.89	Vogel, T.M. and Reinhard, M Environ. Sci. Technol. 20,992, 1986	rate in s-1	10.1021/es00152a004
+11	8							3.6e-06			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	50	24.89	Vogel, T.M. and Reinhard, M Environ. Sci. Technol. 20,992, 1986		10.1021/es00152a004
+11	9							3.1e-06			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	50	24.89	Vogel, T.M. and Reinhard, M Environ. Sci. Technol. 20,992, 1986		10.1021/es00152a004
+11	10							3.6e-06			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	50	24.89	Vogel, T.M. and Reinhard, M Environ. Sci. Technol. 20,992, 1986		10.1021/es00152a004
+11	11							2.6e-06			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	50	24.89	Vogel, T.M. and Reinhard, M Environ. Sci. Technol. 20,992, 1986		10.1021/es00152a004
+16	7							0.0007			hour^-1	Halogenated Aliphatics: Nucleophilic Substitution	25	24.89	Schwarzenbach R.P. et al  Environ. Sci. Technol 1985 19, 322-327	rate in hr-1	10.1021/es00134a003
+15	7							0.00016140000000000002			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	80	24.89	Laughton, P.M. and Robertson, R.E. Can. J. Chem. 37, 1491, 1959.	rates in s-1	10.1139/v59-219
+10	7							7.799999999999999e-07			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	50	24.62	Vogel, T.M. and Reinhard, M Environ. Sci. Technol. 20,992, 1986	rate in s-1	10.1021/es00152a004
+10	8							9.7e-07			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	50	24.62	Vogel, T.M. and Reinhard, M Environ. Sci. Technol. 20,992, 1986		10.1021/es00152a004
+10	9							7.8e-07			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	50	24.62	Vogel, T.M. and Reinhard, M Environ. Sci. Technol. 20,992, 1986		10.1021/es00152a004
+10	10							8.6e-07			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	50	24.62	Vogel, T.M. and Reinhard, M Environ. Sci. Technol. 20,992, 1986		10.1021/es00152a004
+10	11							1.4e-06			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	50	24.62	Vogel, T.M. and Reinhard, M Environ. Sci. Technol. 20,992, 1986		10.1021/es00152a004
+10	7							3.3e-05			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	76	24.62	Vogel, T.M. and Reinhard, M Environ. Sci. Technol. 20,992, 1986		10.1021/es00152a004
+10	8							3.3e-05			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	76	24.62	Vogel, T.M. and Reinhard, M Environ. Sci. Technol. 20,992, 1986		10.1021/es00152a004
+10	9							3.1e-05			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	76	24.62	Vogel, T.M. and Reinhard, M Environ. Sci. Technol. 20,992, 1986		10.1021/es00152a004
+10	10							3.1e-05			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	76	24.62	Vogel, T.M. and Reinhard, M Environ. Sci. Technol. 20,992, 1986		10.1021/es00152a004
+10	11							3.3e-05			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	76	24.62	Vogel, T.M. and Reinhard, M Environ. Sci. Technol. 20,992, 1986		10.1021/es00152a004
+10	7							0.00011			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	90	24.62	Vogel, T.M. and Reinhard, M Environ. Sci. Technol. 20,992, 1986		10.1021/es00152a004
+10	8							0.00011			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	90	24.62	Vogel, T.M. and Reinhard, M Environ. Sci. Technol. 20,992, 1986		10.1021/es00152a004
+10	9							0.0001			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	90	24.62	Vogel, T.M. and Reinhard, M Environ. Sci. Technol. 20,992, 1986		10.1021/es00152a004
+10	10							0.0001			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	90	24.62	Vogel, T.M. and Reinhard, M Environ. Sci. Technol. 20,992, 1986		10.1021/es00152a004
+10	11							0.00011			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	90	24.62	Vogel, T.M. and Reinhard, M Environ. Sci. Technol. 20,992, 1986		10.1021/es00152a004
+31	7							2.099e-05			sec^-1	Halogenated Aliphatics: Elimination	20.095	27.53	Queen, A and Robertson, R.E. J. Am. Chem. Soc. 88, 1363, 1966		10.1021/ja00959a006
+31	7							9.93e-05			sec^-1	Halogenated Aliphatics: Elimination	30.055	27.53	Queen, A and Robertson, R.E. J. Am. Chem. Soc. 88, 1363, 1966		10.1021/ja00959a006
+31	7							0.00040720000000000003			sec^-1	Halogenated Aliphatics: Elimination	40.008	27.53	Queen, A and Robertson, R.E. J. Am. Chem. Soc. 88, 1363, 1966		10.1021/ja00959a006
+31	7							0.0007909			sec^-1	Halogenated Aliphatics: Elimination	45.007	27.53	Queen, A and Robertson, R.E. J. Am. Chem. Soc. 88, 1363, 1966		10.1021/ja00959a006
+37	7							1.8950000000000003e-05			sec^-1	Halogenated Aliphatics: Elimination	29.82	27.59	Queen, A and Robertson, R.E. J. Am. Chem. Soc. 88, 1363, 1966		10.1021/ja00959a006
+37	7							8.449e-05			sec^-1	Halogenated Aliphatics: Elimination	40.324	27.59	Queen, A and Robertson, R.E. J. Am. Chem. Soc. 88, 1363, 1966		10.1021/ja00959a006
+37	7							0.0003065			sec^-1	Halogenated Aliphatics: Elimination	50.267	27.59	Queen, A and Robertson, R.E. J. Am. Chem. Soc. 88, 1363, 1966		10.1021/ja00959a006
+37	7							0.000558			sec^-1	Halogenated Aliphatics: Elimination	55.203	27.59	Queen, A and Robertson, R.E. J. Am. Chem. Soc. 88, 1363, 1966		10.1021/ja00959a006
+97	4			231			days				days	Carboxylic Acid Ester Hydrolysis	50	14.34	EFSA 2,5-dichlorobenzoic acid methylester 10-11-2012		
+97	7			78.8			days				days	Carboxylic Acid Ester Hydrolysis	50	14.34	EFSA 2,5-dichlorobenzoic acid methylester 10-11-2012		
+97	9			1.6			days				days	Carboxylic Acid Ester Hydrolysis	50	14.34	EFSA 2,5-dichlorobenzoic acid methylester 10-11-2012		
+4	7							0.00636			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	14	24.89	Laughton, P.M. and Robertson, R.E. Can. J. Chem. 34, 1714, 1956.	rates in s-1	10.1139/v56-223
+14	7							0.0001129			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	50	24.89	Laughton, P.M. and Robertson, R.E. Can. J. Chem. 34, 1714, 1956.	rates in s-1	10.1139/v56-223
+3	7							0.001			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	98	24.89	Laughton, P.M. and Robertson, R.E. Can. J. Chem. 37, 1491, 1959.	rates in s-1	10.1139/v59-219
+163	13							0.0042			s^-1	Lactone Hydrolysis	25	12.49	Bombarelli RG, Calle E, Casado J, J. Org. Chem. 2013, 78, 6868-6879 Supporting Info	.1M NaOH	10.1021/jo400258w
+22	7							0.00275			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	80	24.89	Laughton, P.M. and Robertson, R.E. Can. J. Chem. 37, 1491, 1959.	rates in s-1	10.1139/v59-219
+18	8.5							3e-06			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	70	24.89	Ezra S. et al Environ. Sci. Technol. 2005, 39, 505-512	0.036M Borax buffer	10.1021/es0495157
+18	8.5							2e-06			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	70	24.89	Ezra S. et al Environ. Sci. Technol. 2005, 39, 505-512	0.030M KH2PO4 buffer	10.1021/es0495157
+18	8.98							1.1499999999999998e-07			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	50	24.89	Ezra S. et al Environ. Sci. Technol. 2005, 39, 505-512	0.036M Borax buffer	10.1021/es0495157
+18	8.59							7.5e-08			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	50	24.89	Ezra S. et al Environ. Sci. Technol. 2005, 39, 505-512	0.030M KH2PO4 buffer	10.1021/es0495157
+106	7							0.001009			sec^-1	Anhydride Hydrolysis	25	13.77	Hawkins M.D. J. Chem. Soc., Perkin Trans. 2, 1975, 282-284		10.1039/p29750000282
+106	7							0.0147			sec^-1	Anhydride Hydrolysis	65.8	13.77	Hawkins M.D. J. Chem. Soc., Perkin Trans. 2, 1975, 282-284		10.1039/p29750000282
+106	7							0.00314			sec^-1	Anhydride Hydrolysis	39.5	13.77	Hawkins M.D. J. Chem. Soc., Perkin Trans. 2, 1975, 282-284		10.1039/p29750000282
+164	1.26							1.75e-05			s-1	Lactone Hydrolysis	60	18	Weeks D.P. and Whitney D.B. J. Am. Chem. Soc. 1981, 103, 3555-3558	rates in s-1	10.1021/ja00402a050
+164	1.26							3.68e-05			s-1	Lactone Hydrolysis	70	18	Weeks D.P. and Whitney D.B. J. Am. Chem. Soc. 1981, 103, 3555-3558		10.1021/ja00402a050
+164	1.26							8.69e-05			s-1	Lactone Hydrolysis	80	18	Weeks D.P. and Whitney D.B. J. Am. Chem. Soc. 1981, 103, 3555-3558		10.1021/ja00402a050
+164	5.08							4.17e-06			s-1	Lactone Hydrolysis	60	14.8	Weeks D.P. and Whitney D.B. J. Am. Chem. Soc. 1981, 103, 3555-3558		10.1021/ja00402a050
+164	5.08							8.8e-06			s-1	Lactone Hydrolysis	70	14.8	Weeks D.P. and Whitney D.B. J. Am. Chem. Soc. 1981, 103, 3555-3558		10.1021/ja00402a050
+164	5.08							1.59e-05			s-1	Lactone Hydrolysis	80	14.8	Weeks D.P. and Whitney D.B. J. Am. Chem. Soc. 1981, 103, 3555-3558		10.1021/ja00402a050
+164	7.7							0.000113			s^-1	Lactone Hydrolysis	60	23.4	Weeks D.P. and Whitney D.B. J. Am. Chem. Soc. 1981, 103, 3555-3558		10.1021/ja00402a050
+164	7.7							0.000332			s^-1	Lactone Hydrolysis	70	23.4	Weeks D.P. and Whitney D.B. J. Am. Chem. Soc. 1981, 103, 3555-3558		10.1021/ja00402a050
+164	7.7							0.000889			s^-1	Lactone Hydrolysis	80	23.4	Weeks D.P. and Whitney D.B. J. Am. Chem. Soc. 1981, 103, 3555-3558		10.1021/ja00402a050
+80	7							0.034			sec^-1	Acid Halide Hydrolysis	25	19.05	Song, B.D.; Jencks, W.P.  J. Am. Chem. Soc., 1989, 111, 8470-8479.	table 2, column 2, solvent = water	10.1021/ja00204a021
+158	7			5.6			days				hours	Carbonate Hydrolysis	50	17.5	Accessed April, 2015; http://apps.echa.europa.eu/registered/data/dossiers/DISS-db9aee68-95f8-1ba3-e044-00144f67d031/AGGR-038b5993-3a04-4895-abb7-e83b71d10cb7_DISS-db9aee68-95f8-1ba3-e044-00144f67d031.html#AGGR-038b5993-3a04-4895-abb7-e83b71d10cb7 	its also called as Luperox®, and is sold as a free radical initiator. The degradation poduct was 2-ethylhexanol.	
+158	7			25			days				hours	Carbonate Hydrolysis	37	17.5			
+158	7			563			days				hours	Carbonate Hydrolysis	15	17.5			
+158	9			1.43			days				hours	Carbonate Hydrolysis	50	17.5	Accessed April, 2015; http://apps.echa.europa.eu/registered/data/dossiers/DISS-db9aaef6-7431-72c9-e044-00144f67d031/AGGR-a62206ea-4edd-45b0-8585-e6a5afca19cc_DISS-db9aaef6-7431-72c9-e044-00144f67d031.html#AGGR-a62206ea-4edd-45b0-8585-e6a5afca19cc		
+158	9			4.72			days				hours	Carbonate Hydrolysis	37	17.5	Accessed April, 2015; http://apps.echa.europa.eu/registered/data/dossiers/DISS-db9aaef6-7431-72c9-e044-00144f67d031/AGGR-a62206ea-4edd-45b0-8585-e6a5afca19cc_DISS-db9aaef6-7431-72c9-e044-00144f67d031.html#AGGR-a62206ea-4edd-45b0-8585-e6a5afca19cc		
+158	9			69.31			days				hours	Carbonate Hydrolysis	15	17.5	Accessed April, 2015; http://apps.echa.europa.eu/registered/data/dossiers/DISS-db9aaef6-7431-72c9-e044-00144f67d031/AGGR-a62206ea-4edd-45b0-8585-e6a5afca19cc_DISS-db9aaef6-7431-72c9-e044-00144f67d031.html#AGGR-a62206ea-4edd-45b0-8585-e6a5afca19cc		
+17	7							0.06			hour^-1	Halogenated Aliphatics: Nucleophilic Substitution	25	24.89	Schwarzenbach R.P. et al  Environ. Sci. Technol 1985 19, 322-328	rate in hr-1	10.1021/es00132a014
+162	10.05							2.88			10^-4*s^-1	Lactone Hydrolysis	25	15.63	Garrett E.R. et al J. Phar. Sci. 60(3) (1971) 396-405	.0015M NaOH	10.1002/jps.2600600312
+162	10.3							5.33			10^-4*s^-1	Lactone Hydrolysis	25	15.63	Garrett E.R. et al J. Phar. Sci. 60(3) (1971) 396-405	.005NaOH	10.1002/jps.2600600312
+162	10.52							10.05			10^-4*s^-1	Lactone Hydrolysis	25	15.63	Garrett E.R. et al J. Phar. Sci. 60(3) (1971) 396-405	.0095M NaOH	10.1002/jps.2600600312
+162	10.78							14.5			10^-4*s^-1	Lactone Hydrolysis	25	15.63	Garrett E.R. et al J. Phar. Sci. 60(3) (1971) 396-405	0.015M NaOH	10.1002/jps.2600600312
+79	7							0.056			sec^-1	Acid Halide Hydrolysis	25	19.05	Song, B.D.; Jencks, W.P.  J. Am. Chem. Soc., 1989, 111, 8470-8479.	table 2, column 2, solvent = water	10.1021/ja00204a021
+78	7							0.009			sec^-1	Acid Halide Hydrolysis	25	19.05	Song, B.D.; Jencks, W.P.  J. Am. Chem. Soc., 1989, 111, 8470-8479.	table 2, column 1, solvent = water	10.1021/ja00204a021
+85	7							0.6			sec^-1	Acid Halide Hydrolysis	25	19.05	Song, B.D.; Jencks, W.P.  J. Am. Chem. Soc., 1989, 111, 8470-8479.	table 2, column 2, solvent = water	10.1021/ja00204a021
+84	7							0.0034			sec^-1	Acid Halide Hydrolysis	25	19.05	Song, B.D.; Jencks, W.P.  J. Am. Chem. Soc., 1989, 111, 8470-8479.	table 2, column 1, solvent = water	10.1021/ja00204a021
+165	8.4							-3.2			log(kobs in s-1)	Lactone Hydrolysis	25	15.63	Heathcote D.M. et. al. J. Chem. Soc. Perkin Trans. 2, 1998, 535-540	1% dioxane, rate in s-1	10.1039/a707946j
+88	7							100000			sec^-1	Acid Halide Hydrolysis	25	19.05	Song, B.D.; Jencks, W.P.  J. Am. Chem. Soc., 1989, 111, 8470-8479.	estimated by extrapolation of the Hammett plot for the hydrolysis of substituted benzoyl chlorides, table 2, column 2, solvent = water	10.1021/ja00204a021
+88												Acid Halide Hydrolysis			Song, B.D.; Jencks, W.P.  J. Am. Chem. Soc., 1989, 111, 8470-8479.		10.1021/ja00204a021
+87	7							0.0035			sec^-1	Acid Halide Hydrolysis	25	19.05	Song, B.D.; Jencks, W.P.  J. Am. Chem. Soc., 1989, 111, 8470-8479.	table 2, column 1, solvent = water	10.1021/ja00204a021
+83	7							0.00029			sec^-1	Acid Halide Hydrolysis	25	19.05	Song, B.D.; Jencks, W.P.  J. Am. Chem. Soc., 1989, 111, 8470-8479.	table 2, column 1, solvent = water	10.1021/ja00204a021
+86	7							0.0007			sec^-1	Acid Halide Hydrolysis	25	19.05	Song, B.D.; Jencks, W.P.  J. Am. Chem. Soc., 1989, 111, 8470-8479.	table 2, column 1, solvent = water	10.1021/ja00204a021
+82	7							0.062			sec^-1	Acid Halide Hydrolysis	25	19.05	Song, B.D.; Jencks, W.P.  J. Am. Chem. Soc., 1989, 111, 8470-8479.	table 2, column 2, solvent = water	10.1021/ja00204a021
+81	7							0.051			sec^-1	Acid Halide Hydrolysis	25	19.05	Song, B.D.; Jencks, W.P.  J. Am. Chem. Soc., 1989, 111, 8470-8479.	table 2, column 1, solvent = water	10.1021/ja00204a021
+39	11							0.00022			sec^-1	Epoxide Hydrolysis	25	17.67	Whalen D.L. J. Am. Chem. Soc. 95(10), 3432, 1973	µ = 1, KCl; average of 10 runs at pH 10-12, units are sec-1	10.1021/ja00791a086
+39	5.65							16400			M^-1 sec^-1	Epoxide Hydrolysis	25	17.67	Whalen D.L. J. Am. Chem. Soc. 95(10), 3432, 1973	µ = 1, KCl; average of 4 runs at pH 5.65 in cyanomethylamine buffer, units are M-1Sec-1	10.1021/ja00791a086
+65	7							350			sec^-1	Acid Halide Hydrolysis	20	19.05	Prager et al  J. Chem. Soc., Perkin Trans. 2, 2001		
+131	9			76.7			days				days	Carbamate Hydrolysis	25	17.9	Andrawes, N. and R. Meeker. 1976. Hydrolysis of Temik Aldicarb Pesticide in Aqueous Buffer Solutions. Project No. 111A13, File No. 22263. Unpublished study received Dec 6, 1977 under 1016-69; submitted by Union Carbide Corp., Arlington, VA		
+140	5			89			days	0.00779			days^-1	Sulfonylurea Hydrolysis	26	22.66	EFSA Draft Assessment Report for Azimsulfuron, Aug. 11, 2009.	1996 EU Dossier Hausmann, S.M. (1991)	
+140	7			124			days	0.00559			days^-1	Sulfonylurea Hydrolysis	26	22.66	EFSA Draft Assessment Report for Azimsulfuron, Aug. 11, 2009.		
+140	9			132			days	0.00524			days^-1	Sulfonylurea Hydrolysis	26	22.66	EFSA Draft Assessment Report for Azimsulfuron, Aug. 11, 2009.		
+129	8			16			days				days	Carbamate Hydrolysis	20	16.39	Aly O.M., El-Dib M.A. water Research, 1971, 5, 1191-1205 		10.1016/0043-1354(71)90084-4
+129	9			1.6			days				days	Carbamate Hydrolysis	20	16.39	Aly O.M., El-Dib M.A. water Research, 1971, 5, 1191-1205 		10.1016/0043-1354(71)90084-4
+129	10			0.175			days				days	Carbamate Hydrolysis	20	16.39	Aly O.M., El-Dib M.A. water Research, 1971, 5, 1191-1205 		10.1016/0043-1354(71)90084-4
+125	5			46.5			days				days	Carbamate Hydrolysis	25	17.9	105201 bendiocarb	WHO Specifications and Evaluations for public Health Pesticides	
+125	7			2			days				days	Carbamate Hydrolysis	25	17.9	105201 bendiocarb	WHO Specifications and Evaluations for public Health Pesticides	
+125	9			0.030416666666666665			days				days	Carbamate Hydrolysis	25	17.9	105201 bendiocarb	WHO Specifications and Evaluations for public Health Pesticides	
+191	4					0.5	hours					N-S Cleavage	20	25.8	EFSA Benfuracarb 2004		
+191	7			1.4			days	0.0203			days^-1	N-S Cleavage	20	25.8	EFSA Benfuracarb 2004		
+191	9			26.9			days	0.00107			days^-1	N-S Cleavage	20	25.8	EFSA Benfuracarb 2004		
+104	9			141			days				days	Carboxylic Acid Ester Hydrolysis	25	14.34	EFSA Draft Assessment Report for Bensulfuron, May 8, 2007.	Temp 25 +/- 1	
+104	4			6.1			days	0.1143			days^-1	Sulfonylurea Hydrolysis	25	22.66	EFSA Draft Assessment Report for Bensulfuron, May 8, 2007.	Temp 25 +/- 1	
+104	7											Sulfonylurea Hydrolysis	25	22.66	EFSA Draft Assessment Report for Bensulfuron, May 8, 2007.	Temp 25 +/- 1	
+104	9			141			days	0.0049			days^-1	Sulfonylurea Hydrolysis	25	22.66	EFSA Draft Assessment Report for Bensulfuron, May 8, 2007.	Temp 25 +/- 1	
+77	7							1.1			sec^-1	Acid Halide Hydrolysis	25	19.05	Song, B.D.; Jencks, W.P.  J. Am. Chem. Soc., 1989, 111, 8470-8479.	table 2, column 2, solvent = water	10.1021/ja00204a021
+76	7							0.0018			sec^-1	Acid Halide Hydrolysis	25	19.05	Song, B.D.; Jencks, W.P.  J. Am. Chem. Soc., 1989, 111, 8470-8479.	table 2, column 1, solvent = water	10.1021/ja00204a021
+176	5.4							1.3e-06			sec^-1	Nitrile Hydrolysis	20	19.97	Glezer V et. al Wat. Res. Vol. 33, 8, 1938-1948, 1999	final concentration of 20-50 ppm in o.1 N HCl, at 20 deg C	10.1016/s0043-1354(98)00361-3
+176	7.2							1.2e-05			sec^-1	Nitrile Hydrolysis	20	19.97	Glezer V et. al Wat. Res. Vol. 33, 8, 1938-1948, 1999	final concentration of 20-50 ppm in o.1 N HCl, at 20 deg C	10.1016/s0043-1354(98)00361-3
+176	8.7							0.00022			sec^-1	Nitrile Hydrolysis	20	19.97	Glezer V et. al Wat. Res. Vol. 33, 8, 1938-1948, 1999	final concentration of 20-50 ppm in o.1 N HCl, at 20 deg C	10.1016/s0043-1354(98)00361-3
+188	7.17							7.7e-05			sec^-1	N-S Cleavage	28	25.8	Wolfe, N.L. et al. J Agric. Food Chem. 1976, 24, 1041-1045		10.1021/jf60207a004
+187	8.39							0.000149			sec^-1	N-S Cleavage	8	23.4	Wolfe, N.L. et al. J Agric. Food Chem. 1976, 24, 1041-1045		10.1021/jf60207a004
+187	1.97							1.79e-05			sec^-1	N-S Cleavage	28	29.4	Wolfe, N.L. et al. J Agric. Food Chem. 1976, 24, 1041-1045	pH independent first order in pH range 2-6	10.1021/jf60207a004
+187	2.48							1.67e-05			sec^-1	N-S Cleavage	28	29.4	Wolfe, N.L. et al. J Agric. Food Chem. 1976, 24, 1041-1045	pH independent first order in pH range 2-6	10.1021/jf60207a004
+187	3.39							1.87e-05			sec^-1	N-S Cleavage	28	29.4	Wolfe, N.L. et al. J Agric. Food Chem. 1976, 24, 1041-1045	pH independent first order in pH range 2-6	10.1021/jf60207a004
+187	4.83							1.97e-05			sec^-1	N-S Cleavage	28	29.4	Wolfe, N.L. et al. J Agric. Food Chem. 1976, 24, 1041-1045	pH independent first order in pH range 2-6	10.1021/jf60207a004
+187	5.16							1.87e-05			sec^-1	N-S Cleavage	28	29.4	Wolfe, N.L. et al. J Agric. Food Chem. 1976, 24, 1041-1045	pH independent first order in pH range 2-6	10.1021/jf60207a004
+187	6.1							4.6e-05			sec^-1	N-S Cleavage	28	29.4	Wolfe, N.L. et al. J Agric. Food Chem. 1976, 24, 1041-1045	pH independent first order in pH range 2-6	10.1021/jf60207a004
+187	7.07							6.5e-05			sec^-1	N-S Cleavage	28	23.4	Wolfe, N.L. et al. J Agric. Food Chem. 1976, 24, 1041-1045		10.1021/jf60207a004
+187	7.45							0.00015			sec^-1	N-S Cleavage	28	23.4	Wolfe, N.L. et al. J Agric. Food Chem. 1976, 24, 1041-1045		10.1021/jf60207a004
+187	7.66							0.000281			sec^-1	N-S Cleavage	28	23.4	Wolfe, N.L. et al. J Agric. Food Chem. 1976, 24, 1041-1045		10.1021/jf60207a004
+187	7.82							0.00039			sec^-1	N-S Cleavage	28	23.4	Wolfe, N.L. et al. J Agric. Food Chem. 1976, 24, 1041-1045		10.1021/jf60207a004
+187	7.93							0.00048			sec^-1	N-S Cleavage	28	23.4	Wolfe, N.L. et al. J Agric. Food Chem. 1976, 24, 1041-1045		10.1021/jf60207a004
+187	8.08							0.00065			sec^-1	N-S Cleavage	28	23.4	Wolfe, N.L. et al. J Agric. Food Chem. 1976, 24, 1041-1045		10.1021/jf60207a004
+187	8.25							0.0011			sec^-1	N-S Cleavage	28	23.4	Wolfe, N.L. et al. J Agric. Food Chem. 1976, 24, 1041-1045		10.1021/jf60207a004
+187	3.3							0.000357			sec^-1	N-S Cleavage	48	23.4	Wolfe, N.L. et al. J Agric. Food Chem. 1976, 24, 1041-1045		10.1021/jf60207a004
+187	4							1.8e-05			sec^-1	N-S Cleavage	28	23.4	Wolfe, N.L. et al. J Agric. Food Chem. 1976, 24, 1041-1045	average rate over pH 2-7, pH independent first-order	10.1021/jf60207a004
+187	8							570			M^-1sec^-1	N-S Cleavage	28	23.4	Wolfe, N.L. et al. J Agric. Food Chem. 1976, 24, 1041-1045	average rate over pH 7-10, pH dependent second-order	10.1021/jf60207a004
+187	5			0.4583333333333333			days				days	N-S Cleavage	25	25.8	EFSA Captan 2003 report		
+187	7			0.10833333333333334			days				days	N-S Cleavage	25	25.8	EFSA Captan 2003 report		
+187	9			0.0025			days				days	N-S Cleavage	25	25.8	EFSA Captan 2003 report		
+187	5			0.7833333333333333			days				days	N-S Cleavage	25	25.8	EFSA Captan 2003 report		
+187	7			0.2041666666666667			days				days	N-S Cleavage	25	25.8	EFSA Captan 2003 report		
+187	9			0.005763888888888889			days				days	N-S Cleavage	25	25.8	EFSA Captan 2003 report		
+187	5			0.4875			days				days	N-S Cleavage	25	25.8	EFSA Captan 2003 report		
+187	7			0.19583333333333333			days				days	N-S Cleavage	25	25.8	EFSA Captan 2003 report		
+187	9			0.005624999999999999			days				days	N-S Cleavage	25	25.8	EFSA Captan 2003 report		
+121	5											Carbamate Hydrolysis	25	17.9	EFSA 128872 Carbendazim		
+121	7											Carbamate Hydrolysis	25	17.9	EFSA 128872 Carbendazim		
+121	9			54			days				days	Carbamate Hydrolysis	25	17.9	EFSA 128872 Carbendazim		
+122	3											Carbamate Hydrolysis	25	17.9	EFSA 259200 Carbetamide		
+122	6											Carbamate Hydrolysis	25	17.9	EFSA 259200 Carbetamide		
+122	9			21			days				days	Carbamate Hydrolysis	25	17.9	EFSA 259200 Carbetamide		
+122	3											Carbamate Hydrolysis	35	17.9	EFSA 259200 Carbetamide		
+122	6											Carbamate Hydrolysis	35	17.9	EFSA 259200 Carbetamide		
+122	9			6			days				days	Carbamate Hydrolysis	35	17.9	EFSA 259200 Carbetamide		
+185	6.62			1.125			days				days	N-S Cleavage	30.5	25.8	deMelo Plese et al., Chemosphere 2005, 60, 149-156		10.1016/j.chemosphere.2005.02.049
+185	3							0.012777777777777779			sec^-1	N-S Cleavage	26	25.8	Umetsu, N.; Kuwano, E.; Fukuto, T.R. J. Environ. Sci. Health 1980, B15(1), 1-23.		10.1080/03601238009372160
+185	7							7.5e-07			sec^-1	N-S Cleavage	26	25.8	Umetsu, N.; Kuwano, E.; Fukuto, T.R. J. Environ. Sci. Health 1980, B15(1), 1-23.		10.1080/03601238009372160
+185	9							2.4166666666666665e-07			sec^-1	N-S Cleavage	26	25.8	Umetsu, N.; Kuwano, E.; Fukuto, T.R. J. Environ. Sci. Health 1980, B15(1), 1-23.		10.1080/03601238009372160
+185	5							6.666666666666667e-05			sec^-1	N-S Cleavage	26	25.8	Umetsu, N.; Kuwano, E.; Fukuto, T.R. J. Environ. Sci. Health 1980, B15(1), 1-23.		10.1080/03601238009372160
+185	5			0.008333333333333333			days	2.84			hr^-1	N-S Cleavage	25	25.8	EFSA Carbosulfan 2004		
+185	7			0.47500000000000003			days	0.061			hr^-1	N-S Cleavage	25	25.8	EFSA Carbosulfan 2004		
+185	7.3			0.7583333333333333			days	0.038			hr^-1	N-S Cleavage	25	25.8	EFSA Carbosulfan 2004		
+185	9			7.220833333333334			days	0.004			hr^-1	N-S Cleavage	25	25.8	EFSA Carbosulfan 2004		
+66	7							5.5			sec^-1	Acid Halide Hydrolysis	20	19.05	Prager et al  J. Chem. Soc., Perkin Trans. 2, 2001		
+137	5			23			days				days	Sulfonylurea Hydrolysis	25	22.66	EFSA Draft Assessment Report for Chlorsulfuron, Dec. 12, 2007.	Dietrich, R.F. McAleer, N.C. 1989 (AMR 1455-89.161-1)	
+137	7											Sulfonylurea Hydrolysis	25	22.66	EFSA Draft Assessment Report for Chlorsulfuron, Dec. 12, 2007.	Dietrich, R.F. McAleer, N.C. 1989 (AMR 1455-89.161-1)	
+137	9											Sulfonylurea Hydrolysis	25	22.66	EFSA Draft Assessment Report for Chlorsulfuron, Dec. 12, 2007.	Dietrich, R.F. McAleer, N.C. 1989 (AMR 1455-89.161-1)	
+144	4			7.7			days				days	Sulfonylurea Hydrolysis	25	22.66	Negre M., Baiocchi C., Gennari M., Pest Manag Sci 61:675–681 (2005 )		10.1002/ps.1037
+144	7			495			days				days	Sulfonylurea Hydrolysis	25	22.66	Negre M., Baiocchi C., Gennari M., Pest Manag Sci 61:675–681 (2005 )		10.1002/ps.1037
+144	9			533			days				days	Sulfonylurea Hydrolysis	25	22.66	Negre M., Baiocchi C., Gennari M., Pest Manag Sci 61:675–681 (2005 )		10.1002/ps.1037
+144	5			22.8			days				days	Sulfonylurea Hydrolysis	25	22.66	Negre M., Baiocchi C., Gennari M., Pest Manag Sci 61:675–681 (2005 )		10.1002/ps.1037
+144	6			119.5			days				days	Sulfonylurea Hydrolysis	25	22.66	Negre M., Baiocchi C., Gennari M., Pest Manag Sci 61:675–681 (2005 )		10.1002/ps.1037
+144	4			3.4			days				days	Sulfonylurea Hydrolysis	30	22.66	Negre M., Baiocchi C., Gennari M., Pest Manag Sci 61:675–681 (2005 )		10.1002/ps.1037
+144	5			9.3			days				days	Sulfonylurea Hydrolysis	30	22.66	Negre M., Baiocchi C., Gennari M., Pest Manag Sci 61:675–681 (2005 )		10.1002/ps.1037
+144	6			49.5			days				days	Sulfonylurea Hydrolysis	30	22.66	Negre M., Baiocchi C., Gennari M., Pest Manag Sci 61:675–681 (2005 )		10.1002/ps.1037
+144	7			462			days				days	Sulfonylurea Hydrolysis	30	22.66	Negre M., Baiocchi C., Gennari M., Pest Manag Sci 61:675–681 (2005 )		10.1002/ps.1037
+144	9			407			days				days	Sulfonylurea Hydrolysis	30	22.66	Negre M., Baiocchi C., Gennari M., Pest Manag Sci 61:675–681 (2005 )		10.1002/ps.1037
+5	2.98			0.02666666666666667			days	0.0003027777777777778			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	68	24.89	J. J. Ellington et al. 1987 vol1_EPA/600/3-86/ 043		
+5	3.04			0.02125			days	0.0003805555555555556			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	69	24.89	J. J. Ellington et al. 1987 vol1_EPA/600/3-86/ 043		
+5	3.12			0.021666666666666667			days	0.00037222222222222225			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	69	24.89	J. J. Ellington et al. 1987 vol1_EPA/600/3-86/ 043		
+5	7.04			0.027083333333333334			days	0.0002972222222222222			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	68	24.89	J. J. Ellington et al. 1987 vol1_EPA/600/3-86/ 043		
+5	7.16			0.021666666666666667			days	0.0003694444444444445			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	69	24.89	J. J. Ellington et al. 1987 vol1_EPA/600/3-86/ 043		
+5	7.18			0.020833333333333332			days	0.00038888888888888887			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	69	24.89	J. J. Ellington et al. 1987 vol1_EPA/600/3-86/ 043		
+5	9.74			0.020833333333333332			days	0.00038888888888888887			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	69	24.89	J. J. Ellington et al. 1987 vol1_EPA/600/3-86/ 043		
+5	9.96			0.02291666666666667			days	0.00035			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	69	24.89	J. J. Ellington et al. 1987 vol1_EPA/600/3-86/ 043		
+5	10.62			0.01958333333333333			days	0.00040555555555555554			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	68	24.89	J. J. Ellington et al. 1987 vol1_EPA/600/3-86/ 043		
+5	7			0.05958333333333333			days	0.00013055555555555555			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	57	24.89	J. J. Ellington et al. 1987 vol1_EPA/600/3-86/ 043		
+5	6.99			0.057499999999999996			days	0.0001388888888888889			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	57	24.89	J. J. Ellington et al. 1987 vol1_EPA/600/3-86/ 043		
+5	7							2.5277777777777778e-06			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	25	24.89	Ellington1987vol1_EPA600_S3-86_043	extrapolated	
+159	11.698970004336019							0.94			10^-3*s^-1	Lactone Hydrolysis	15	11.46961	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	0.005M NaOH; rates reported as 10^3 kobs 	10.1016/j.saa.2006.08.023
+159	12							2.03			10^-3*s^-1	Lactone Hydrolysis	15	11.46961	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	.01M NaOH; rates reported as 10^3 kobs	10.1016/j.saa.2006.08.023
+159	12.301029995663981							4.19			10^-3*s^-1	Lactone Hydrolysis	15	11.46961	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	.02M NaOH; rates reported as 10^3 kobs	10.1016/j.saa.2006.08.023
+159	12.477121254719663							6.83			10^-3*s^-1	Lactone Hydrolysis	15	11.46961	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	0.03M NaOH; rates reported as 10^3 kobs	10.1016/j.saa.2006.08.023
+159	11.698970004336019							1.63			10^-3*s^-1	Lactone Hydrolysis	20	11.46961	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	0.005M NaOH; rates reported as 10^3 kobs 	10.1016/j.saa.2006.08.023
+159	12							3.21			10^-3*s^-1	Lactone Hydrolysis	20	11.46961	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	.01M NaOH; rates reported as 10^3 kobs	10.1016/j.saa.2006.08.023
+159	12.301029995663981							6.4			10^-3*s^-1	Lactone Hydrolysis	20	11.46961	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	.02M NaOH; rates reported as 10^3 kobs	10.1016/j.saa.2006.08.023
+159	12.477121254719663							8.87			10^-3*s^-1	Lactone Hydrolysis	20	11.46961	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	0.03M NaOH; rates reported as 10^3 kobs	10.1016/j.saa.2006.08.023
+159	11.698970004336019							2.08			10^-3*s^-1	Lactone Hydrolysis	25	11.46961	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	0.005M NaOH; rates reported as 10^3 kobs 	10.1016/j.saa.2006.08.023
+159	12							4.31			10^-3*s^-1	Lactone Hydrolysis	25	11.46961	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	.01M NaOH; rates reported as 10^3 kobs	10.1016/j.saa.2006.08.023
+159	12.301029995663981							9.15			10^-3*s^-1	Lactone Hydrolysis	25	11.46961	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	.02M NaOH; rates reported as 10^3 kobs	10.1016/j.saa.2006.08.023
+159	12.477121254719663							13.2			10^-3*s^-1	Lactone Hydrolysis	25	11.46961	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	0.03M NaOH; rates reported as 10^3 kobs	10.1016/j.saa.2006.08.023
+159	11.698970004336019							3.12			10^-3*s^-1	Lactone Hydrolysis	30	11.46961	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	0.005M NaOH; rates reported as 10^3 kobs 	10.1016/j.saa.2006.08.023
+159	12							6.32			10^-3*s^-1	Lactone Hydrolysis	30	11.46961	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	.01M NaOH; rates reported as 10^3 kobs	10.1016/j.saa.2006.08.023
+159	12.301029995663981							12.01			10^-3*s^-1	Lactone Hydrolysis	30	11.46961	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	.02M NaOH; rates reported as 10^3 kobs	10.1016/j.saa.2006.08.023
+159	12.477121254719663							17.5			10^-3*s^-1	Lactone Hydrolysis	30	11.46961	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	0.03M NaOH; rates reported as 10^3 kobs	10.1016/j.saa.2006.08.023
+159	11.698970004336019							5.13			10^-3*s^-1	Lactone Hydrolysis	35	11.46961	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	0.005M NaOH; rates reported as 10^3 kobs 	10.1016/j.saa.2006.08.023
+159	12							9.12			10^-3*s^-1	Lactone Hydrolysis	35	11.46961	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	.01M NaOH; rates reported as 10^3 kobs	10.1016/j.saa.2006.08.023
+159	12.301029995663981							19			10^-3*s^-1	Lactone Hydrolysis	35	11.46961	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	.02M NaOH; rates reported as 10^3 kobs	10.1016/j.saa.2006.08.023
+159	12.477121254719663							26.05			10^-3*s^-1	Lactone Hydrolysis	35	11.46961	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	0.03M NaOH; rates reported as 10^3 kobs	10.1016/j.saa.2006.08.023
+159	10.6							5.23			10^-5*s^-1	Lactone Hydrolysis	25	11.46961	Garrett E.R. et al J. Phar. Sci. 60(3) (1971) 396-405	.011M NaOH; Ea taken from El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	10.1002/jps.2600600312
+159	10.78							5.62			10^-5*s^-1	Lactone Hydrolysis	25	11.46961	Garrett E.R. et al J. Phar. Sci. 60(3) (1971) 396-405	.015M NaOH;  Ea taken from El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	10.1002/jps.2600600312
+159	10.97							7.78			10^-5*s^-1	Lactone Hydrolysis	25	11.46961	Garrett E.R. et al J. Phar. Sci. 60(3) (1971) 396-405	0.0185M NaOH;  Ea taken from El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	10.1002/jps.2600600312
+159								1000			kobs	Lactone Hydrolysis			Garrett E.R. et al J. Phar. Sci. 60(3) (1971) 396-405		10.1002/jps.2600600312
+189	7			0.9708333333333333			days				days	N-S Cleavage	25	25.8	HPVsummary (link broken when accessed on 01/21/16, alternate toxnet document provided which indirectly verifies the same rate)		
+35	3.9							1.9e-09			sec^-1	Halogenated Aliphatics: Elimination	27	24.69	wolfe N.L. et al Environ. Sci. Technol. 11, 1077, 1977.	the pH 3.9 reaction was in five percent acetonitrle-water solvent; the pH 12.1 is second order rate, units in M-1s-1	
+35	12.1							0.0099			M^-1 sec^-1	Halogenated Aliphatics: Elimination	27	24.69	wolfe N.L. et al Environ. Sci. Technol. 11, 1077, 1977.	the pH 3.9 reaction was in five percent acetonitrle-water solvent; the pH 12.1 is second order rate, units in M-1s-1	
+35	3.9							8.6e-06			sec^-1	Halogenated Aliphatics: Elimination	95	24.69	wolfe N.L. et al Environ. Sci. Technol. 11, 1077, 1977.		
+126	5			70			days				days	Carbamate Hydrolysis	22	17.9	104801_desmedipham_(PUBLIC)_(hydrolysis)	European Commission, Review Report for the active substance desmedipham, February 2004	
+126	7			0.8166666666666668			days				days	Carbamate Hydrolysis	22	17.9	104801_desmedipham_(PUBLIC)_(hydrolysis)	European Commission, Review Report for the active substance desmedipham, February 2004	
+126	9			0.007083333333333334			days				days	Carbamate Hydrolysis	22	17.9	104801_desmedipham_(PUBLIC)_(hydrolysis)	European Commission, Review Report for the active substance desmedipham, February 2004	
+126	5			39			days				days	Carbamate Hydrolysis	25	17.9	104801_desmedipham_(PUBLIC)_(hydrolysis)		
+126	7			0.5			days				days	Carbamate Hydrolysis	25	17.9	104801_desmedipham_(PUBLIC)_(hydrolysis)		
+126	9			0.004861111111111111			days				days	Carbamate Hydrolysis	25	17.9	104801_desmedipham_(PUBLIC)_(hydrolysis)		
+54	7.2			2.1			days				days	Organophosphorus Ester Hydrolysis	25	17.5	 Park BJ et al Korean Journal of Pesticide Science. 2(2), 1998, 39-44; xxxxxx_iprobenfos_(hydrolysis-DOCs)NO MAP-NEW		
+54	9			5.5			days				days	Organophosphorus Ester Hydrolysis	25	17.5	 Park BJ et al Korean Journal of Pesticide Science. 2(2), 1998, 39-44; xxxxxx_iprobenfos_(hydrolysis-DOCs)NO MAP-NEW		
+54	7.2			1			days				days	Organophosphorus Ester Hydrolysis	35	17.5	 Park BJ et al Korean Journal of Pesticide Science. 2(2), 1998, 39-44; xxxxxx_iprobenfos_(hydrolysis-DOCs)NO MAP-NEW		
+54	9			3.3			days				days	Organophosphorus Ester Hydrolysis	35	17.5	 Park BJ et al Korean Journal of Pesticide Science. 2(2), 1998, 39-44; xxxxxx_iprobenfos_(hydrolysis-DOCs)NO MAP-NEW		
+177	5.4							1e-06			sec^-1	Nitrile Hydrolysis	20	19.97	Glezer V et. al Wat. Res. Vol. 33, 8, 1938-1948, 1999	final concentration of 20-50 ppm in o.1 N HCl, at 20 deg C	10.1016/s0043-1354(98)00361-3
+177	7.2							9e-06			sec^-1	Nitrile Hydrolysis	20	19.97	Glezer V et. al Wat. Res. Vol. 33, 8, 1938-1948, 1999	final concentration of 20-50 ppm in o.1 N HCl, at 20 deg C	10.1016/s0043-1354(98)00361-3
+177	8.7							8e-05			sec^-1	Nitrile Hydrolysis	20	19.97	Glezer V et. al Wat. Res. Vol. 33, 8, 1938-1948, 1999	final concentration of 20-50 ppm in o.1 N HCl, at 20 deg C	10.1016/s0043-1354(98)00361-3
+179								1.78e-07			sec^-1	Nitrile Hydrolysis	20.149999999999977	19.97	Reckhow, D.A. et al AQUA 2001	rates measured at pH 6, 7, 7.5, 8, 8.5 & 9	
+179								3.42			M^-1 sec^-1	Nitrile Hydrolysis	20.149999999999977	19.97	Reckhow, D.A. et al AQUA 2001	rates measured at pH 6, 7, 7.5, 8, 8.5 & 9	
+67	7							300			sec^-1	Acid Halide Hydrolysis	20	19.05	Prager et al  J. Chem. Soc., Perkin Trans. 2, 2001		
+50	5			2.08			days	3.8e-06			sec^-1	Organophosphorus Ester Hydrolysis	30	17.5	EFSA 108102 Dichlorvos		
+50	7			0.75			days	1.09e-05			sec^-1	Organophosphorus Ester Hydrolysis	30	17.5	EFSA 108102 Dichlorvos		
+50	9			0.67			days	1.19e-05			sec^-1	Organophosphorus Ester Hydrolysis	30	17.5	EFSA 108102 Dichlorvos		
+50	7			1.3			days	6.13e-06			sec^-1	Organophosphorus Ester Hydrolysis	20	17.5	EFSA 108102 Dichlorvos		
+50	13			0.0005416666666666666			days	0.0148			sec^-1	Organophosphorus Ester Hydrolysis	20	17.5	EFSA 108102 Dichlorvos		
+100	5			363			days				days	Carboxylic Acid Ester Hydrolysis	25	14.34	EFSA Diclofop-methyl 10-11-2012	Goerlitz G., Eyrich U. 1990	
+100	7			31.7			days				days	Carboxylic Acid Ester Hydrolysis	25	14.34	EFSA Diclofop-methyl 10-11-2012	Goerlitz G., Eyrich U. 1990	
+100	9			0.52			days				days	Carboxylic Acid Ester Hydrolysis	25	14.34	EFSA Diclofop-methyl 10-11-2012	Goerlitz G., Eyrich U. 1990	
+148	4			143.6			days	0.00048			days^-1	Sulfonylurea Hydrolysis	10	26.649139579349903	129091_Ethametsulfuron_(EFSA Hydrolysis Information)		
+148	4			11.2			days	0.062			days^-1	Sulfonylurea Hydrolysis	25	26.649139579349903	129091_Ethametsulfuron_(EFSA Hydrolysis Information)		
+148	4			3.5			days	0.198			days^-1	Sulfonylurea Hydrolysis	35	26.649139579349903	129091_Ethametsulfuron_(EFSA Hydrolysis Information)		
+148	4			0.4			days	1.835			days^-1	Sulfonylurea Hydrolysis	50	26.649139579349903	129091_Ethametsulfuron_(EFSA Hydrolysis Information)		
+148	7			9.7			days	0.071			days^-1	Sulfonylurea Hydrolysis	50	37.66730401529637	129091_Ethametsulfuron_(EFSA Hydrolysis Information)		
+148	7			2.5			days	0.273			days^-1	Sulfonylurea Hydrolysis	60	37.66730401529637	129091_Ethametsulfuron_(EFSA Hydrolysis Information)		
+148	7			0.3			days	2.187			days^-1	Sulfonylurea Hydrolysis	70	37.66730401529637	129091_Ethametsulfuron_(EFSA Hydrolysis Information)		
+148	9			14.4			days	0.048			days^-1	Sulfonylurea Hydrolysis	50	39.69885277246654	129091_Ethametsulfuron_(EFSA Hydrolysis Information)		
+148	9			2.7			days	0.253			days^-1	Sulfonylurea Hydrolysis	60	39.69885277246654	129091_Ethametsulfuron_(EFSA Hydrolysis Information)		
+148	9			0.4			days	1.769			days^-1	Sulfonylurea Hydrolysis	70	39.69885277246654	129091_Ethametsulfuron_(EFSA Hydrolysis Information)		
+124	9			13.310185185185185			days	5.950000000000001e-06			sec^-1	Carbamate Hydrolysis	20	17.9	Sanz-Asensio, Jesus, et al. Pestic. Sci. 1997, 50, 187-194		10.1002/(sici)1096-9063(199707)50:3<187::aid-ps580>3.0.co;2-h
+124	12					0.00000833			0.013		sec^-1	Carbamate Hydrolysis	20	17.9	Sanz-Asensio, Jesus, et al. Pestic. Sci. 1997, 50, 187-194		10.1002/(sici)1096-9063(199707)50:3<187::aid-ps580>3.0.co;2-h
+124	6			0.37037037037037035			days	2.15e-05			sec^-1	Carbamate Hydrolysis	50	17.9	Sanz-Asensio, Jesus, et al. Pestic. Sci. 1997, 50, 187-194		10.1002/(sici)1096-9063(199707)50:3<187::aid-ps580>3.0.co;2-h
+124	9			0.013310185185185185			days	0.000625			sec^-1	Carbamate Hydrolysis	50	17.9	Sanz-Asensio, Jesus, et al. Pestic. Sci. 1997, 50, 187-194		10.1002/(sici)1096-9063(199707)50:3<187::aid-ps580>3.0.co;2-h
+124	12					0.00000833			0.013		sec^-1	Carbamate Hydrolysis	50	17.9	Sanz-Asensio, Jesus, et al. Pestic. Sci. 1997, 50, 187-194		10.1002/(sici)1096-9063(199707)50:3<187::aid-ps580>3.0.co;2-h
+90	7							0.0003499			sec^-1	Acid Halide Hydrolysis: another mechanism	24.525	17.66	Queen A. C. J. Chem. 45, 1619 (1967)		
+161	10.602059991327963							0.77			10^-3*s^-1	Lactone Hydrolysis	20	15.63	Ewais H.A. et al Res.J.Chem. Sci. 2(12) (2012) 57-64	0.0004M NaOH	
+161	10.681241237375588							0.91			10^-3*s^-1	Lactone Hydrolysis	20	15.63	Ewais H.A. et al Res.J.Chem. Sci. 2(12) (2012) 57-64	0.00048M NaOH	
+161	10.7481880270062							1.12			10^-3*s^-1	Lactone Hydrolysis	20	15.63	Ewais H.A. et al Res.J.Chem. Sci. 2(12) (2012) 57-64	.00056M NaOH	
+161	10.903089986991944							1.65			10^-3*s^-1	Lactone Hydrolysis	20	15.63	Ewais H.A. et al Res.J.Chem. Sci. 2(12) (2012) 57-64	0.0008M NaOH	
+161	11.204119982655925							2.98			10^-3*s^-1	Lactone Hydrolysis	20	15.63	Ewais H.A. et al Res.J.Chem. Sci. 2(12) (2012) 57-64	0.0016M NaOH	
+161	11.380211241711606							4.18			10^-3*s^-1	Lactone Hydrolysis	20	15.63	Ewais H.A. et al Res.J.Chem. Sci. 2(12) (2012) 57-64	0.0024M NaOH	
+161	11.505149978319906							5.29			10^-3*s^-1	Lactone Hydrolysis	20	15.63	Ewais H.A. et al Res.J.Chem. Sci. 2(12) (2012) 57-64	0.0032M NaOH	
+161	11.602059991327963							6.06			10^-3*s^-1	Lactone Hydrolysis	20	15.63	Ewais H.A. et al Res.J.Chem. Sci. 2(12) (2012) 57-64	0.004 M NaOH	
+161	10.602059991327963							0.96			10^-3*s^-1	Lactone Hydrolysis	25	15.63	Ewais H.A. et al Res.J.Chem. Sci. 2(12) (2012) 57-64	0.0004M NaOH	
+161	10.681241237375588							1.11			10^-3*s^-1	Lactone Hydrolysis	25	15.63	Ewais H.A. et al Res.J.Chem. Sci. 2(12) (2012) 57-64	0.00048M NaOH	
+161	10.7481880270062							1.32			10^-3*s^-1	Lactone Hydrolysis	25	15.63	Ewais H.A. et al Res.J.Chem. Sci. 2(12) (2012) 57-64	.00056M NaOH	
+161	10.903089986991944							2.05			10^-3*s^-1	Lactone Hydrolysis	25	15.63	Ewais H.A. et al Res.J.Chem. Sci. 2(12) (2012) 57-64	0.0008M NaOH	
+161	11.204119982655925							3.83			10^-3*s^-1	Lactone Hydrolysis	25	15.63	Ewais H.A. et al Res.J.Chem. Sci. 2(12) (2012) 57-64	0.0016M NaOH	
+161	11.380211241711606							5.02			10^-3*s^-1	Lactone Hydrolysis	25	15.63	Ewais H.A. et al Res.J.Chem. Sci. 2(12) (2012) 57-64	0.0024M NaOH	
+161	11.505149978319906							6.21			10^-3*s^-1	Lactone Hydrolysis	25	15.63	Ewais H.A. et al Res.J.Chem. Sci. 2(12) (2012) 57-64	0.0032M NaOH	
+161	11.602059991327963							7.56			10^-3*s^-1	Lactone Hydrolysis	25	15.63	Ewais H.A. et al Res.J.Chem. Sci. 2(12) (2012) 57-64	0.004 M NaOH	
+161	10.602059991327963							1.1			10^-3*s^-1	Lactone Hydrolysis	30	15.63	Ewais H.A. et al Res.J.Chem. Sci. 2(12) (2012) 57-64	0.0004M NaOH	
+161	10.681241237375588							1.38			10^-3*s^-1	Lactone Hydrolysis	30	15.63	Ewais H.A. et al Res.J.Chem. Sci. 2(12) (2012) 57-64	0.00048M NaOH	
+161	10.7481880270062							1.53			10^-3*s^-1	Lactone Hydrolysis	30	15.63	Ewais H.A. et al Res.J.Chem. Sci. 2(12) (2012) 57-64	.00056M NaOH	
+161	10.903089986991944							2.46			10^-3*s^-1	Lactone Hydrolysis	30	15.63	Ewais H.A. et al Res.J.Chem. Sci. 2(12) (2012) 57-64	0.0008M NaOH	
+161	11.204119982655925							4.67			10^-3*s^-1	Lactone Hydrolysis	30	15.63	Ewais H.A. et al Res.J.Chem. Sci. 2(12) (2012) 57-64	0.0016M NaOH	
+161	11.380211241711606							6.21			10^-3*s^-1	Lactone Hydrolysis	30	15.63	Ewais H.A. et al Res.J.Chem. Sci. 2(12) (2012) 57-64	0.0024M NaOH	
+161	11.505149978319906							7.3			10^-3*s^-1	Lactone Hydrolysis	30	15.63	Ewais H.A. et al Res.J.Chem. Sci. 2(12) (2012) 57-64	0.0032M NaOH	
+161	11.602059991327963							8.85			10^-3*s^-1	Lactone Hydrolysis	30	15.63	Ewais H.A. et al Res.J.Chem. Sci. 2(12) (2012) 57-64	0.004 M NaOH	
+161	10.602059991327963							1.48			10^-3*s^-1	Lactone Hydrolysis	35	15.63	Ewais H.A. et al Res.J.Chem. Sci. 2(12) (2012) 57-64	0.0004M NaOH	
+161	10.681241237375588							1.83			10^-3*s^-1	Lactone Hydrolysis	35	15.63	Ewais H.A. et al Res.J.Chem. Sci. 2(12) (2012) 57-64	0.00048M NaOH	
+161	10.7481880270062							2.26			10^-3*s^-1	Lactone Hydrolysis	35	15.63	Ewais H.A. et al Res.J.Chem. Sci. 2(12) (2012) 57-64	.00056M NaOH	
+161	10.903089986991944							3.25			10^-3*s^-1	Lactone Hydrolysis	35	15.63		0.0008M NaOH	
+161	11.204119982655925							5.81			10^-3*s^-1	Lactone Hydrolysis	35	15.63		0.0016M NaOH	
+161	11.380211241711606							7.75			10^-3*s^-1	Lactone Hydrolysis	35	15.63		0.0024M NaOH	
+161	11.505149978319906							9.43			10^-3*s^-1	Lactone Hydrolysis	35	15.63		0.0032M NaOH	
+161	11.602059991327963							12.5			10^-3*s^-1	Lactone Hydrolysis	35	15.63		0.004 M NaOH	
+161	10.602059991327963							1.98			10^-3*s^-1	Lactone Hydrolysis	40	15.63	    	0.0004M NaOH	
+161	10.681241237375588							2.55			10^-3*s^-1	Lactone Hydrolysis	40	15.63	    	0.00048M NaOH	
+161	10.7481880270062							2.97			10^-3*s^-1	Lactone Hydrolysis	40	15.63	    	.00056M NaOH	
+161	10.903089986991944							4.74			10^-3*s^-1	Lactone Hydrolysis	40	15.63	    	0.0008M NaOH	
+161	11.204119982655925							8.06			10^-3*s^-1	Lactone Hydrolysis	40	15.63	    	0.0016M NaOH	
+161	11.380211241711606							9.61			10^-3*s^-1	Lactone Hydrolysis	40	15.63	    	0.0024M NaOH	
+161	11.505149978319906							11.76			10^-3*s^-1	Lactone Hydrolysis	40	15.63	    	0.0032M NaOH	
+161	11.602059991327963							18.2			10^-3*s^-1	Lactone Hydrolysis	40	15.63	    	0.004 M NaOH	
+161								10000			kobs	Lactone Hydrolysis			    		
+123	7			50000			years					Carbamate Hydrolysis	25	17.9	Schwarzenbach, Rene, Gschwend, Philip, and Imboden, Dieter. Environmental Organical Chemistry Second Edition, 2003. p 529		
+123								4.5e-06			M^-1s^-1	Carbamate Hydrolysis	25	17.9	Schwarzenbach, Rene, Gschwend, Philip, and Imboden, Dieter. Environmental Organical Chemistry Second Edition, 2003. p 529		
+43								0.00533			M^-1sec^-1	Epoxide Hydrolysis	20	18.99	Bogyo D.A. et al EPA-560/11-80-005, 1980; Bronsted J.N. et al J. Amer. Chem. Soc. 51, 428-461, 1929.	activation energy is for acid catalysis from Long et. al J. Am. Chem. Soc., 1957, 79 (10),  2362–2364	10.1021/ja01377a012
+43	7							3.6e-07			sec^-1	Epoxide Hydrolysis	20	18.99	Bogyo D.A. et al EPA-560/11-80-005, 1980; Bronsted J.N. et al J. Amer. Chem. Soc. 51, 428-461, 1929.	activation energy is for acid catalysis from Long et. al J. Am. Chem. Soc., 1957, 79 (10),  2362–2364	10.1021/ja01377a012
+43								0.009			M^-1sec^-1	Epoxide Hydrolysis	25	18.99	Bogyo D.A. et al EPA-560/11-80-005, 1980; Long F.A. and Pritchard J.G. J. Am. Chem. Soc. 78, 2663-2667, 1956.	activation energy is for acid catalysis from Long et. al J. Am. Chem. Soc., 1957, 79 (10),  2362–2365	10.1021/ja01593a001
+43	7							5.56e-07			sec^-1	Epoxide Hydrolysis	25	18.99	Bogyo D.A. et al EPA-560/11-80-005, 1980; Long F.A. and Pritchard J.G. J. Am. Chem. Soc. 78, 2663-2667, 1956.	activation energy is for acid catalysis from Long et. al J. Am. Chem. Soc., 1957, 79 (10),  2362–2365	10.1021/ja01593a001
+43								1.05			M^-1 sec^-1	Epoxide Hydrolysis	25	18.99	Bogyo D.A. et al EPA-560/11-80-005, 1980; Long F.A. and Pritchard J.G. J. Am. Chem. Soc. 78, 2663-2667, 1956.	activation energy is for acid catalysis from Long et. al J. Am. Chem. Soc., 1957, 79 (10),  2362–2365	10.1021/ja01593a001
+43	7							1.92e-05			sec^-1	Epoxide Hydrolysis	60	18.99	Bogyo D.A. et al EPA-560/11-80-005, 1980; Long F.A. and Pritchard J.G. J. Am. Chem. Soc. 78, 2663-2667, 1956.	activation energy is for acid catalysis from Long et. al J. Am. Chem. Soc., 1957, 79 (10),  2362–2366	10.1021/ja01593a001
+43	7							4.39e-05			sec^-1	Epoxide Hydrolysis	70	18.99	Bogyo D.A. et al EPA-560/11-80-005, 1980; Long F.A. and Pritchard J.G. J. Am. Chem. Soc. 78, 2663-2667, 1956.	activation energy is for acid catalysis from Long et. al J. Am. Chem. Soc., 1957, 79 (10),  2362–2367	10.1021/ja01593a001
+155	4			0.86			days				days	Sulfonylurea Hydrolysis: Ring Contraction	22	22.66	USEPA Memorandum PC Code 119011. The Drinking Water Degredates Identification Memorandum for Flazasulfuron. February 1, 2011		
+155	5			3.91			days				days	Sulfonylurea Hydrolysis: Ring Contraction	22	22.66	USEPA Memorandum PC Code 119011. The Drinking Water Degredates Identification Memorandum for Flazasulfuron. February 1, 2011		
+155	7			17.37			days				days	Sulfonylurea Hydrolysis: Ring Contraction	22	22.66	USEPA Memorandum PC Code 119011. The Drinking Water Degredates Identification Memorandum for Flazasulfuron. February 1, 2011		
+155	9			13.49			days				days	Sulfonylurea Hydrolysis: Ring Contraction	22	22.66	USEPA Memorandum PC Code 119011. The Drinking Water Degredates Identification Memorandum for Flazasulfuron. February 1, 2011		
+180	9			204			days				days	Nitrile Hydrolysis	25.149999999999977	19.97	EFSA, 2005		
+180	9			17.1			days				days	Nitrile Hydrolysis	40.14999999999998	19.97	EFSA, 2005		
+180	9			9			days				days	Nitrile Hydrolysis	50.14999999999998	19.97	EFSA, 2005		
+115	5			105			days				days	Amide Hydrolysis	50	17.68	EFSA Flufenoxuron 10-11-2012		
+115	7			32.5			days				days	Amide Hydrolysis	50	17.68	EFSA Flufenoxuron 10-11-2012		
+115	9			0.8			days				days	Amide Hydrolysis	50	17.68	EFSA Flufenoxuron 10-11-2012		
+115	5			206			days				days	Amide Hydrolysis	25	17.68	EFSA Flufenoxuron 10-11-2012		
+115	7			267			days				days	Amide Hydrolysis	25	17.68	EFSA Flufenoxuron 10-11-2012		
+115	9			36.7			days				days	Amide Hydrolysis	25	17.68	EFSA Flufenoxuron 10-11-2012		
+115	5			83.7			days				days	Amide Hydrolysis	40	17.68	EFSA Flufenoxuron 10-11-2012		
+115	7			50.8			days				days	Amide Hydrolysis	40	17.68	EFSA Flufenoxuron 10-11-2012		
+115	5			27.7			days				days	Amide Hydrolysis	70	17.68	EFSA Flufenoxuron 10-11-2012		
+115	7			2.1			days				days	Amide Hydrolysis	70	17.68	EFSA Flufenoxuron 10-11-2012		
+115	9			0.1			days				days	Amide Hydrolysis	70	17.68	EFSA Flufenoxuron 10-11-2012		
+153	5			44			days	0.0159			days^-1	Sulfonylurea Hydrolysis: Ring Contraction	20	22.66	Singles S. K. et al. Pestic Sci 55:288-300 (1999)	Figure 3 of this paper shows hydrolysis products at pH 9 (it looks like ring contraction followed by ester hydrolysis and hence the rate is so much faster)	10.1002/(sici)1096-9063(199903)55:3<288::aid-ps890>3.0.co;2-6
+153	7			12			days	0.0592			days^-1	Sulfonylurea Hydrolysis: Ring Contraction	20	22.66	Singles S. K. et al. Pestic Sci 55:288-300 (1999)	Figure 3 of this paper shows hydrolysis products at pH 9 (it looks like ring contraction followed by ester hydrolysis and hence the rate is so much faster)	10.1002/(sici)1096-9063(199903)55:3<288::aid-ps890>3.0.co;2-6
+153	9			0.42			days	1.64			days^-1	Sulfonylurea Hydrolysis: Ring Contraction	20	22.66	Singles S. K. et al. Pestic Sci 55:288-300 (1999)	Figure 3 of this paper shows hydrolysis products at pH 9 (it looks like ring contraction followed by ester hydrolysis and hence the rate is so much faster)	10.1002/(sici)1096-9063(199903)55:3<288::aid-ps890>3.0.co;2-6
+153	5			7.5			days	0.0927			days^-1	Sulfonylurea Hydrolysis: Ring Contraction	30	22.66	Singles S. K. et al. Pestic Sci 55:288-300 (1999)		10.1002/(sici)1096-9063(199903)55:3<288::aid-ps890>3.0.co;2-6
+153	7			4.2			days	0.163			days^-1	Sulfonylurea Hydrolysis: Ring Contraction	30	22.66	Singles S. K. et al. Pestic Sci 55:288-300 (1999)		10.1002/(sici)1096-9063(199903)55:3<288::aid-ps890>3.0.co;2-6
+153	9			0.097			days	7.18			days^-1	Sulfonylurea Hydrolysis: Ring Contraction	30	22.66	Singles S. K. et al. Pestic Sci 55:288-300 (1999)		10.1002/(sici)1096-9063(199903)55:3<288::aid-ps890>3.0.co;2-6
+101	5				454							Carboxylic Acid Ester Hydrolysis	25		EFSA Fluroxypyr 10-11-2012	Lehmann R.G. 1987	
+101	7			454			days	0.00153			days^-1	Carboxylic Acid Ester Hydrolysis	25		EFSA Fluroxypyr 10-11-2012	Lehmann R.G. 1987	
+101	9			3.2			days	0.215			days^-1	Carboxylic Acid Ester Hydrolysis	25		EFSA Fluroxypyr 10-11-2012	Lehmann R.G. 1987	
+186	5			0.10833333333333334			days				days	N-S Cleavage	25	25.8	EFSA Folpet 2004		
+186	7			0.04583333333333334			days				days	N-S Cleavage	25	25.8	EFSA Folpet 2004		
+186	9			0.000775462962962963			days				days	N-S Cleavage	25	25.8	EFSA Folpet 2004		
+186	4			0.2704166666666667			days				days	N-S Cleavage	25	25.8	EFSA Folpet 2004		
+186	7			0.028333333333333335			days				days	N-S Cleavage	25	25.8	EFSA Folpet 2004		
+186	9											N-S Cleavage	25	25.8	EFSA Folpet 2004		
+186	4			0.2604166666666667			days				days	N-S Cleavage	25	25.8	EFSA Folpet 2004		
+186	7			0.029583333333333333			days				days	N-S Cleavage	25	25.8	EFSA Folpet 2004		
+186	4			0.04416666666666667			days				days	N-S Cleavage	40	25.8	EFSA Folpet 2004		
+186	9											N-S Cleavage	40	25.8	EFSA Folpet 2004		
+186	7			0.0075			days				days	N-S Cleavage	40	25.8	EFSA Folpet 2004		
+186	7.14							0.00014			sec^-1	N-S Cleavage	28	25.8	Wolfe, N.L. et al. J Agric. Food Chem. 1976, 24, 1041-1045		10.1021/jf60207a004
+64	7							400			sec^-1	Acid Halide Hydrolysis	20	19.05	Prager et al  J. Chem. Soc., Perkin Trans. 2, 2001		
+110	7							0.0027			sec^-1	Anhydride Hydrolysis	25.1	12	Bunton C.A. et al J. Chem. Soc., 1963, 2918-2926	rates in s-1	10.1039/jr9630002918
+110	7							0.000423			sec^-1	Anhydride Hydrolysis	0	12	Bunton C.A. et al J. Chem. Soc., 1963, 2918-2926		10.1039/jr9630002918
+134	7			13.9			days				days	Sulfonylurea Hydrolysis	25	22.66	EFSA Draft Assessment Report for Halosulfuron-methyl, Oct. 28, 2011.	Temp 25 +/- 0.4	
+134	9										days	Sulfonylurea Hydrolysis	25	22.66	EFSA Draft Assessment Report for Halosulfuron-methyl, Oct. 28, 2011.	Temp 25 +/- 0.4	
+134	7			14.9			days				days	Sulfonylurea Hydrolysis	25	22.66	EFSA Draft Assessment Report for Halosulfuron-methyl, Oct. 28, 2011.		
+134	9										days	Sulfonylurea Hydrolysis	25	22.66	EFSA Draft Assessment Report for Halosulfuron-methyl, Oct. 28, 2011.		
+134	5			28.9			days				days	Sulfonylurea Hydrolysis	25	22.66	EFSA Draft Assessment Report for Halosulfuron-methyl, Oct. 28, 2011.		
+134	5			24.8			days				days	Sulfonylurea Hydrolysis	25	22.66	EFSA Draft Assessment Report for Halosulfuron-methyl, Oct. 28, 2011.		
+134	3.1			3.0708333333333333			days				days	Sulfonylurea Hydrolysis	25	19.28776290630975	Zheng, Wei, Yates, Scott, and Papiernik, Sharon. Transformation Kinetics and Mechanism of the Sulfonylurea Herbicides Pyrazosulfuron ethyl and Halosulfuron methyl in aqueous solutions.J. Agric. Food Chem. 2008, 56, 7367–7372	supporting information, fig 3 shows neutral hydrolysis pH 5-7. This paper also discusses the contraction pathway as well as why  ester hydrolysis at alkaline pH is not occuring here	10.1021/jf800899e
+134	5			25.1125			days				days	Sulfonylurea Hydrolysis	25	22.66	Zheng, Wei, Yates, Scott, and Papiernik, Sharon. Transformation Kinetics and Mechanism of the Sulfonylurea Herbicides Pyrazosulfuron ethyl and Halosulfuron methyl in aqueous solutions.J. Agric. Food Chem. 2008, 56, 7367–7372	"""Similarly, a cleavage of HM’s sulfonylurea bridge was
+observed in acid and neutral aqueous buffer solutions (pH e
+7), producing carbon dioxide and the corresponding pyrazolesulfonamide
+and pyrimidine amine (metabolites 1 and 2 in
+Figure 1). Unlike PE, however, only the contraction product
+(metabolite 3) was detected shortly after HM was spiked to basic
+solutions (Figure 2B and Figure S3 of the Supporting Information).
+This result suggests that the cleavage of HM’s sulfonylurea
+bridge is insignificant and that the bridge contraction is a
+predominant hydrolysis mechanism for HM in basic solution.
+The maximum concentration of the contraction product was
+observed when HM had completely disappeared (Figure 2B).
+The concentration of the contraction product then decreased
+gradually, with a concurrent gradual increase in the pyrimidine
+amine (metabolite 2). This result indicates that the contraction
+product of HM is not stable and it may decompose to its
+corresponding products, for example, pyrimidine amine, via
+further hydrolysis (Figure 1)."""	10.1021/jf800899e
+134	6.9			25.558333333333334			days				days	Sulfonylurea Hydrolysis	25	22.66	Zheng, Wei, Yates, Scott, and Papiernik, Sharon. Transformation Kinetics and Mechanism of the Sulfonylurea Herbicides Pyrazosulfuron ethyl and Halosulfuron methyl in aqueous solutions.J. Agric. Food Chem. 2008, 56, 7367–7372		10.1021/jf800899e
+134	9										days	Sulfonylurea Hydrolysis	25	20.172084130019122	Zheng, Wei, Yates, Scott, and Papiernik, Sharon. Transformation Kinetics and Mechanism of the Sulfonylurea Herbicides Pyrazosulfuron ethyl and Halosulfuron methyl in aqueous solutions.J. Agric. Food Chem. 2008, 56, 7367–7372	according to Zheng paper; no sulfonyl urea hydrolsis products observed at basic pH	10.1021/jf800899e
+134	9.8										days	Sulfonylurea Hydrolysis	25	20.172084130019122	Zheng, Wei, Yates, Scott, and Papiernik, Sharon. Transformation Kinetics and Mechanism of the Sulfonylurea Herbicides Pyrazosulfuron ethyl and Halosulfuron methyl in aqueous solutions.J. Agric. Food Chem. 2008, 56, 7367–7372		10.1021/jf800899e
+134	9			0.733			days				days	Sulfonylurea Hydrolysis: Ring Contraction	25	22.66	EFSA Draft Assessment Report for Halosulfuron-methyl, Oct. 28, 2011.	Temp 25 +/- 0.4	
+134	9			0.813			days				days	Sulfonylurea Hydrolysis: Ring Contraction	25	22.66	EFSA Draft Assessment Report for Halosulfuron-methyl, Oct. 28, 2011.		
+134	9			0.7666666666666666			days				days	Sulfonylurea Hydrolysis: Ring Contraction	25	20.172084130019122	Zheng, Wei, Yates, Scott, and Papiernik, Sharon. Transformation Kinetics and Mechanism of the Sulfonylurea Herbicides Pyrazosulfuron ethyl and Halosulfuron methyl in aqueous solutions.J. Agric. Food Chem. 2008, 56, 7367–7372	according to Zheng paper; no sulfonyl urea hydrolsis products observed at basic pH	10.1021/jf800899e
+134	9.8			0.09166666666666667			days				days	Sulfonylurea Hydrolysis: Ring Contraction	25	20.172084130019122	Zheng, Wei, Yates, Scott, and Papiernik, Sharon. Transformation Kinetics and Mechanism of the Sulfonylurea Herbicides Pyrazosulfuron ethyl and Halosulfuron methyl in aqueous solutions.J. Agric. Food Chem. 2008, 56, 7367–7372		10.1021/jf800899e
+146	4			6.8			days				days	Sulfonylurea Hydrolysis	25	22.66	USEPA Memorandum PC Code 118602. The Drinking Water Degradates Identification Memorandum for Imazosulfuron	MRID 47305119: Walsh & DiFrancesco (2007) unpublished study	
+146	7											Sulfonylurea Hydrolysis	25	22.66	USEPA Memorandum PC Code 118602. The Drinking Water Degradates Identification Memorandum for Imazosulfuron	MRID 47305119: Walsh & DiFrancesco (2007) unpublished study	
+146	9											Sulfonylurea Hydrolysis	25	22.66	USEPA Memorandum PC Code 118602. The Drinking Water Degradates Identification Memorandum for Imazosulfuron	MRID 47305119: Walsh & DiFrancesco (2007) unpublished study	
+146	4			7.1			days				days	Sulfonylurea Hydrolysis	25	22.66	USEPA Memorandum PC Code 118602. The Drinking Water Degradates Identification Memorandum for Imazosulfuron		
+146	7											Sulfonylurea Hydrolysis	25	22.66	USEPA Memorandum PC Code 118602. The Drinking Water Degradates Identification Memorandum for Imazosulfuron		
+146	9											Sulfonylurea Hydrolysis	25	22.66	USEPA Memorandum PC Code 118602. The Drinking Water Degradates Identification Memorandum for Imazosulfuron		
+53	4			95			days				days	Organophosphorus Ester Hydrolysis	25	17.5	 Park BJ et al Korean Journal of Pesticide Science. 2(2), 1998, 39-44; xxxxxx_iprobenfos_(hydrolysis-DOCs)NO MAP-NEW		
+53	7.2			87			days				days	Organophosphorus Ester Hydrolysis	25	17.5	 Park BJ et al Korean Journal of Pesticide Science. 2(2), 1998, 39-44; xxxxxx_iprobenfos_(hydrolysis-DOCs)NO MAP-NEW		
+53	9			81			days				days	Organophosphorus Ester Hydrolysis	25	17.5	 Park BJ et al Korean Journal of Pesticide Science. 2(2), 1998, 39-44; xxxxxx_iprobenfos_(hydrolysis-DOCs)NO MAP-NEW		
+53	4			36			days				days	Organophosphorus Ester Hydrolysis	35	17.5	 Park BJ et al Korean Journal of Pesticide Science. 2(2), 1998, 39-44; xxxxxx_iprobenfos_(hydrolysis-DOCs)NO MAP-NEW		
+53	7.2			39			days				days	Organophosphorus Ester Hydrolysis	35	17.5	 Park BJ et al Korean Journal of Pesticide Science. 2(2), 1998, 39-44; xxxxxx_iprobenfos_(hydrolysis-DOCs)NO MAP-NEW		
+53	9			54			days				days	Organophosphorus Ester Hydrolysis	35	17.5	 Park BJ et al Korean Journal of Pesticide Science. 2(2), 1998, 39-44; xxxxxx_iprobenfos_(hydrolysis-DOCs)NO MAP-NEW		
+167	9			0.014583333333333334			days	0.00055			sec^-1	Imide Hydrolysis	25	18.65	Belafdal O et. al Pestic. Sci. 1986, 17, 335-342		10.1002/ps.2780170403
+92	7							0.002046			sec^-1	Acid Halide Hydrolysis: another mechanism	24.54	24.69	Queen A. C. J. Chem. 45, 1619 (1967)		
+132	3.3							1.72e-06			s^-1	Urea Hydrolysis	60	17.5	Penning H. et al. Environ. Sci. Technol. 2008, 42, 7764–7771	rates units in  10^7 S-1, .05 M phosphate	10.1021/es801101c
+132	4.2							1.9e-06			s^-1	Urea Hydrolysis	60	17.5	Penning H. et al. Environ. Sci. Technol. 2008, 42, 7764–7771	.05 M Phosphate	10.1021/es801101c
+132	12							3.32e-06			s^-1	Urea Hydrolysis	60	17.5	Penning H. et al. Environ. Sci. Technol. 2008, 42, 7764–7771	.05M Phosphate	10.1021/es801101c
+132	6.6							2.48e-06			s^-1	Urea Hydrolysis	60	17.5	Penning H. et al. Environ. Sci. Technol. 2008, 42, 7764–7771	.3M phosphate, 0.4M KCl	10.1021/es801101c
+132	6.5							2.45e-06			s^-1	Urea Hydrolysis	60	17.5	Penning H. et al. Environ. Sci. Technol. 2008, 42, 7764–7771	.3M Phosphate	10.1021/es801101c
+132	6.2							2e-06			s^-1	Urea Hydrolysis	60	17.5	Penning H. et al. Environ. Sci. Technol. 2008, 42, 7764–7771	.05M Phosphate	10.1021/es801101c
+132	10.3							1.78e-06			s^-1	Urea Hydrolysis	60	17.5	Penning H. et al. Environ. Sci. Technol. 2008, 42, 7764–7771	.05M borate	10.1021/es801101c
+132	7.2							1.53e-06			s^-1	Urea Hydrolysis	60	17.5	Penning H. et al. Environ. Sci. Technol. 2008, 42, 7764–7771	.05M Phosphate	10.1021/es801101c
+132	8.4							8.8e-07			s^-1	Urea Hydrolysis	60	17.5	Penning H. et al. Environ. Sci. Technol. 2008, 42, 7764–7771	.05M Phosphate	10.1021/es801101c
+132	5.3							6.3e-07			s^-1	Urea Hydrolysis	60	17.5	Penning H. et al. Environ. Sci. Technol. 2008, 42, 7764–7771	1 M KCl	10.1021/es801101c
+132	5.4							3.1e-07			s^-1	Urea Hydrolysis	60	17.5	Penning H. et al. Environ. Sci. Technol. 2008, 42, 7764–7771	none	10.1021/es801101c
+102	5			875			days	9.166666666666666e-09			sec^-1	Carboxylic Acid Ester Hydrolysis	25		EFSA Kresoxim-methyl 10-11-2012	stable DT_50 extrapolated for pH 5; Ref: Bieber 1992	
+102	7			34			days	2.3611111111111108e-07			sec^-1	Carboxylic Acid Ester Hydrolysis	25		EFSA Kresoxim-methyl 10-11-2012	stable DT_50 extrapolated for pH 5; Ref: Bieber 1992	
+102	9			0.29			days	2.766203703703704e-05			sec^-1	Carboxylic Acid Ester Hydrolysis	25		EFSA Kresoxim-methyl 10-11-2012	stable DT_50 extrapolated for pH 5; Ref: Bieber 1992	
+102	5			822			days	9.756944444444444e-09			sec^-1	Carboxylic Acid Ester Hydrolysis	25		EFSA Kresoxim-methyl 10-11-2012	Van Beinum, Beulke, 2008	
+102	7			35			days	2.291666666666667e-07			sec^-1	Carboxylic Acid Ester Hydrolysis	25		EFSA Kresoxim-methyl 10-11-2012	Van Beinum, Beulke, 2008	
+102	9			0.38			days	2.0949074074074073e-05			sec^-1	Carboxylic Acid Ester Hydrolysis	25		EFSA Kresoxim-methyl 10-11-2012	Van Beinum, Beulke, 2008	
+114	1				720						days	Amide Hydrolysis	70	17.68	EFSA Lufenuron 10-11-2012		
+114	5				720						days	Amide Hydrolysis	25	17.68	EFSA Lufenuron 10-11-2012		
+114	7				720						days	Amide Hydrolysis	25	17.68	EFSA Lufenuron 10-11-2012		
+114	9			9062.8			days				days	Amide Hydrolysis	25	17.68	EFSA Lufenuron 10-11-2012		
+114	7			4066			days				days	Amide Hydrolysis	50	17.68	EFSA Lufenuron 10-11-2012		
+114	9			185.2			days				days	Amide Hydrolysis	50	17.68	EFSA Lufenuron 10-11-2012		
+114	5				720						days	Amide Hydrolysis	70	17.68	EFSA Lufenuron 10-11-2012		
+114	7			130.5			days				days	Amide Hydrolysis	70	17.68	EFSA Lufenuron 10-11-2012		
+114	9			4			days				days	Amide Hydrolysis	70	17.68	EFSA Lufenuron 10-11-2012		
+114	9			15512.1			days				days	Amide Hydrolysis	25	17.68	EFSA Lufenuron 10-11-2012		
+114	7			1858.4			days				days	Amide Hydrolysis	50	17.68	EFSA Lufenuron 10-11-2012		
+114	9			40.8			days				days	Amide Hydrolysis	50	17.68	EFSA Lufenuron 10-11-2012		
+114	7			45.7			days				days	Amide Hydrolysis	70	17.68	EFSA Lufenuron 10-11-2012		
+114	9			1.9			days				days	Amide Hydrolysis	70	17.68	EFSA Lufenuron 10-11-2012		
+111	7							0.0314			sec^-1	Anhydride Hydrolysis	25.1	14	Bunton C.A. et al J. Chem. Soc., 1963, 2918-2926	rates in s-1	10.1039/jr9630002918
+111	7							0.00348			sec^-1	Anhydride Hydrolysis	0	14	Bunton C.A. et al J. Chem. Soc., 1963, 2918-2926		10.1039/jr9630002918
+119	5			321			days				days	Carbamate Hydrolysis	25	17.9	EFSA Methiocarb 10-11-2012		
+119	7			24			days				days	Carbamate Hydrolysis	25	17.9	EFSA Methiocarb 10-11-2012		
+119	9			0.2			days				days	Carbamate Hydrolysis	25	17.9	EFSA Methiocarb 10-11-2012		
+120	5											Carbamate Hydrolysis	25	17.9	EFSA 090301Methomyl		
+120	7											Carbamate Hydrolysis	25	17.9	EFSA 090301Methomyl		
+120	9			36			days				days	Carbamate Hydrolysis	25	17.9	EFSA 090301Methomyl		
+120	5											Carbamate Hydrolysis	25	17.9	IPCS, Enivornmental Health Criteria 178, 1996		
+120	7											Carbamate Hydrolysis	25	17.9	IPCS, Enivornmental Health Criteria 178, 1996		
+120	9			30			days				days	Carbamate Hydrolysis	25	17.9	IPCS, Enivornmental Health Criteria 178, 1996		
+120	5											Carbamate Hydrolysis	25	17.9	EFSA 114501 Thiodicarb		
+120	7											Carbamate Hydrolysis	25	17.9	EFSA 114501 Thiodicarb		
+120	9			15.1			days				days	Carbamate Hydrolysis	25	17.9	EFSA 114501 Thiodicarb		
+89	7							0.0005624			sec^-1	Acid Halide Hydrolysis: another mechanism	25.025	16.79	Queen A. C. J. Chem. 45, 1619 (1967)		
+71	7							47330			sec^-1	Acid Halide Hydrolysis	4.616	20.209	Queen, A.; Nour, T.A.; Paddon-Row, M.N.; Preston, K. Kinetics of the hydrolysis of thiochloroformate esters in pure water. Can. J. Chem. 1970, 48, 522-527	table 1, table 2 (last 2 columns b/c environmentally relevant temps), pure water	10.1139/v70-087
+71	7							457800			sec^-1	Acid Halide Hydrolysis	20.053	20.209	Queen, A.; Nour, T.A.; Paddon-Row, M.N.; Preston, K. Kinetics of the hydrolysis of thiochloroformate esters in pure water. Can. J. Chem. 1970, 48, 522-527		10.1139/v70-087
+71	7							353100			sec^-1	Acid Halide Hydrolysis	18.148	20.209	Queen, A.; Nour, T.A.; Paddon-Row, M.N.; Preston, K. Kinetics of the hydrolysis of thiochloroformate esters in pure water. Can. J. Chem. 1970, 48, 522-527		10.1139/v70-087
+71	7							280000			sec^-1	Acid Halide Hydrolysis	16.498	20.209	Queen, A.; Nour, T.A.; Paddon-Row, M.N.; Preston, K. Kinetics of the hydrolysis of thiochloroformate esters in pure water. Can. J. Chem. 1970, 48, 522-527		10.1139/v70-087
+71	7							241800			sec^-1	Acid Halide Hydrolysis	15.41	20.209	Queen, A.; Nour, T.A.; Paddon-Row, M.N.; Preston, K. Kinetics of the hydrolysis of thiochloroformate esters in pure water. Can. J. Chem. 1970, 48, 522-527		10.1139/v70-087
+71	7							203300			sec^-1	Acid Halide Hydrolysis	14.245	20.209	Queen, A.; Nour, T.A.; Paddon-Row, M.N.; Preston, K. Kinetics of the hydrolysis of thiochloroformate esters in pure water. Can. J. Chem. 1970, 48, 522-527		10.1139/v70-087
+71	7							184700			sec^-1	Acid Halide Hydrolysis	13.605	20.209	Queen, A.; Nour, T.A.; Paddon-Row, M.N.; Preston, K. Kinetics of the hydrolysis of thiochloroformate esters in pure water. Can. J. Chem. 1970, 48, 522-527		10.1139/v70-087
+71	7							143200			sec^-1	Acid Halide Hydrolysis	11.83	20.209	Queen, A.; Nour, T.A.; Paddon-Row, M.N.; Preston, K. Kinetics of the hydrolysis of thiochloroformate esters in pure water. Can. J. Chem. 1970, 48, 522-527		10.1139/v70-087
+71	7							124800			sec^-1	Acid Halide Hydrolysis	10.881	20.209	Queen, A.; Nour, T.A.; Paddon-Row, M.N.; Preston, K. Kinetics of the hydrolysis of thiochloroformate esters in pure water. Can. J. Chem. 1970, 48, 522-527		10.1139/v70-087
+71	7							101100			sec^-1	Acid Halide Hydrolysis	9.534	20.209	Queen, A.; Nour, T.A.; Paddon-Row, M.N.; Preston, K. Kinetics of the hydrolysis of thiochloroformate esters in pure water. Can. J. Chem. 1970, 48, 522-527		10.1139/v70-087
+135	7			15.875			days				days	Sulfonylurea Hydrolysis	25	22.66	EFSA Draft Assessment Report for Tribenuron, July 29, 2005	Kemi, Tribenuron methyl Draft Assessment Report, Annex B8b, table 8.4.6.a.	
+135	9				200						days	Sulfonylurea Hydrolysis	25	22.66	EFSA Draft Assessment Report for Tribenuron, July 29, 2005	Kemi, Tribenuron methyl Draft Assessment Report, Annex B8b, table 8.4.6.a.	
+135	9											Sulfonylurea Hydrolysis			EFSA Draft Assessment Report for Tribenuron, July 29, 2005		
+135	4							0.147			days^-1	Sulfonylurea Hydrolysis	25	22.66	Metsulfuron-methyl EFSA		
+135	4							0.468			days^-1	Sulfonylurea Hydrolysis	35	22.66	Metsulfuron-methyl EFSA		
+135	4							1.46			days^-1	Sulfonylurea Hydrolysis	45	22.66	Metsulfuron-methyl EFSA		
+135	7							0.0213			days^-1	Sulfonylurea Hydrolysis	45	22.66	Metsulfuron-methyl EFSA		
+135	9							0.0474			days^-1	Sulfonylurea Hydrolysis	45	22.66	Metsulfuron-methyl EFSA		
+135	7							0.319			days^-1	Sulfonylurea Hydrolysis	65	22.66	Metsulfuron-methyl EFSA		
+135	9							0.567			days^-1	Sulfonylurea Hydrolysis	65	22.66	Metsulfuron-methyl EFSA		
+169	9							3.162277660168375e-05			sec^-1	Imide Hydrolysis	25	22.35	Donskikh A.I. et al Periodica polytechnica Chemical engineering. Vol 33, No 1 (1989), pp. 61-67	intrepreted from Fig. 2	
+169	10							0.00025118864315095774			sec^-1	Imide Hydrolysis	25	22.35	Donskikh A.I. et al Periodica polytechnica Chemical engineering. Vol 33, No 1 (1989), pp. 61-67		
+169	6							1e-05			sec^-1	Imide Hydrolysis	25	22.35	Donskikh A.I. et al Periodica polytechnica Chemical engineering. Vol 33, No 1 (1989), pp. 61-67	pH independent in pH range 5-6.5	
+169	5							1e-05			sec^-1	Imide Hydrolysis	25	22.35	Donskikh A.I. et al Periodica polytechnica Chemical engineering. Vol 33, No 1 (1989), pp. 61-67		
+168	11.3							0.0268			sec^-1	Imide Hydrolysis	47	10.37	Donskikh A.I. et al Periodica polytechnica Chemical engineering. Vol 33, No 1 (1989), pp. 61-67		
+190	4			0.07083333333333333			days	0.405			hr^-1	N-S Cleavage	25	25.8	OECDdoc		
+190	7			0.075			days	0.384			hr^-1	N-S Cleavage	25	25.8	OECDdoc		
+190	9			0.8958333333333334			days	0.0323			hr^-1	N-S Cleavage	25	25.8	OECDdoc		
+62	5			4			days				days	Organophosphorus Ester Hydrolysis	25	17.5	034401_naled_(hydrolysis-DOCs)-NEW		
+62	7			0.64			days				days	Organophosphorus Ester Hydrolysis	25	17.5	034401_naled_(hydrolysis-DOCs)-NEW		
+62	9			0.07			days				days	Organophosphorus Ester Hydrolysis	25	17.5	034401_naled_(hydrolysis-DOCs)-NEW		
+105	8							0.02			sec^-1	Anhydride Hydrolysis	30	13.01	Barros T.C. et al J. Chem. Soc., Perkin Trans. 2, 2001, 2342–2350	rates taken from fig 2; rate in s-1	
+105	9							0.13			sec^-1	Anhydride Hydrolysis	30	13.01	Barros T.C. et al J. Chem. Soc., Perkin Trans. 2, 2001, 2342–2350		
+138	5.03			15			days				days	Sulfonylurea Hydrolysis	25	22.66	EFSA Draft Assessment Report for Nicosulfuron, July 3, 2006.	Galicia and Mamouni, 1992	
+138	7											Sulfonylurea Hydrolysis	25	22.66	EFSA Draft Assessment Report for Nicosulfuron, July 3, 2006.	Galicia and Mamouni, 1992	
+138	9											Sulfonylurea Hydrolysis	25	22.66	EFSA Draft Assessment Report for Nicosulfuron, July 3, 2006.	Galicia and Mamouni, 1992	
+138	4			48			days				days	Sulfonylurea Hydrolysis	25	22.66	EFSA Draft Assessment Report for Nicosulfuron, July 3, 2006.	Cowlyn, 1993	
+118	5											Amide Hydrolysis	25	17.68	EFSA 124002 Novaluron		
+118	7											Amide Hydrolysis	25	17.68	EFSA 124002 Novaluron		
+118	9			101			days				days	Amide Hydrolysis	25	17.68	EFSA 124002 Novaluron		
+142	4							38.465			days^-1	Sulfonylurea Hydrolysis	50	22.66	EFSA Orthosulfamuron & EPA MRID #46219015 	Castoldi and Pizzingrilli (2000) unpublished study	
+142	7							0.01958			hours^-1	Sulfonylurea Hydrolysis	50	22.66	EFSA Orthosulfamuron & EPA MRID #46219015 		
+142	9							0.0868			days^-1	Sulfonylurea Hydrolysis	50	22.66	EFSA Orthosulfamuron & EPA MRID #46219015 		
+142	7							0.0284			days^-1	Sulfonylurea Hydrolysis	25	22.66	EPA MRID Number 46219015 (also EPA MRID Number 46219016 as a supporting/confirmatory source)		
+142	9							0.00304			days^-1	Sulfonylurea Hydrolysis	25	22.66	EPA MRID Number 46219015 (also EPA MRID Number 46219016 as a supporting/confirmatory source)		
+69	7								350		sec^-1	Acid Halide Hydrolysis	20	19.05	Prager et al  J. Chem. Soc., Perkin Trans. 2, 2001		
+60	5			93.7			days				days	Organophosphorus Ester Hydrolysis	25	17.5	058702_oxydemeton-methyl_(hydrolysis-docs)-NEW		
+60	7			39.6			days				days	Organophosphorus Ester Hydrolysis	25	17.5	058702_oxydemeton-methyl_(hydrolysis-docs)-NEW		
+60	9			2.5			days				days	Organophosphorus Ester Hydrolysis	25	17.5	058702_oxydemeton-methyl_(hydrolysis-docs)-NEW		
+60	5			21.7			days				days	Organophosphorus Ester Hydrolysis	40	17.5	058702_oxydemeton-methyl_(hydrolysis-docs)-NEW		
+60	7			7.5			days				days	Organophosphorus Ester Hydrolysis	40	17.5	058702_oxydemeton-methyl_(hydrolysis-docs)-NEW		
+60	9					1					days	Organophosphorus Ester Hydrolysis	40	17.5	058702_oxydemeton-methyl_(hydrolysis-docs)-NEW		
+60	4			4.9			days				days	Organophosphorus Ester Hydrolysis	50	17.5	058702_oxydemeton-methyl_(hydrolysis-docs)-NEW	pH4 in 0.01M Acetate buffer, pH in 0.01M Tris buffer and pH in 0.01 botate buffer	
+60	7			3.5			days					Organophosphorus Ester Hydrolysis	50	17.5	058702_oxydemeton-methyl_(hydrolysis-docs)-NEW	pH4 in 0.01M Acetate buffer, pH in 0.01M Tris buffer and pH in 0.01 botate buffer	
+60	9			0.2			days				days	Organophosphorus Ester Hydrolysis	50	17.5	058702_oxydemeton-methyl_(hydrolysis-docs)-NEW	pH4 in 0.01M Acetate buffer, pH in 0.01M Tris buffer and pH in 0.01 botate buffer	
+60	4			91			days				days	Organophosphorus Ester Hydrolysis	25	17.5	058702_oxydemeton-methyl_(hydrolysis-docs)-NEW	pH4 in 0.01M Acetate buffer, pH in 0.01M Tris buffer and pH in 0.01 botate buffer	
+60	7			42			days					Organophosphorus Ester Hydrolysis	25	17.5	058702_oxydemeton-methyl_(hydrolysis-docs)-NEW	pH4 in 0.01M Acetate buffer, pH in 0.01M Tris buffer and pH in 0.01 botate buffer	
+60	9			2.5			days				days	Organophosphorus Ester Hydrolysis	25	17.5	058702_oxydemeton-methyl_(hydrolysis-docs)-NEW	pH4 in 0.01M Acetate buffer, pH in 0.01M Tris buffer and pH in 0.01 botate buffer	
+133	5			46.3			days				days	Urea Hydrolysis	20	17.5	EFSA 128823 Pencycuron		
+133	7			156			days				days	Urea Hydrolysis	20	17.5	EFSA 128823 Pencycuron		
+133	5			4.7			days				days	Urea Hydrolysis	50	17.5	EFSA 128823 Pencycuron		
+133	7			14.2			days				days	Urea Hydrolysis	50	17.5	EFSA 128823 Pencycuron		
+133	9			163			days				days	Urea Hydrolysis	20	17.5	EFSA 128823 Pencycuron		
+133	9			14.8			days				days	Urea Hydrolysis	50	17.5	EFSA 128823 Pencycuron		
+33	7							0.000131			min^-1	Halogenated Aliphatics: Elimination	25	24.69	Jeffers, P.M. et. al Environ. Sci. Tech. 23, 965, 1989	rate in min-1	
+93	7							0.008437			sec^-1	Acid Halide Hydrolysis: another mechanism	19.6	14.7	Queen A. C. J. Chem. 45, 1619 (1967)		
+61	5			14.8			days				days	Organophosphorus Ester Hydrolysis	10	17.5	057201_phorate_(hydrolysis-docs)-NEW		
+61	7			18.2			days				days	Organophosphorus Ester Hydrolysis	10	17.5	057201_phorate_(hydrolysis-docs)-NEW		
+61	9			20.5			days				days	Organophosphorus Ester Hydrolysis	10	17.5	057201_phorate_(hydrolysis-docs)-NEW		
+61	5			5.54			days				days	Organophosphorus Ester Hydrolysis	20	17.5	057201_phorate_(hydrolysis-docs)-NEW		
+61	7			5.2			days				days	Organophosphorus Ester Hydrolysis	20	17.5	057201_phorate_(hydrolysis-docs)-NEW		
+61	9			5.3			days				days	Organophosphorus Ester Hydrolysis	20	17.5	057201_phorate_(hydrolysis-docs)-NEW		
+61	5			1.16			days				days	Organophosphorus Ester Hydrolysis	30	17.5	057201_phorate_(hydrolysis-docs)-NEW		
+61	7			1.25			days				days	Organophosphorus Ester Hydrolysis	30	17.5	057201_phorate_(hydrolysis-docs)-NEW		
+61	9			0.92			days				days	Organophosphorus Ester Hydrolysis	30	17.5	057201_phorate_(hydrolysis-docs)-NEW		
+61	5			2.36			days				days	Organophosphorus Ester Hydrolysis	25	17.5	057201_phorate_(hydrolysis-docs)-NEW	martin and Heim 1999 (PA-630-005)	
+61	7			2.47			days				days	Organophosphorus Ester Hydrolysis	25	17.5	057201_phorate_(hydrolysis-docs)-NEW	martin and Heim 1999 (PA-630-005)	
+61	9			2.08			days				days	Organophosphorus Ester Hydrolysis	25	17.5	057201_phorate_(hydrolysis-docs)-NEW	martin and Heim 1999 (PA-630-005)	
+63	7							6			sec^-1	Acid Halide Hydrolysis	20	19.05	Prager et al  J. Chem. Soc., Perkin Trans. 2, 2001, 1641–1647; W. H. Manogue and R. L. Pigford, AiChE J., 1960, 6, 494		10.1002/aic.690060329
+63	7							9			sec^-1	Acid Halide Hydrolysis	20	19.05	Prager et al  J. Chem. Soc., Perkin Trans. 2, 2001, 1641–1647; R. Mertens, C. von Sonntag, J. Lind and G. Merényi, Angew. Chem., Int. Ed. Engl., 1994, 33, 1259.		10.1002/anie.199412591
+49	5			7			days				days	Organophosphorus Ester Hydrolysis	25	17.5	EFSA 108102 Pirimiphos-methyl		
+49	7			117			days				days	Organophosphorus Ester Hydrolysis	25	17.5	EFSA 108102 Pirimiphos-methyl		
+49	9			75			days				days	Organophosphorus Ester Hydrolysis	25	17.5	EFSA 108102 Pirimiphos-methyl		
+49	4			2			days				days	Organophosphorus Ester Hydrolysis	25	17.5	EFSA 108102 Pirimiphos-methyl		
+56	5			106			days				days	Organophosphorus Ester Hydrolysis	25	17.5	111401_Profenofos_(source Hydrolysis Information)		
+56	7			43			days				days	Organophosphorus Ester Hydrolysis	25	17.5	111401_Profenofos_(source Hydrolysis Information)		
+56	9			0.33			days				days	Organophosphorus Ester Hydrolysis	25	17.5	111401_Profenofos_(source Hydrolysis Information)		
+116	4											Amide Hydrolysis	50	17.68	EFSA 028201 Propanil		
+116	7											Amide Hydrolysis	50	17.68	EFSA 028201 Propanil		
+116	9											Amide Hydrolysis	50	17.68	EFSA 028201 Propanil		
+98	5			10.5			days				days	Carboxylic Acid Ester Hydrolysis	25	14.34	EFSA Propaquizafop 9-26-2012	found through linear regression analysis method	
+98	7			32			days				days	Carboxylic Acid Ester Hydrolysis	25	14.34	EFSA Propaquizafop 9-26-2012	found through linear regression analysis method	
+98	9			0.54			days				days	Carboxylic Acid Ester Hydrolysis	25	14.34	EFSA Propaquizafop 9-26-2012	found through linear regression analysis method	
+91	7							0.0003922			sec^-1	Acid Halide Hydrolysis: another mechanism	24.755	17.72	Queen A. C. J. Chem. 45, 1619 (1967)		
+157	7			61.3			days				days	Carbonate Hydrolysis	17	17.5	U.S. Environmental Protection Agency, Risk-Based Prioritization Document April 2009, proplylene carbonate		
+157	7			8.97			days				days	Carbonate Hydrolysis	35	17.5	U.S. Environmental Protection Agency, Risk-Based Prioritization Document April 2009, proplylene carbonate		
+157	9			6.32			days				days	Carbonate Hydrolysis	5	17.5	U.S. Environmental Protection Agency, Risk-Based Prioritization Document April 2009, proplylene carbonate		
+157	9			1.03			days				days	Carbonate Hydrolysis	17	17.5	U.S. Environmental Protection Agency, Risk-Based Prioritization Document April 2009, proplylene carbonate		
+149	5			9.3			days				days	Sulfonylurea Hydrolysis	25	22.66	129031_Prosulfuron_(EFSA Hydrolysis Information)		
+149	7			537.5			days				days	Sulfonylurea Hydrolysis	25	22.66	129031_Prosulfuron_(EFSA Hydrolysis Information)		
+149	9			1186			days				days	Sulfonylurea Hydrolysis	25	22.66	129031_Prosulfuron_(EFSA Hydrolysis Information)		
+149	4			8.78			days				days	Sulfonylurea Hydrolysis	15	20.5736137667304	Dinelli G. et al. J. Agric. Food Chem., Vol. 45, No. 5, 1997		10.1021/jf960649g
+149	4			4.97			days				days	Sulfonylurea Hydrolysis	20	20.5736137667304	Dinelli G. et al. J. Agric. Food Chem., Vol. 45, No. 5, 1997		10.1021/jf960649g
+149	4			2.64			days				days	Sulfonylurea Hydrolysis	25	20.5736137667304	Dinelli G. et al. J. Agric. Food Chem., Vol. 45, No. 5, 1997		10.1021/jf960649g
+149	4			1.48			days				days	Sulfonylurea Hydrolysis	30	20.5736137667304	Dinelli G. et al. J. Agric. Food Chem., Vol. 45, No. 5, 1997		10.1021/jf960649g
+149	4			0.79			days				days	Sulfonylurea Hydrolysis	35	20.5736137667304	Dinelli G. et al. J. Agric. Food Chem., Vol. 45, No. 5, 1997		10.1021/jf960649g
+149	4			0.27			days				days	Sulfonylurea Hydrolysis	45	20.5736137667304	Dinelli G. et al. J. Agric. Food Chem., Vol. 45, No. 5, 1997		10.1021/jf960649g
+149	4			0.12			days				days	Sulfonylurea Hydrolysis	55	20.5736137667304	Dinelli G. et al. J. Agric. Food Chem., Vol. 45, No. 5, 1997		10.1021/jf960649g
+145	3.1			37.8			days				h	Sulfonylurea Hydrolysis	25	13.575525812619501	Zheng, Wei, Yates, Scott, and Papiernik, Sharon. Transformation Kinetics and Mechanism of the Sulfonylurea Herbicides Pyrazosulfuron ethyl and Halosulfuron methyl in aqueous solutions. J. Agric. Food Chem	Temp 25 +/- 0.5, supporting information	10.1021/jf800899e
+145	6.9			1001.6			days				h	Sulfonylurea Hydrolysis	25	17.5	Zheng, Wei, Yates, Scott, and Papiernik, Sharon. Transformation Kinetics and Mechanism of the Sulfonylurea Herbicides Pyrazosulfuron ethyl and Halosulfuron methyl in aqueous solutions. J. Agric. Food Chem		10.1021/jf800899e
+145	9			355.5			days				h	Sulfonylurea Hydrolysis	25	27.174952198852772	Zheng, Wei, Yates, Scott, and Papiernik, Sharon. Transformation Kinetics and Mechanism of the Sulfonylurea Herbicides Pyrazosulfuron ethyl and Halosulfuron methyl in aqueous solutions. J. Agric. Food Chem		10.1021/jf800899e
+145	5			529.1			days				h	Sulfonylurea Hydrolysis	25	13.58	Zheng, Wei, Yates, Scott, and Papiernik, Sharon. Transformation Kinetics and Mechanism of the Sulfonylurea Herbicides Pyrazosulfuron ethyl and Halosulfuron methyl in aqueous solutions. J. Agric. Food Chem		10.1021/jf800899e
+145	9.8			60.3			days				h	Sulfonylurea Hydrolysis	25	27.17	Zheng, Wei, Yates, Scott, and Papiernik, Sharon. Transformation Kinetics and Mechanism of the Sulfonylurea Herbicides Pyrazosulfuron ethyl and Halosulfuron methyl in aqueous solutions. J. Agric. Food Chem		10.1021/jf800899e
+145	9			14.8125			days				days	Sulfonylurea Hydrolysis: Ring Contraction	25	27.174952198852772	Zheng, Wei, Yates, Scott, and Papiernik, Sharon. Transformation Kinetics and Mechanism of the Sulfonylurea Herbicides Pyrazosulfuron ethyl and Halosulfuron methyl in aqueous solutions. J. Agric. Food Chem		10.1021/jf800899e
+145	9.8			2.5125			days				days	Sulfonylurea Hydrolysis: Ring Contraction	25	22.66	Zheng, Wei, Yates, Scott, and Papiernik, Sharon. Transformation Kinetics and Mechanism of the Sulfonylurea Herbicides Pyrazosulfuron ethyl and Halosulfuron methyl in aqueous solutions. J. Agric. Food Chem		10.1021/jf800899e
+154	7			7.3			days				days	Sulfonylurea Hydrolysis: Ring Contraction	25	22.66	EFSA Draft Assessment Report for Rimsulfuron, Aug. 1, 2005.	Horne, P., Boucher, C.R. (1989a) WAS 9800053	
+154	9			0.17500000000000002			days				days	Sulfonylurea Hydrolysis: Ring Contraction	25	22.66	EFSA Draft Assessment Report for Rimsulfuron, Aug. 1, 2005.	Horne, P., Boucher, C.R. (1989a) WAS 9800053	
+154	7			7.1			days				days	Sulfonylurea Hydrolysis: Ring Contraction	25	22.66	EFSA Draft Assessment Report for Rimsulfuron, Aug. 1, 2005.		
+154	9			0.45416666666666666			days				days	Sulfonylurea Hydrolysis: Ring Contraction	25	22.66	EFSA Draft Assessment Report for Rimsulfuron, Aug. 1, 2005.		
+154	5			4.7			days				days	Sulfonylurea Hydrolysis: Ring Contraction	25	22.06	EFSA Draft Assessment Report for Rimsulfuron, Aug. 1, 2005.		
+154	5			4.5			days				days	Sulfonylurea Hydrolysis: Ring Contraction	25	22.06	EFSA Draft Assessment Report for Rimsulfuron, Aug. 1, 2005.		
+154	4			2.09			days				days	Sulfonylurea Hydrolysis: Ring Contraction	15	22.055449330783937	Dinelli G. et al. J. Agric. Food Chem., Vol. 45, No. 5, 1997		10.1021/jf960649g
+154	4			1.11			days				days	Sulfonylurea Hydrolysis: Ring Contraction	20	22.055449330783937	Dinelli G. et al. J. Agric. Food Chem., Vol. 45, No. 5, 1997		10.1021/jf960649g
+154	4			0.27			days				days	Sulfonylurea Hydrolysis: Ring Contraction	25	22.055449330783937	Dinelli G. et al. J. Agric. Food Chem., Vol. 45, No. 5, 1997		10.1021/jf960649g
+154	4			0.21			days				days	Sulfonylurea Hydrolysis: Ring Contraction	30	22.055449330783937	Dinelli G. et al. J. Agric. Food Chem., Vol. 45, No. 5, 1997		10.1021/jf960649g
+154	4			0.11			days				days	Sulfonylurea Hydrolysis: Ring Contraction	35	22.055449330783937	Dinelli G. et al. J. Agric. Food Chem., Vol. 45, No. 5, 1997		10.1021/jf960649g
+154	4			0.03			days				days	Sulfonylurea Hydrolysis: Ring Contraction	45	22.055449330783937	Dinelli G. et al. J. Agric. Food Chem., Vol. 45, No. 5, 1997		10.1021/jf960649g
+154	4			0.02			days				days	Sulfonylurea Hydrolysis: Ring Contraction	55	22.055449330783937	Dinelli G. et al. J. Agric. Food Chem., Vol. 45, No. 5, 1997		10.1021/jf960649g
+75	7							296400			sec^-1	Acid Halide Hydrolysis	4.616	19.05	Queen, A.; Nour, T.A.; Paddon-Row, M.N. Can. J. Chem. 1970, 48, 522-527	table 1, pure water	10.1139/v70-087
+156	4			32.5			days				days	Carbonate Hydrolysis	25	17.5	EFSA Spirotetramat (Vol3, Annex B.8, pg 158) 2008		
+156	7			8.6			days				days	Carbonate Hydrolysis	25	17.5	EFSA Spirotetramat (Vol3, Annex B.8, pg 158) 2008		
+156	9			0.32			days				days	Carbonate Hydrolysis	25	17.5	EFSA Spirotetramat (Vol3, Annex B.8, pg 158) 2008		
+156	4			48			days				days	Carbonate Hydrolysis	20	17.5	EFSA Spirotetramat (Vol3, Annex B.8, pg 158) 2008		
+156	7			13			days				days	Carbonate Hydrolysis	20	17.5	EFSA Spirotetramat (Vol3, Annex B.8, pg 158) 2008		
+156	9			0.14			days				days	Carbonate Hydrolysis	30	17.5	EFSA Spirotetramat (Vol3, Annex B.8, pg 158) 2008		
+156	4			5.69			days				days	Carbonate Hydrolysis	50	17.5	EFSA Spirotetramat (Vol3, Annex B.8, pg 158) 2008		
+156	7			0.62			days				days	Carbonate Hydrolysis	50	17.5	EFSA Spirotetramat (Vol3, Annex B.8, pg 158) 2008		
+109	7							0.00269			sec^-1	Anhydride Hydrolysis	25.1	13	Bunton C.A. et al J. Chem. Soc., 1963, 2918-2926	rates in s-1	10.1039/jr9630002918
+109	7							0.000347			sec^-1	Anhydride Hydrolysis	0	13	Bunton C.A. et al J. Chem. Soc., 1963, 2918-2926		10.1039/jr9630002918
+70	7							6			sec^-1	Acid Halide Hydrolysis	20	19.05	Prager et al  J. Chem. Soc., Perkin Trans. 2, 2001		
+117	5											Amide Hydrolysis	25	17.68	EFSA 129048 Teflubenzuron		
+117	7											Amide Hydrolysis	25	17.68	EFSA 129048 Teflubenzuron		
+117	9			10			days				days	Amide Hydrolysis	25	17.68	EFSA 129048 Teflubenzuron		
+112	7							0.000227			sec^-1	Anhydride Hydrolysis	25.1	13.5	Bunton C.A. et al J. Chem. Soc., 1963, 2918-2926	rates in s-1	10.1039/jr9630002918
+139	4			1.8333333333333333			days				days	Sulfonylurea Hydrolysis	50	22.66	EFSA Draft Assessment Report for Thiencarbazone-methyl, June 8, 2012.	Hass, M., 2005 M-259661-02-1	
+139	7			3.9			days				days	Sulfonylurea Hydrolysis	50	22.66	EFSA Draft Assessment Report for Thiencarbazone-methyl, June 8, 2012.		
+139	9			2.95			days				days	Sulfonylurea Hydrolysis	50	22.66	EFSA Draft Assessment Report for Thiencarbazone-methyl, June 8, 2012.		
+139	4			50			days				days	Sulfonylurea Hydrolysis	25	22.66	EFSA Draft Assessment Report for Thiencarbazone-methyl, June 8, 2012.	extrapolation used for values over 30 days	
+139	7			146			days				days	Sulfonylurea Hydrolysis	25	22.66	EFSA Draft Assessment Report for Thiencarbazone-methyl, June 8, 2012.	extrapolation used for values over 30 days	
+139	9			153			days				days	Sulfonylurea Hydrolysis	25	22.66	EFSA Draft Assessment Report for Thiencarbazone-methyl, June 8, 2012.	extrapolation used for values over 30 days	
+139	4			118			days				days	Sulfonylurea Hydrolysis	20	22.66	EFSA Draft Assessment Report for Thiencarbazone-methyl, June 8, 2012.	extrapolation used for values over 30 days	
+192	5			69.1			days				days	N-S Cleavage	25	25.8	EFSA Thiodicarb 2003		
+192	7			30.8			days				days	N-S Cleavage	25	25.8	EFSA Thiodicarb 2003		
+192	9			0.26			days				days	N-S Cleavage	25	25.8	EFSA Thiodicarb 2003		
+192	5			78			days				days	N-S Cleavage	25	25.8	FAOevaluation		
+192	7			32			days				days	N-S Cleavage	25	25.8	FAOevaluation		
+192	9			0.48			days				days	N-S Cleavage	25	25.8	FAOevaluation		
+51	4			68			days				days	Organophosphorus Ester Hydrolysis	25	17.5	EFSA 128905 Tolclfos-methyl	Major Hydrolysis Product is DM-TM and ph-CH3 compound is a daughter metabolite. 20 deg C and 25 Deg C are calculated half lifes using arrhenius eq.	
+51	7			50			days				days	Organophosphorus Ester Hydrolysis	25	17.5	EFSA 128905 Tolclfos-methyl	Major Hydrolysis Product is DM-TM and ph-CH3 compound is a daughter metabolite. 20 deg C and 25 Deg C are calculated half lifes using arrhenius eq.	
+51	9			55			days				days	Organophosphorus Ester Hydrolysis	25	17.5	EFSA 128905 Tolclfos-methyl	Major Hydrolysis Product is DM-TM and ph-CH3 compound is a daughter metabolite. 20 deg C and 25 Deg C are calculated half lifes using arrhenius eq.	
+51	4			126			days				days	Organophosphorus Ester Hydrolysis	20	17.5	EFSA 128905 Tolclfos-methyl	20 deg C and 25 Deg C are calculated half lifes using arrhenius eq.	
+51	7			97			days				days	Organophosphorus Ester Hydrolysis	20	17.5	EFSA 128905 Tolclfos-methyl	20 deg C and 25 Deg C are calculated half lifes using arrhenius eq.	
+51	9			102			days				days	Organophosphorus Ester Hydrolysis	20	17.5	EFSA 128905 Tolclfos-methyl	20 deg C and 25 Deg C are calculated half lifes using arrhenius eq.	
+51	4			4			days				days	Organophosphorus Ester Hydrolysis	50	17.5	EFSA 128905 Tolclfos-methyl		
+51	7			2.5			days				days	Organophosphorus Ester Hydrolysis	50	17.5	EFSA 128905 Tolclfos-methyl		
+51	9			3.2			days				days	Organophosphorus Ester Hydrolysis	50	17.5	EFSA 128905 Tolclfos-methyl		
+51	4			1.3			days				days	Organophosphorus Ester Hydrolysis	62	17.5	EFSA 128905 Tolclfos-methyl		
+51	7			0.7			days				days	Organophosphorus Ester Hydrolysis	62	17.5	EFSA 128905 Tolclfos-methyl		
+51	9			1			days				days	Organophosphorus Ester Hydrolysis	62	17.5	EFSA 128905 Tolclfos-methyl		
+51	4			0.4			days				days	Organophosphorus Ester Hydrolysis	74	17.5	EFSA 128905 Tolclfos-methyl		
+51	7			0.2			days				days	Organophosphorus Ester Hydrolysis	74	17.5	EFSA 128905 Tolclfos-methyl		
+51	9			0.3			days				days	Organophosphorus Ester Hydrolysis	74	17.5	EFSA 128905 Tolclfos-methyl		
+6	2.96			0.01958333333333333			days	0.0004083333333333333			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	68	24.89	J. J. Ellington et al. 1987 vol1_EPA/600/3-86/ 043		
+6	3.02			0.022500000000000003			days	0.00035555555555555557			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	69	24.89	J. J. Ellington et al. 1987 vol1_EPA/600/3-86/ 043		
+6	3			0.02125			days	0.0003777777777777778			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	69	24.89	J. J. Ellington et al. 1987 vol1_EPA/600/3-86/ 043		
+6	7.01			0.022083333333333333			days	0.00036111111111111115			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	68	24.89	J. J. Ellington et al. 1987 vol1_EPA/600/3-86/ 043		
+6	7.03			0.020416666666666666			days	0.00039444444444444444			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	68	24.89	J. J. Ellington et al. 1987 vol1_EPA/600/3-86/ 043		
+6	9.9			0.01958333333333333			days	0.0004138888888888889			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	69	24.89	J. J. Ellington et al. 1987 vol1_EPA/600/3-86/ 043		
+6	10.51			0.022500000000000003			days	0.00036111111111111115			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	69	24.89	J. J. Ellington et al. 1987 vol1_EPA/600/3-86/ 043		
+6	7							2.4999999999999998e-06			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	25	24.89	Ellington1987vol1_EPA600_S3-86_043	extrapolated	
+55	4			31.2			days				days	Organophosphorus Ester Hydrolysis	35	17.5	Kunde L et al J. Agric. Food Chem. 2004, 52, 5404-5411; 344600_triazophosl_EFSA		10.1021/jf049441i
+55	7			17.2			days				days	Organophosphorus Ester Hydrolysis	35	17.5	Kunde L et al J. Agric. Food Chem. 2004, 52, 5404-5411; 344600_triazophosl_EFSA		10.1021/jf049441i
+55	8			7.5			days				days	Organophosphorus Ester Hydrolysis	35	17.5	Kunde L et al J. Agric. Food Chem. 2004, 52, 5404-5411; 344600_triazophosl_EFSA		10.1021/jf049441i
+55	5			30.1			days				days	Organophosphorus Ester Hydrolysis	35	17.5	Kunde L et al J. Agric. Food Chem. 2004, 52, 5404-5411; 344600_triazophosl_EFSA		10.1021/jf049441i
+55	9			2			days				days	Organophosphorus Ester Hydrolysis	35	17.5	Kunde L et al J. Agric. Food Chem. 2004, 52, 5404-5411; 344600_triazophosl_EFSA		10.1021/jf049441i
+55	6			26.5			days				days	Organophosphorus Ester Hydrolysis	35	17.5	Kunde L et al J. Agric. Food Chem. 2004, 52, 5404-5411; 344600_triazophosl_EFSA		10.1021/jf049441i
+55	10			1.3			days				days	Organophosphorus Ester Hydrolysis	35	17.5	Kunde L et al J. Agric. Food Chem. 2004, 52, 5404-5411; 344600_triazophosl_EFSA		10.1021/jf049441i
+152	5											Sulfonylurea Hydrolysis	25	22.66	EFSA June 2003, Annex B.2: Physical and chemical properties	128887_Tribenuron (EFSA Hydrolysis Information)	
+152	7			15.875			days				days	Sulfonylurea Hydrolysis	25	22.66	EFSA June 2003, Annex B.2: Physical and chemical properties	128887_Tribenuron (EFSA Hydrolysis Information)	
+152	9				200						days	Sulfonylurea Hydrolysis	25	22.66	EFSA June 2003, Annex B.2: Physical and chemical properties	128887_Tribenuron (EFSA Hydrolysis Information)	
+178	5.4							7e-07			sec^-1	Nitrile Hydrolysis	20	19.97	Glezer V et. al Wat. Res. Vol. 33, 8, 1938-1948, 1999	final concentration of 20-50 ppm in o.1 N HCl, at 20 deg C	10.1016/s0043-1354(98)00361-3
+178	7.2							1.6e-05			sec^-1	Nitrile Hydrolysis	20	19.97	Glezer V et. al Wat. Res. Vol. 33, 8, 1938-1948, 1999	final concentration of 20-50 ppm in o.1 N HCl, at 20 deg C	10.1016/s0043-1354(98)00361-3
+178	8.7							4e-05			sec^-1	Nitrile Hydrolysis	20	19.97	Glezer V et. al Wat. Res. Vol. 33, 8, 1938-1948, 1999	final concentration of 20-50 ppm in o.1 N HCl, at 20 deg C	10.1016/s0043-1354(98)00361-3
+175	5.4							2e-06			sec^-1	Nitrile Hydrolysis	20	19.97	Glezer V et. al Wat. Res. Vol. 33, 8, 1938-1948, 1999	final concentration of 20-50 ppm in o.1 N HCl, at 20 deg C; rates in s-1	10.1016/s0043-1354(98)00361-3
+175	7.2							0.00015			sec^-1	Nitrile Hydrolysis	20	19.97	Glezer V et. al Wat. Res. Vol. 33, 8, 1938-1948, 1999	final concentration of 20-50 ppm in o.1 N HCl, at 20 deg C; rates in s-1	10.1016/s0043-1354(98)00361-3
+175	8.7							0.00039			sec^-1	Nitrile Hydrolysis	20	19.97	Glezer V et. al Wat. Res. Vol. 33, 8, 1938-1948, 1999	final concentration of 20-50 ppm in o.1 N HCl, at 20 deg C; rates in s-1	10.1016/s0043-1354(98)00361-3
+68	7								350		sec^-1	Acid Halide Hydrolysis	20	19.05	Prager et al  J. Chem. Soc., Perkin Trans. 2, 2001		
+68	7							325			sec^-1	Acid Halide Hydrolysis	20	19.05	"Prager et al  J. Chem. Soc., Perkin Trans. 2, 2001; C. George, J. Lagrange, P. Lagrange, P. Mirabel, C. Pallares and J. L. Ponche, J. Geophys. Res., 1998, 99, 1255.
+J. L. Ponche, J. Geophys. Res., 1998, 99, 1255."		
+27								1.29e-06			min^-1	Halogenated Aliphatics: Nucleophilic Substitution	25	24.89	Jeffers P.M. and Wolfe N.L Science, 1989, 246, 1638.	No pH dependence, purely dependent on temperature, rate in min-1	10.1126/science.246.4937.1637
+27								1.08e-07			min^-1	Halogenated Aliphatics: Nucleophilic Substitution	10	24.89	Jeffers P.M. and Wolfe N.L Science, 1989, 246, 1638.		10.1126/science.246.4937.1637
+27								1.77e-08			min^-1	Halogenated Aliphatics: Nucleophilic Substitution	0	24.89	Jeffers P.M. and Wolfe N.L Science, 1989, 246, 1638.		10.1126/science.246.4937.1637
+113	5											Amide Hydrolysis	25	17.68	EFSA Triflumuron 10-22-2012	Lenz M.F. 1984 MR86624	
+113	7			465			days				days	Amide Hydrolysis	25	17.68	EFSA Triflumuron 10-22-2012	Lenz M.F. 1984 MR86624	
+113	9			57			days				days	Amide Hydrolysis	25	17.68	EFSA Triflumuron 10-22-2012		
+113	9			28.6			days				days	Amide Hydrolysis	25	17.68	EFSA Triflumuron 10-22-2012	Hellpointner E. 2003. MEF-091/03	
+136	5			4			days				days	Sulfonylurea Hydrolysis	25	22.66	EFSA Draft Assessment Report for Triflusulfuron, Sept. 26, 2007.	Hawkins D.R. et al., 1992 AMR1628-90	
+136	7			32			days				days	Sulfonylurea Hydrolysis	25	22.66	EFSA Draft Assessment Report for Triflusulfuron, Sept. 26, 2007.	Hawkins D.R. et al., 1992 AMR1628-90	
+136	9			36			days				days	Sulfonylurea Hydrolysis	25	22.66	EFSA Draft Assessment Report for Triflusulfuron, Sept. 26, 2007.	Hawkins D.R. et al., 1992 AMR1628-90	
+108	7							7.95e-05			sec^-1	Anhydride Hydrolysis	25	16.5	Bunton C.A. and Fendler J.H. J. Org. Chem., 1965, 30 (5), 1365–1371	rates in s-1	10.1021/jo01016a006
+108	7							6.2e-06			sec^-1	Anhydride Hydrolysis	0	16.5	Bunton C.A. and Fendler J.H. J. Org. Chem., 1965, 30 (5), 1365–1371		10.1021/jo01016a006
+99	5											Carboxylic Acid Ester Hydrolysis	25	14.34	EFSA Trinexapac 10-22-2012	Temp: 25+/-1	
+99	7											Carboxylic Acid Ester Hydrolysis	25	14.34	EFSA Trinexapac 10-22-2012	Temp: 25+/-1	
+99	9			7.3			days				days	Carboxylic Acid Ester Hydrolysis	25	14.34	EFSA Trinexapac 10-22-2012	Temp: 25+/-1	
+99	5			514			days				days	Carboxylic Acid Ester Hydrolysis	25	14.34	EFSA Trinexapac 10-22-2012	Temp: 25+/-1	
+99	7			782			days				days	Carboxylic Acid Ester Hydrolysis	25	14.34	EFSA Trinexapac 10-22-2012	Temp: 25+/-1	
+99	9											Carboxylic Acid Ester Hydrolysis	25	14.34	EFSA Trinexapac 10-22-2012	Temp: 25+/-1	
+99	5			6.4			days				days	Carboxylic Acid Ester Hydrolysis	50	14.34	EFSA Trinexapac 10-22-2012	Mamouni, A (2002)	
+99	7			40.8			days				days	Carboxylic Acid Ester Hydrolysis	50	14.34	EFSA Trinexapac 10-22-2012	Mamouni, A (2002)	
+99	9											Carboxylic Acid Ester Hydrolysis	50	14.34	EFSA Trinexapac 10-22-2012	Mamouni, A (2002)	
+99	5			74.4			days				days	Carboxylic Acid Ester Hydrolysis	20	14.34	EFSA Trinexapac 10-22-2012	Mamouni, A (2002)	
+99	5			3.2			days				days	Carboxylic Acid Ester Hydrolysis	44	14.34	EFSA Trinexapac 10-22-2012	Mamouni, A (2002)	
+103	7			90.94			days	0.008			days^-1	Carboxylic Acid Ester Hydrolysis	25	14.34	EFSA Valifenalate 10-22-2012	Scacchi, A., Oriolo, D., Pizzingrilli, G. (2001)	
+103	9			4.15			days	0.167			days^-1	Carboxylic Acid Ester Hydrolysis	25	14.34	EFSA Valifenalate 10-22-2012	Scacchi, A., Oriolo, D., Pizzingrilli, G. (2001)	
+103	4											Carboxylic Acid Ester Hydrolysis	50	14.34	* calculated using Arrhenius relationship		
+103	7			7.62			days	0.091			days^-1	Carboxylic Acid Ester Hydrolysis	50	14.34	* calculated using Arrhenius relationship		
+103	9			0.33			days	2.1			days^-1	Carboxylic Acid Ester Hydrolysis	50	14.34	* calculated using Arrhenius relationship		
+103	7			5.21			days	0.133			days^-1	Carboxylic Acid Ester Hydrolysis	55	14.34	* calculated using Arrhenius relationship		
+103	7			2.09			days	0.331			days^-1	Carboxylic Acid Ester Hydrolysis	65	14.34	* calculated using Arrhenius relationship		
+170	4.5							0.00131			h^-1	Imide Hydrolysis	35	23.23	Szeto S.Y. et al J. Agric. Food Chem., 37 (2), 523-529, 1989	phosphate	10.1021/jf00086a055
+170	4.5							0.00128			h^-1	Imide Hydrolysis	35	23.23	Szeto S.Y. et al J. Agric. Food Chem., 37 (2), 523-529, 1989	acetate	10.1021/jf00086a055
+170	5.5							0.0124			h^-1	Imide Hydrolysis	35	23.23	Szeto S.Y. et al J. Agric. Food Chem., 37 (2), 523-529, 1989	phosphate	10.1021/jf00086a055
+170	5.5							0.0121			h^-1	Imide Hydrolysis	35	23.23	Szeto S.Y. et al J. Agric. Food Chem., 37 (2), 523-529, 1989	acetate	10.1021/jf00086a055
+170	6.5							0.0464			h^-1	Imide Hydrolysis	35	23.23	Szeto S.Y. et al J. Agric. Food Chem., 37 (2), 523-529, 1989	phosphate	10.1021/jf00086a055
+170	6.5							0.0443			h^-1	Imide Hydrolysis	35	23.23	Szeto S.Y. et al J. Agric. Food Chem., 37 (2), 523-529, 1989	acetate	10.1021/jf00086a055
+170	7							0.107			hours^-1	Imide Hydrolysis	35	23.23	Szeto S.Y. et al J. Agric. Food Chem., 37 (2), 523-529, 1989	phosphate	10.1021/jf00086a055
+170	7							0.107			hours^-1	Imide Hydrolysis	35	23.23	Szeto S.Y. et al J. Agric. Food Chem., 37 (2), 523-529, 1989	borate	10.1021/jf00086a055
+170	7.3							0.21			hours^-1	Imide Hydrolysis	35	23.23	Szeto S.Y. et al J. Agric. Food Chem., 37 (2), 523-529, 1989	borate	10.1021/jf00086a055
+170	7.5							0.248			hours^-1	Imide Hydrolysis	35	23.23	Szeto S.Y. et al J. Agric. Food Chem., 37 (2), 523-529, 1989	phosphate	10.1021/jf00086a055
+170	8							0.599			hours^-1	Imide Hydrolysis	35	23.23	Szeto S.Y. et al J. Agric. Food Chem., 37 (2), 523-529, 1989	phosphate	10.1021/jf00086a055
+170	8.3							1.109			hours^-1	Imide Hydrolysis	35	23.23	Szeto S.Y. et al J. Agric. Food Chem., 37 (2), 523-529, 1989	borate	10.1021/jf00086a055
+107	7							0.000618			sec^-1	Anhydride Hydrolysis	3.7	11	Davis K.R and Hogg J.L. J. Org. Chem. 1983,48, 1041-1047	rates in s-1	10.1021/jo00155a022
+107	7							0.002513			sec^-1	Anhydride Hydrolysis	24.4	11	Davis K.R and Hogg J.L. J. Org. Chem. 1983,48, 1041-1047	Ea values taken from Bunton C.A. and Fendler J.H. J. Org. Chem., 1965, 30 (5), 1365–1371	10.1021/jo00155a022
+107	7							0.004326			sec^-1	Anhydride Hydrolysis	34.3	11	Davis K.R and Hogg J.L. J. Org. Chem. 1983,48, 1041-1047		10.1021/jo00155a022
+107	7							0.00734			sec^-1	Anhydride Hydrolysis	45.2	11	Davis K.R and Hogg J.L. J. Org. Chem. 1983,48, 1041-1047		10.1021/jo00155a022
+107	7							0.00266			sec^-1	Anhydride Hydrolysis	25	11	Bunton C.A. and Fendler J.H. J. Org. Chem., 1965, 30 (5), 1365–1371	rates in s-1	10.1021/jo01016a006
+107	7							0.00047			sec^-1	Anhydride Hydrolysis	0	11	Bunton C.A. and Fendler J.H. J. Org. Chem., 1965, 30 (5), 1365–1371		10.1021/jo01016a006
+174								1.6e-06			M^-1 sec^-1	Nitrile Hydrolysis	25.149999999999977	19.97	N. Peskoff and J. Meyer, Z. Phys. Chem., 82,129 (1913), cited by Buckingham D.A. et al J. Am. Chem. Soc. 95, 1973, 5649		10.1021/ja00798a032
+174								0.00567			M^-1 hr^-1	Nitrile Hydrolysis	25.149999999999977	19.97	N. Peskoff and J. Meyer, Z. Phys. Chem., 82,129 (1913), cited by Ellington et al (1987)		
+174	10.42			0.00105			days	0.26140432237494055			M^-1 hr^-1	Nitrile Hydrolysis	66.14999999999998	27.7	Ellington et al (1987)		
+9	7							1.698e-05			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	25	23.22	Robertson, R.E. and Scott, J.M. W., J. Chem. Soc. 1596 (1961)	activation energy at 25 deg	10.1039/jr9610001596
+9	7							3.268e-05			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	30	23.22	Robertson, R.E. and Scott, J.M. W., J. Chem. Soc. 1596 (1961)	activation energy at 25 deg	10.1039/jr9610001596
+9	7							0.0001077			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	40	21.79	Robertson, R.E. and Scott, J.M. W., J. Chem. Soc. 1596 (1961)	activation energy at 50 deg	10.1039/jr9610001596
+9	7							0.0003239			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	50	21.79	Robertson, R.E. and Scott, J.M. W., J. Chem. Soc. 1596 (1961)	activation energy at 50 deg	10.1039/jr9610001596
+9	7							0.0008896			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	60	21.79	Robertson, R.E. and Scott, J.M. W., J. Chem. Soc. 1596 (1961)	activation energy at 50 deg	10.1039/jr9610001596
+0	7							4.294e-06			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	35	23.85	Robertson, R.E. and Scott, J.M. W., J. Chem. Soc. 1596 (1961)	activation energy at 25 deg	10.1039/jr9610001596
+0	7							7.908e-06			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	40	22.65	Robertson, R.E. and Scott, J.M. W., J. Chem. Soc. 1596 (1961)	activation energy at 50 deg	10.1039/jr9610001596
+0	7							2.473e-05			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	50	22.65	Robertson, R.E. and Scott, J.M. W., J. Chem. Soc. 1596 (1961)	activation energy at 50 deg	10.1039/jr9610001596
+0	7							7.05e-05			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	60	22.65	Robertson, R.E. and Scott, J.M. W., J. Chem. Soc. 1596 (1961)	activation energy at 50 deg	10.1039/jr9610001596
+19	7							4.103e-06			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	25	24.67	Robertson, R.E. and Scott, J.M. W., J. Chem. Soc. 1596 (1961)	activation energy at 25 deg	10.1039/jr9610001596
+19	7							8.668e-06			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	30	24.67	Robertson, R.E. and Scott, J.M. W., J. Chem. Soc. 1596 (1961)	activation energy at 25 deg	10.1039/jr9610001596
+19	7							2.924e-05			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	40	23.55	Robertson, R.E. and Scott, J.M. W., J. Chem. Soc. 1596 (1961)	activation energy at 50 deg	10.1039/jr9610001596
+19	7							9.541e-05			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	50	23.55	Robertson, R.E. and Scott, J.M. W., J. Chem. Soc. 1596 (1961)	activation energy at 50 deg	10.1039/jr9610001596
+19	7							0.0002856			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	60	23.55	Robertson, R.E. and Scott, J.M. W., J. Chem. Soc. 1596 (1961)	activation energy at 50 deg	10.1039/jr9610001596
+147	5			33.9			days				days	Sulfonylurea Hydrolysis	25	22.66	Schollmeier M.; Eyrich U. (1992i) (Document A48869) & Schollmeier M. (1993a) (Document A51873)	Amidosulfuron EFSA - Volume 3, Annex B.2 Physical and chemical properties May 2005	
+147	7				365						days	Sulfonylurea Hydrolysis	25	22.66	Schollmeier M.; Eyrich U. (1992i) (Document A48869) & Schollmeier M. (1993a) (Document A51873)	Amidosulfuron EFSA - Volume 3, Annex B.2 Physical and chemical properties May 2005	
+147	9				365						days	Sulfonylurea Hydrolysis	25	22.66	Schollmeier M.; Eyrich U. (1992i) (Document A48869) & Schollmeier M. (1993a) (Document A51873)	Amidosulfuron EFSA - Volume 3, Annex B.2 Physical and chemical properties May 2005	
+147	3			1.34			days				days	Sulfonylurea Hydrolysis	25	22.66	Schollmeier M.; Britten I. (1992a) (Document A47707)	Amidosulfuron EFSA - Volume 3, Annex B.2 Physical and chemical properties May 2005	
+147	4			3.87			days				days	Sulfonylurea Hydrolysis	25	22.66	Schollmeier M.; Britten I. (1992a) (Document A47707)		
+147	5			30.56			days				days	Sulfonylurea Hydrolysis	25	22.66	Schollmeier M.; Britten I. (1992a) (Document A47707)		
+147	6			237.1			days				days	Sulfonylurea Hydrolysis	25	22.66	Schollmeier M.; Britten I. (1992a) (Document A47707)		
+183	7							1.26e-06			sec^-1	Lactam Hydrolysis	25	17.5	Wan P. Et al C an. J. Chem. 58,2423 (1980)		
+181	7							0.00112			sec^-1	Lactam Hydrolysis	25	17.5	Wan P. Et al C an. J. Chem. 58,2423 (1980)	rates were actually measured at higer temperatures and than scaled down to 25 deg C using Arrhenius expression. Similarly, the actual reactions were performed in aq H2SO4 and then subsequently extrapolated to zero acid concentraction	
+171	7.54							4e-05			M^-1 sec^-1	Nitrile Hydrolysis	40.14999999999998	21.12	 Wiberg, K.B., JACS, 77,  (1955)	50% acetone; T = 40 - 60 deg C	
+171								8.2e-06			M^-1 sec^-1	Nitrile Hydrolysis	25.75	19.9	 Wiberg, K.B., JACS, 77,  (1955), 2519; cited by Pinnell et al, JACS, 94, 6104 (1972) and Buckingham, D.A. et al, JACS, 95, 5649 (1973)	50% acetone; T = 40 - 60 deg C	
+94	8							0.00011			sec^-1	Carboxylic Acid Ester Hydrolysis	30	14.34	(1). Larson, R.A. and E.J. Weber. Reaction Mechanisms in Environmental Organic Chemistry. Boca Raton: CRC Press, Inc., 1994. (2). Montgomery, John. Groundwater Chemicals.  Boca Raton: CRC Press, Inc., 2007.		
+13	7							0.001395			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	98	24.89	Laughton, P.M. and Robertson, R.E. Can. J. Chem. 37, 1491, 1959.	rates in s-1	10.1139/v59-219
+12	7							0.0001065			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	70	24.78	Laughton, P.M. and Robertson, R.E. Can. J. Chem. 34, 1714, 1956.	activation energy from Robertson, R.E. et. al Can. J. Chem. 37, 803, 1959.	10.1139/v56-223
+12	3			29			days	2.7e-07			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	18	24.78	EFSA Methyl Bromide - October 2005/Gentile, I.R. et al Pestic. Sci. 1989, 25, 261-272	activation energy from Robertson, R.E. et. al Can. J. Chem. 37, 803, 1959.	10.1002/ps.2780250307
+12	7			12			days	6.63e-07			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	18	24.78	EFSA Methyl Bromide - October 2005/Gentile, I.R. et al Pestic. Sci. 1989, 25, 261-272	activation energy from Robertson, R.E. et. al Can. J. Chem. 37, 803, 1959.	10.1002/ps.2780250307
+12	8			9			days	8.6e-07			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	18	24.78	EFSA Methyl Bromide - October 2005/Gentile, I.R. et al Pestic. Sci. 1989, 25, 261-272	activation energy from Robertson, R.E. et. al Can. J. Chem. 37, 803, 1959.	10.1002/ps.2780250307
+12	7							0.00171			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	100	25.3	Fells, I and Moelwyn-Hughes, E.A. J. Chem. Soc. 398, 1959.	Table 10	10.1039/jr9590000398
+12								0.352			M^-1s^-1	Halogenated Aliphatics: Nucleophilic Substitution	100	23	Fells, I and Moelwyn-Hughes, E.A. J. Chem. Soc. 398, 1959.	second order rates in M^-1s^-1 with hydroxyl ion. Table 11	10.1039/jr9590000398
+12	3			28			days	2.84e-07			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	30	25.3	Fells, I and Moelwyn-Hughes, E.A. J. Chem. Soc. 398, 1959.		10.1039/jr9590000398
+12	7			10			days	7.8e-07			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	30	25.3	Fells, I and Moelwyn-Hughes, E.A. J. Chem. Soc. 398, 1959.		10.1039/jr9590000398
+12	8			8			days	1.032e-07			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	30	25.3	Fells, I and Moelwyn-Hughes, E.A. J. Chem. Soc. 398, 1959.		10.1039/jr9590000398
+127	5											Carbamate Hydrolysis	25	17.9	EFSA carbaryl 056801		
+127	7			12			days	0.058			days^-1	Carbamate Hydrolysis	25	17.9	EFSA carbaryl 056801		
+127	9			0.15			days	0.21			hours^-1	Carbamate Hydrolysis	25	17.9	EFSA carbaryl 056801		
+127	3											Carbamate Hydrolysis	25	17.9	EFSA carbaryl 056801		
+127	9			0.15			days	0.00334			min^-1	Carbamate Hydrolysis	25	17.9	EFSA carbaryl 056801		
+127	6							0.006			days^-1	Carbamate Hydrolysis	25	17.9	EFSA carbaryl 056801		
+127	3											Carbamate Hydrolysis	35	17.9	EFSA carbaryl 056801		
+127	9							0.02062			min^-1	Carbamate Hydrolysis	35	17.9	EFSA carbaryl 056801		
+127	6							0.015			days^-1	Carbamate Hydrolysis	35	17.9	EFSA carbaryl 056801		
+127	7			10.5			days				days	Carbamate Hydrolysis	20	17.9	Aly O.M., El-Dib M.A. water Research, 1971, 5, 1191-1205		10.1016/0043-1354(71)90084-4
+127	8			1.3			days				days	Carbamate Hydrolysis	20	17.9	Aly O.M., El-Dib M.A. water Research, 1971, 5, 1191-1205		10.1016/0043-1354(71)90084-4
+127	9			0.1042			days				days	Carbamate Hydrolysis	20	17.9	another name is sevin		
+127	10			0.0104			days				days	Carbamate Hydrolysis	20	17.9	another name is sevin		
+128	7			28			days				days	Carbamate Hydrolysis	25	17.9	EFSA carbofuran 090601		
+128	7.5			9.1			days				days	Carbamate Hydrolysis	25	17.9	EFSA carbofuran 090601		
+128	8			2.7			days				days	Carbamate Hydrolysis	25	17.9	EFSA carbofuran 090601		
+128	7			45.7			days				days	Carbamate Hydrolysis	25	17.9	EFSA carbofuran 090601		
+128	9			0.1			days				days	Carbamate Hydrolysis	25	17.9	EFSA carbofuran 090601		
+128	7			3.6			days				days	Carbamate Hydrolysis	40	17.9	EFSA carbofuran 090601		
+128	9			0.0625			days				days	Carbamate Hydrolysis	40	17.9	EFSA carbofuran 090601		
+128	7			0.6			days				days	Carbamate Hydrolysis	50	17.9	EFSA carbofuran 090601		
+128	9					1	hours				hours	Carbamate Hydrolysis	50	17.9	EFSA carbofuran 090601		
+26	7			14600			days	5.493721461187214e-10			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	25	24.89	Jeffers P.M. et al. Environ. Toxicol. Chem. 15, 1064-1065, 1996	half life in yrs is 40 yrs	10.1002/etc.5620150707
+57	1			48.96			days				days	Organophosphorus Ester Hydrolysis	30	17.5	084101_Chlorfenvinphos_(source Hydrolysis Information)		
+57	7			53.1			days				days	Organophosphorus Ester Hydrolysis	30	17.5	084101_Chlorfenvinphos_(source Hydrolysis Information)		
+57	9			32.7			days				days	Organophosphorus Ester Hydrolysis	30	17.5	084101_Chlorfenvinphos_(source Hydrolysis Information)		
+57	5			101			days				days	Organophosphorus Ester Hydrolysis	30	17.5	084101_Chlorfenvinphos_(source Hydrolysis Information)		
+57	13			0.63			days				days	Organophosphorus Ester Hydrolysis	30	17.5	084101_Chlorfenvinphos_(source Hydrolysis Information)		
+72	7							266900			sec^-1	Acid Halide Hydrolysis	4.616	19.05	Queen, A.; Nour, T.A.; Paddon-Row, M.N. Can. J. Chem. 1970, 48, 522-527	table 1, pure water	10.1139/v70-087
+73	7							1169000			sec^-1	Acid Halide Hydrolysis	4.616	19.05	Queen, A.; Nour, T.A.; Paddon-Row, M.N. Can. J. Chem. 1970, 48, 522-527	table 1, pure water	10.1139/v70-087
+96	7			540			days				days	Carboxylic Acid Ester Hydrolysis	25	14.34	Larson, R.A. and E.J. Weber. Reaction Mechanisms in Environmental Organic Chemistry. Boca Raton: CRC Press, Inc., 1994. p. 130	Not reported in literature, value based on the hydrolytic behavior of other carboxylic acid esters. Note: Half-life @ ph 7 = 1-2 years	10.1201/9780203741245
+2	7							0.0001148			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	100	25.6	Laughton, P.M. and Robertson, R.E. Can. J. Chem. 37, 1491, 1959.	activation energy at 50 deg C from Robertson, R.E. et. al Can. J. Chem. 37, 803, 1959.	10.1139/v59-219
+25	7							0.045			months^-1	Halogenated Aliphatics: Nucleophilic Substitution	25	24.89	Dilling, W. L.; Tefertiller, N.; Kallos, G. Environ. Sci. Technol. 1975, 9, 833.		10.1021/es60107a008
+25	9			211700			days				days	Halogenated Aliphatics: Nucleophilic Substitution	15	28.4	Miyamoto, K. and Urano, K. Chemosphere, 32, 2399, 1996	Ea is for alkaline hydrolysis only.	10.1016/0045-6535(96)00142-7
+1	7							5.64e-05			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	90	25.9	Laughton, P.M. and Robertson, R.E. Can. J. Chem. 34, 1714, 1956.	activation energy at 50 deg C from Robertson, R.E. et. al Can. J. Chem. 37, 803, 1959.	10.1139/v56-223
+1								0.000149			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	100	26.3	Fells, I and Moelwyn-Hughes, E.A. J. Chem. Soc. 398, 1959.	Table 10	10.1039/jr9590000398
+1								0.0242			M^-1s^-1	Halogenated Aliphatics: Nucleophilic Substitution	100	24.3	Fells, I and Moelwyn-Hughes, E.A. J. Chem. Soc. 398, 1959.	second order rates in M^-1s^-1 with hydroxyl ion. Table 11	10.1039/jr9590000398
+46	6.5			56.8			days				days	Organophosphorus Ester Hydrolysis	23	17.5	Wu J et al Israel Journal of Chemistry Vol. 42 2002. 99–107;  059101_Chlorpyrifos_(source Hydrolysis Information)	Milli-Q water low chlorpyrifos conc (0.25 microM)	10.1560/a723-n65t-v12a-1axu
+46	6.5			157.5			days				days	Organophosphorus Ester Hydrolysis	23	17.5	Wu J et al Israel Journal of Chemistry Vol. 42 2002. 99–107;  059101_Chlorpyrifos_(source Hydrolysis Information)	Milli-Q water high chlorpyrifos conc (1 microM)	10.1560/a723-n65t-v12a-1axu
+46	6.3			52.9			days				days	Organophosphorus Ester Hydrolysis	23	17.5	Wu J et al Israel Journal of Chemistry Vol. 42 2002. 99–107;  059101_Chlorpyrifos_(source Hydrolysis Information)	0.01 M CaCl2  low chlorpyrifos conc (0.25 microM)	10.1560/a723-n65t-v12a-1axu
+46	6.3			60.3			days				days	Organophosphorus Ester Hydrolysis	23	17.5	Wu J et al Israel Journal of Chemistry Vol. 42 2002. 99–107;  059101_Chlorpyrifos_(source Hydrolysis Information)	0.01 M CaCl2  high chlorpyrifos conc (1 microM)	10.1560/a723-n65t-v12a-1axu
+46	8.05			39.2			days				days	Organophosphorus Ester Hydrolysis	23	17.5	Wu J et al Israel Journal of Chemistry Vol. 42 2002. 99–107;  059101_Chlorpyrifos_(source Hydrolysis Information)	filtered Cedar River water low chlorpyrifos conc (0.25 microM)	10.1560/a723-n65t-v12a-1axu
+46	8.05			27.1			days				days	Organophosphorus Ester Hydrolysis	23	17.5	Wu J et al Israel Journal of Chemistry Vol. 42 2002. 99–107;  059101_Chlorpyrifos_(source Hydrolysis Information)	filtered Cedar River water high  chlorpyrifos conc (1 microM)	10.1560/a723-n65t-v12a-1axu
+46	4			14			days				days	Organophosphorus Ester Hydrolysis	29	17.5	Hui, Tay, Ariffin, Marinah, and Tahir, Norhayati. Hydrolysis of Chlorpyrifos in aqueous solutions at different temperatures and pH. The Malaysian Journal of Analytical Sciences, Vol 14 No 2 (2010): 50-55. Temp. is +/- 1		
+46	7			11.3			days				days	Organophosphorus Ester Hydrolysis	29	17.5	Hui, Tay, Ariffin, Marinah, and Tahir, Norhayati. Hydrolysis of Chlorpyrifos in aqueous solutions at different temperatures and pH. The Malaysian Journal of Analytical Sciences, Vol 14 No 2 (2010): 50-55. Temp. is +/- 1		
+46	10			4.57			days				days	Organophosphorus Ester Hydrolysis	29	17.5	Hui, Tay, Ariffin, Marinah, and Tahir, Norhayati. Hydrolysis of Chlorpyrifos in aqueous solutions at different temperatures and pH. The Malaysian Journal of Analytical Sciences, Vol 14 No 2 (2010): 50-55. Temp. is +/- 1		
+46	5			72			days				days	Organophosphorus Ester Hydrolysis	25	17.5	Chlorpyrifos - WHO Specifications and evaluations for public health pesticides, 2002	The EPA Sub. N 161-1 Method, pH independent pH5-7	
+46	7			72			days				days	Organophosphorus Ester Hydrolysis	25	17.5	Chlorpyrifos - WHO Specifications and evaluations for public health pesticides, 2002	The EPA Sub. N 161-1 Method, pH independent pH5-7	
+46	9			16			days				days	Organophosphorus Ester Hydrolysis	25	17.5	Chlorpyrifos - WHO Specifications and evaluations for public health pesticides, 2002	The EPA Sub. N 161-1 Method, pH independent pH5-7	
+46	7			40			days				days	Organophosphorus Ester Hydrolysis	30	17.5	Chlorpyrifos - WHO Specifications and evaluations for public health pesticides, 2002	The EPA test method CS5000	
+46	9			24			days				days	Organophosphorus Ester Hydrolysis	30	17.5	Chlorpyrifos - WHO Specifications and evaluations for public health pesticides, 2002	The EPA test method CS5000	
+7	7			75			days				days	Halogenated Aliphatics: Nucleophilic Substitution	15	26.53	Miyamoto, K. and Urano, K. Chemosphere, 32, 2399, 1996		10.1016/0045-6535(96)00142-7
+7	7			34			days				days	Halogenated Aliphatics: Nucleophilic Substitution	20	26.53	Miyamoto, K. and Urano, K. Chemosphere, 32, 2399, 1996		10.1016/0045-6535(96)00142-7
+47	5			245			days				days	Organophosphorus Ester Hydrolysis	25	17.5	EFSA Fenamiphos 10-11-2012		
+47	7			301			days				days	Organophosphorus Ester Hydrolysis	25	17.5	EFSA Fenamiphos 10-11-2012		
+47	9			235			days				days	Organophosphorus Ester Hydrolysis	25	17.5	EFSA Fenamiphos 10-11-2012		
+48	5			196			days				days	Organophosphorus Ester Hydrolysis	25	17.5	EFSA 105901 Fenitrothion	Ito, M. Takahashi, N. and Mikami, N. 1988. Following Range for Half-life @ pH 5: 191-200 days, @ pH 7: 180-186 days and @ pH 9: 100-101 days.	
+48	7			183			days				days	Organophosphorus Ester Hydrolysis	25	17.5	EFSA 105901 Fenitrothion	Ito, M. Takahashi, N. and Mikami, N. 1988. Following Range for Half-life @ pH 5: 191-200 days, @ pH 7: 180-186 days and @ pH 9: 100-101 days.	
+48	9			101			days				days	Organophosphorus Ester Hydrolysis	25	17.5	EFSA 105901 Fenitrothion	Ito, M. Takahashi, N. and Mikami, N. 1988. Following Range for Half-life @ pH 5: 191-200 days, @ pH 7: 180-186 days and @ pH 9: 100-101 days.	
+95	2			1280			days				days	Carboxylic Acid Ester Hydrolysis	40	14.34	Takahashi, N. Mikami, N., Yamada, H., and Miyamoto, J. (1985), Hydrolysis of the Pyrethoid Insecticide Fenpropathrin in Aqueous Media. Pestic. Sci., 16:113-118	Larson, R.A. and E.J. Weber. Reaction Mechanisms in Environmental Organic Chemistry. Boca Raton: CRC Press, Inc., 1994.	10.1002/ps.2780160203
+95	9					3					days	Carboxylic Acid Ester Hydrolysis	40	14.34	Takahashi, N. Mikami, N., Yamada, H., and Miyamoto, J. (1985), Hydrolysis of the Pyrethoid Insecticide Fenpropathrin in Aqueous Media. Pestic. Sci., 16:113-118	Larson, R.A. and E.J. Weber. Reaction Mechanisms in Environmental Organic Chemistry. Boca Raton: CRC Press, Inc., 1994.	10.1002/ps.2780160203
+95	6			37.6			days				days	Carboxylic Acid Ester Hydrolysis	55	14.34	Takahashi, N. Mikami, N., Yamada, H., and Miyamoto, J. (1985), Hydrolysis of the Pyrethoid Insecticide Fenpropathrin in Aqueous Media. Pestic. Sci., 16:113-118		10.1002/ps.2780160203
+143	4			3.7			days				days	Sulfonylurea Hydrolysis	25	27.246653919694072	122020_foramsulfuron_(PUB-source Hydrolysis Information)		
+143	5			10.1			days				days	Sulfonylurea Hydrolysis	25	27.007648183556405	PUBLIC RELEASE SUMMARY on the Evaluation of the New Active Foramsulfuron in the Product Tribute Turf Herbicide APVMA Product Number 63240		
+143	7			128			days				days	Sulfonylurea Hydrolysis	25	23.422562141491394	EFSA Foramsulfuron Report 2001		
+143	9			132			days				days	Sulfonylurea Hydrolysis	25	16.013384321223707	EFSA Foramsulfuron Report 2001		
+143	4			0.41			days				days	Sulfonylurea Hydrolysis	40	27.246653919694072	EFSA Foramsulfuron Report 2001		
+143	5			1.1			days				days	Sulfonylurea Hydrolysis	40	27.007648183556405	EFSA Foramsulfuron Report 2001		
+143	7			19.4			days				days	Sulfonylurea Hydrolysis	40	23.422562141491394	EFSA Foramsulfuron Report 2001		
+143	9			36.3			days				days	Sulfonylurea Hydrolysis	40	16.013384321223707	EFSA Foramsulfuron Report 2001		
+21	7							0.000878			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	98.64	24.89	Laughton, P.M. and Robertson, R.E. Can. J. Chem. 37, 1491, 1959.	rates in s-1	10.1139/v59-219
+20	7							8.19e-05			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	80	26.59	Laughton, P.M. and Robertson, R.E. Can. J. Chem. 37, 1491, 1959.	activation energy from Robertson, R.E. et. al Can. J. Chem. 37, 803, 1959.	10.1139/v59-219
+20								0.124			M^-1s^-1	Halogenated Aliphatics: Nucleophilic Substitution	100	22.2	Fells, I and Moelwyn-Hughes, E.A. J. Chem. Soc. 398, 1959.	alkaline Ea, second order rates in M^-1s^-1 with hydroxyl ion. Table 11	10.1039/jr9590000398
+20	7							0.000544			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	100	26.3	Fells, I and Moelwyn-Hughes, E.A. J. Chem. Soc. 398, 1959.	Table 10	10.1039/jr9590000398
+34	7							2.2000000000000002e-08			sec^-1	Halogenated Aliphatics: Elimination	27	24.69	wolfe N.L. et al Environ. Sci. Technol. 11, 1077, 1977.		
+34	13							3.8e-05			sec^-1	Halogenated Aliphatics: Elimination	27	24.69	wolfe N.L. et al Environ. Sci. Technol. 11, 1077, 1977.		
+24	7							0.039			months^-1	Halogenated Aliphatics: Nucleophilic Substitution	25	26.5	Dilling, W. L.; Tefertiller, N.; Kallos, G. Environ. Sci. Technol. 1975, 9, 833.	activation energy from Fells and Moelwyn-Hughes, J. Chem. Soc. 398, 1959	10.1021/es60107a008
+24								5.77e-07			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	100	26.5	Fells I and Moelwyn-Hughes E.A., J. Chem. Soc. 1326, 1958. Fells, I and Moelwyn-Hughes, E.A. J. Chem. Soc. 398, 1959.	Table 10	10.1039/jr9590000398
+24								0.000161			M^-1s^-1	Halogenated Aliphatics: Nucleophilic Substitution	100	26.2	Fells I and Moelwyn-Hughes E.A., J. Chem. Soc. 1326, 1958. Fells, I and Moelwyn-Hughes, E.A. J. Chem. Soc. 398, 1959.	second order rates in M^-1s^-1 with hydroxyl ion. Table 11	10.1039/jr9590000398
+59	3			131			days				days	Organophosphorus Ester Hydrolysis	25	17.5	Lee P.W. et al J. Agric. Food Chem., Vol. 38(2), 1990, 567-573; 058901_monocrotophos_(source Hydrolysis Information)		10.1021/jf00092a051
+59	3			47			days				days	Organophosphorus Ester Hydrolysis	35	17.5	Lee P.W. et al J. Agric. Food Chem., Vol. 38(2), 1990, 567-573; 058901_monocrotophos_(source Hydrolysis Information)		10.1021/jf00092a051
+59	9			26			days				days	Organophosphorus Ester Hydrolysis	35	17.5	Lee P.W. et al J. Agric. Food Chem., Vol. 38(2), 1990, 567-573; 058901_monocrotophos_(source Hydrolysis Information)		10.1021/jf00092a051
+59	6			134			days				days	Organophosphorus Ester Hydrolysis	25	17.5	Lee P.W. et al J. Agric. Food Chem., Vol. 38(2), 1990, 567-573; 058901_monocrotophos_(source Hydrolysis Information)	distilled water for pH 6.6 entry	10.1021/jf00092a051
+59	6.6			139			days				days	Organophosphorus Ester Hydrolysis	25	17.5	Lee P.W. et al J. Agric. Food Chem., Vol. 38(2), 1990, 567-573; 058901_monocrotophos_(source Hydrolysis Information)	distilled water for pH 6.6 entry	10.1021/jf00092a051
+59	9			5			days				days	Organophosphorus Ester Hydrolysis	25	17.5	Lee P.W. et al J. Agric. Food Chem., Vol. 38(2), 1990, 567-573; 058901_monocrotophos_(source Hydrolysis Information)	distilled water for pH 6.6 entry	10.1021/jf00092a051
+59	7.6			147			days				days	Organophosphorus Ester Hydrolysis	25	17.5	Lee P.W. et al J. Agric. Food Chem., Vol. 38(2), 1990, 567-573; 058901_monocrotophos_(source Hydrolysis Information)	natural water for pH 7.6 entry	10.1021/jf00092a051
+59	6			33			days				days	Organophosphorus Ester Hydrolysis	35	17.5	Lee P.W. et al J. Agric. Food Chem., Vol. 38(2), 1990, 567-573; 058901_monocrotophos_(source Hydrolysis Information)	distilled water for pH 6.6 entry	10.1021/jf00092a051
+59	6.6			25			days				days	Organophosphorus Ester Hydrolysis	35	17.5	Lee P.W. et al J. Agric. Food Chem., Vol. 38(2), 1990, 567-573; 058901_monocrotophos_(source Hydrolysis Information)	distilled water for pH 6.6 entry	10.1021/jf00092a051
+59	7.6			29			days				days	Organophosphorus Ester Hydrolysis	35	17.5	Lee P.W. et al J. Agric. Food Chem., Vol. 38(2), 1990, 567-573; 058901_monocrotophos_(source Hydrolysis Information)	natural water for pH 7.6 entry	10.1021/jf00092a051
+130	5											Carbamate Hydrolysis	25	17.9	EFSA oxamyl 103801		
+130	7			7.92			days	0.0874			days^-1	Carbamate Hydrolysis	25	17.9	EFSA oxamyl 103801		
+130	9			0.11916666666666666			days	0.242			hours^-1	Carbamate Hydrolysis	25	17.9	EFSA oxamyl 103801		
+172	7.54							0.000289			M^-1 sec^-1	Nitrile Hydrolysis	40.14999999999998	18.62	 Wiberg, K.B., JACS, 77,  (1955)	50% acetone; T = 40 - 60 deg C	
+172								7.2e-06			M^-1 sec^-1	Nitrile Hydrolysis	25.75	17.4	 Pinnell et al, JACS, 94, 6104 (1972)	50% acetone; T = 40 - 60 deg C	
+74	7							10600			sec^-1	Acid Halide Hydrolysis	4.616	19.05	Queen, A.; Nour, T.A.; Paddon-Row, M.N. Can. J. Chem. 1970, 48, 522-527	table 1, pure water	10.1139/v70-087
+45	5			7.458333333333333			days				days	Organophosphorus Ester Hydrolysis	25	17.5	EFSA Phosmet May 2004	Larson, R.A. and E.J. Weber. Reaction Mechanisms in Environmental Organic Chemistry. Boca Raton: CRC Press, Inc., 1994.	
+45	7			0.39166666666666666			days				days	Organophosphorus Ester Hydrolysis	25	17.5	EFSA Phosmet May 2004	Larson, R.A. and E.J. Weber. Reaction Mechanisms in Environmental Organic Chemistry. Boca Raton: CRC Press, Inc., 1994.	
+45	9			0.0038194444444444443			days				days	Organophosphorus Ester Hydrolysis	25	17.5	EFSA Phosmet May 2004	Larson, R.A. and E.J. Weber. Reaction Mechanisms in Environmental Organic Chemistry. Boca Raton: CRC Press, Inc., 1994.	
+45	5			2.0833333333333335			days				days	Organophosphorus Ester Hydrolysis	40	17.5	EFSA Phosmet May 2004		
+45	7			0.10347222222222222			days				days	Organophosphorus Ester Hydrolysis	40	17.5	EFSA Phosmet May 2004		
+45	9			0.0011111111111111111			days				days	Organophosphorus Ester Hydrolysis	40	17.5	EFSA Phosmet May 2004		
+182	7							3.98e-06			sec^-1	Lactam Hydrolysis	25	17.5	Wan P. Et al C an. J. Chem. 58,2423 (1980)		
+44	7							6.9e-07			sec^-1	Epoxide Hydrolysis	25	18.62	Bogyo D.A. et al EPA-560/11-80-005, 1980;  Koskikallio J. and Whalley E. Can. J. Chem. 37, 783-787, 1959.	activation energy is for acid catalysis from Long et. al J. Am. Chem. Soc., 1957, 79 (10),  2362–2369	10.1139/v59-105
+44								8.7e-05			M^-1 sec^-1	Epoxide Hydrolysis	25	18.62	Bogyo D.A. et al EPA-560/11-80-005, 1980;  Koskikallio J. and Whalley E. Can. J. Chem. 37, 783-787, 1959.	activation energy is for acid catalysis from Long et. al J. Am. Chem. Soc., 1957, 79 (10),  2362–2369	10.1139/v59-105
+44								0.124			M^-1sec^-1	Epoxide Hydrolysis	37	18.62	Bogyo D.A. et al EPA-560/11-80-005, 1980;  Ross W.C>J. J. Chem. Soc. 2257-2271, 1950.	activation energy is for acid catalysis from Long et. al J. Am. Chem. Soc., 1957, 79 (10),  2362–2370	10.1039/jr9500002257
+44	7							2.22e-06			sec^-1	Epoxide Hydrolysis	37	18.62	Bogyo D.A. et al EPA-560/11-80-005, 1980;  Ross W.C>J. J. Chem. Soc. 2257-2271, 1950.	activation energy is for acid catalysis from Long et. al J. Am. Chem. Soc., 1957, 79 (10),  2362–2370	10.1039/jr9500002257
+44								0.000275			M^-1 sec^-1	Epoxide Hydrolysis	37	18.62	Bogyo D.A. et al EPA-560/11-80-005, 1980;  Ross W.C>J. J. Chem. Soc. 2257-2271, 1950.	activation energy is for acid catalysis from Long et. al J. Am. Chem. Soc., 1957, 79 (10),  2362–2370	10.1039/jr9500002257
+44	7							2.11e-05			sec^-1	Epoxide Hydrolysis	60	18.62	Bogyo D.A. et al EPA-560/11-80-005, 1980;  Koskikallio J. and Whalley E. Can. J. Chem. 37, 783-787, 1959.	activation energy is for acid catalysis from Long et. al J. Am. Chem. Soc., 1957, 79 (10),  2362–2371	10.1139/v59-105
+44								0.0745			M^-1sec^-1	Epoxide Hydrolysis	30	18.62	Bogyo D.A. et al EPA-560/11-80-005, 1980;  Koskikallio J. and Whalley E. Can. J. Chem. 37, 783-787, 1959.		10.1139/v59-105
+44								0.199			M^-1sec^-1	Epoxide Hydrolysis	40	18.62	Bogyo D.A. et al EPA-560/11-80-005, 1980;  Koskikallio J. and Whalley E. Can. J. Chem. 37, 783-787, 1959.		10.1139/v59-105
+52	1.2			37			days				days	Organophosphorus Ester Hydrolysis	25	17.5	Australian pesticides and veterinary medicines authorty, Product Number 59304. http://apvma.gov.au/sites/default/files/publication/14146-prs-colleague.pdf accessed May 2015; xxxxxx_pyraclofos_(hydrolysis-DOCs)-NEW		
+52	7			29			days				days	Organophosphorus Ester Hydrolysis	25	17.5	Australian pesticides and veterinary medicines authorty, Product Number 59304. http://apvma.gov.au/sites/default/files/publication/14146-prs-colleague.pdf accessed May 2015; xxxxxx_pyraclofos_(hydrolysis-DOCs)-NEW		
+52	9			0.5			days				days	Organophosphorus Ester Hydrolysis	25	17.5	Australian pesticides and veterinary medicines authorty, Product Number 59304. http://apvma.gov.au/sites/default/files/publication/14146-prs-colleague.pdf accessed May 2015; xxxxxx_pyraclofos_(hydrolysis-DOCs)-NEW		
+52	5			112			days				days	Organophosphorus Ester Hydrolysis	25	17.5	Australian pesticides and veterinary medicines authorty, Product Number 59304. http://apvma.gov.au/sites/default/files/publication/14146-prs-colleague.pdf accessed May 2015; xxxxxx_pyraclofos_(hydrolysis-DOCs)-NEW		
+52	1.2			14			days				days	Organophosphorus Ester Hydrolysis	37	17.5	Australian pesticides and veterinary medicines authorty, Product Number 59304. http://apvma.gov.au/sites/default/files/publication/14146-prs-colleague.pdf accessed May 2015; xxxxxx_pyraclofos_(hydrolysis-DOCs)-NEW		
+52	7			8			days				days	Organophosphorus Ester Hydrolysis	37	17.5	Australian pesticides and veterinary medicines authorty, Product Number 59304. http://apvma.gov.au/sites/default/files/publication/14146-prs-colleague.pdf accessed May 2015; xxxxxx_pyraclofos_(hydrolysis-DOCs)-NEW		
+52	9			0.13			days				days	Organophosphorus Ester Hydrolysis	37	17.5	Australian pesticides and veterinary medicines authorty, Product Number 59304. http://apvma.gov.au/sites/default/files/publication/14146-prs-colleague.pdf accessed May 2015; xxxxxx_pyraclofos_(hydrolysis-DOCs)-NEW		
+52	5			28			days				days	Organophosphorus Ester Hydrolysis	37	17.5	Australian pesticides and veterinary medicines authorty, Product Number 59304. http://apvma.gov.au/sites/default/files/publication/14146-prs-colleague.pdf accessed May 2015; xxxxxx_pyraclofos_(hydrolysis-DOCs)-NEW		
+184	7							1e-06			sec^-1	Lactam Hydrolysis	25	17.5	Wan P. Et al C an. J. Chem. 58,2423 (1980)		
+141	4			7.01			days				days	Sulfonylurea Hydrolysis	25	15.27	EFSA Sulfosulfuron 085601		
+141	5			48.25			days				days	Sulfonylurea Hydrolysis	25	15.27	EFSA Sulfosulfuron 085601		
+141	7			163.66			days				days	Sulfonylurea Hydrolysis	25	15.27	EFSA Sulfosulfuron 085601		
+141	9			146.99			days				days	Sulfonylurea Hydrolysis	25	15.27	EFSA Sulfosulfuron 085601		
+58	5.75			149.58333333333334			days				days	Organophosphorus Ester Hydrolysis	27	17.5	Akhtar, MH J. Agric. Food Chem., Vol. 25, No. 4, 1977, 848-851; 083701_tetrachlorvinphos_(source Hydrolysis Information)		10.1021/jf60212a025
+58	8			13.066666666666668			days				days	Organophosphorus Ester Hydrolysis	27	17.5	Akhtar, MH J. Agric. Food Chem., Vol. 25, No. 4, 1977, 848-851; 083701_tetrachlorvinphos_(source Hydrolysis Information)		10.1021/jf60212a025
+58	6.5			100.25			days				days	Organophosphorus Ester Hydrolysis	27	17.5	Akhtar, MH J. Agric. Food Chem., Vol. 25, No. 4, 1977, 848-851; 083701_tetrachlorvinphos_(source Hydrolysis Information)		10.1021/jf60212a025
+58	7.4			47.875			days				days	Organophosphorus Ester Hydrolysis	27	17.5	Akhtar, MH J. Agric. Food Chem., Vol. 25, No. 4, 1977, 848-851; 083701_tetrachlorvinphos_(source Hydrolysis Information)		10.1021/jf60212a025
+58	9			2.5124999999999997			days				days	Organophosphorus Ester Hydrolysis	27	17.5	Akhtar, MH J. Agric. Food Chem., Vol. 25, No. 4, 1977, 848-851; 083701_tetrachlorvinphos_(source Hydrolysis Information)		10.1021/jf60212a025
+151	4			0.66			days				days	Sulfonylurea Hydrolysis	15	8.231357552581262	Dinelli G. et al. J. Agric. Food Chem., Vol. 45, No. 5, 1997		10.1021/jf960649g
+151	4			0.53			days				days	Sulfonylurea Hydrolysis	20	8.231357552581262	Dinelli G. et al. J. Agric. Food Chem., Vol. 45, No. 5, 1997		10.1021/jf960649g
+151	4			0.43			days				days	Sulfonylurea Hydrolysis	25	8.231357552581262	Dinelli G. et al. J. Agric. Food Chem., Vol. 45, No. 5, 1997		10.1021/jf960649g
+151	4			0.35			days				days	Sulfonylurea Hydrolysis	30	8.231357552581262	Dinelli G. et al. J. Agric. Food Chem., Vol. 45, No. 5, 1997		10.1021/jf960649g
+151	4			0.28			days				days	Sulfonylurea Hydrolysis	35	8.231357552581262	Dinelli G. et al. J. Agric. Food Chem., Vol. 45, No. 5, 1997		10.1021/jf960649g
+151	4			0.19			days				days	Sulfonylurea Hydrolysis	45	8.231357552581262	Dinelli G. et al. J. Agric. Food Chem., Vol. 45, No. 5, 1997		10.1021/jf960649g
+151	4			0.11			days				days	Sulfonylurea Hydrolysis	55	8.231357552581262	Dinelli G. et al. J. Agric. Food Chem., Vol. 45, No. 5, 1997		10.1021/jf960649g
+160	11.698970004336019							0.35			10^-3*s^-1	Lactone Hydrolysis	15	11.84484	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	0.005M NaOH; rates reported as 10^3 kobs 	10.1016/j.saa.2006.08.023
+160	12							0.74			10^-3*s^-1	Lactone Hydrolysis	15	11.84484	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	.01M NaOH; rates reported as 10^3 kobs	10.1016/j.saa.2006.08.023
+160	12.301029995663981							1.36			10^-3*s^-1	Lactone Hydrolysis	15	11.84484	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	.02M NaOH; rates reported as 10^3 kobs	10.1016/j.saa.2006.08.023
+160	12.477121254719663							2			10^-3*s^-1	Lactone Hydrolysis	15	11.84484	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	0.03M NaOH; rates reported as 10^3 kobs	10.1016/j.saa.2006.08.023
+160	11.698970004336019							0.72			10^-3*s^-1	Lactone Hydrolysis	25	11.84484	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	0.005M NaOH; rates reported as 10^3 kobs 	10.1016/j.saa.2006.08.023
+160	12							1.48			10^-3*s^-1	Lactone Hydrolysis	25	11.84484	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	.01M NaOH; rates reported as 10^3 kobs	10.1016/j.saa.2006.08.023
+160	12.301029995663981							2.8			10^-3*s^-1	Lactone Hydrolysis	25	11.84484	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	.02M NaOH; rates reported as 10^3 kobs	10.1016/j.saa.2006.08.023
+160	12.477121254719663							4.25			10^-3*s^-1	Lactone Hydrolysis	25	11.84484	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	0.03M NaOH; rates reported as 10^3 kobs	10.1016/j.saa.2006.08.023
+160	11.698970004336019							0.95			10^-3*s^-1	Lactone Hydrolysis	30	11.84484	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	0.005M NaOH; rates reported as 10^3 kobs 	10.1016/j.saa.2006.08.023
+160	12							1.82			10^-3*s^-1	Lactone Hydrolysis	30	11.84484	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	.01M NaOH; rates reported as 10^3 kobs	10.1016/j.saa.2006.08.023
+160	12.301029995663981							3.51			10^-3*s^-1	Lactone Hydrolysis	30	11.84484	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	.02M NaOH; rates reported as 10^3 kobs	10.1016/j.saa.2006.08.023
+160	12.477121254719663							5.31			10^-3*s^-1	Lactone Hydrolysis	30	11.84484	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	0.03M NaOH; rates reported as 10^3 kobs	10.1016/j.saa.2006.08.023
+160	11.698970004336019							1.33			10^-3*s^-1	Lactone Hydrolysis	35	11.84484	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	0.005M NaOH; rates reported as 10^3 kobs 	10.1016/j.saa.2006.08.023
+160	12							2.61			10^-3*s^-1	Lactone Hydrolysis	35	11.84484	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	.01M NaOH; rates reported as 10^3 kobs	10.1016/j.saa.2006.08.023
+160	12.301029995663981							5.08			10^-3*s^-1	Lactone Hydrolysis	35	11.84484	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	.02M NaOH; rates reported as 10^3 kobs	10.1016/j.saa.2006.08.023
+160	12.477121254719663							7.75			10^-3*s^-1	Lactone Hydrolysis	35	11.84484	El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648	0.03M NaOH; rates reported as 10^3 kobs	10.1016/j.saa.2006.08.023
+160								1000			kobs	Lactone Hydrolysis			El-Khatib R.M. et al Spectrochimica Acta Part A 67 (2007) 643–648		10.1016/j.saa.2006.08.023
+8	7			75			days				days	Halogenated Aliphatics: Nucleophilic Substitution	15	26.53	Miyamoto, K. and Urano, K. Chemosphere, 32, 2399, 1996		10.1016/0045-6535(96)00142-7
+8	7			34			days				days	Halogenated Aliphatics: Nucleophilic Substitution	20	26.53	Miyamoto, K. and Urano, K. Chemosphere, 32, 2399, 1996		10.1016/0045-6535(96)00142-7
+28	7							3.2e-11			sec^-1	Halogenated Aliphatics: Nucleophilic Substitution	25	24.89	Radding S.B. et al 1977. EPA-560/5-77-003	rates in s-1	
+166	7							0.00264			min-1	Lactone Hydrolysis	25	15.63	Olson A.R. and Voule P.V. J. Am. Chem. Soc., 1951, 73 (6), pp 2468–2471	0.5M HPO4-, lactone 0.145M	10.1021/ja01150a018
+166	7							0.00462			min-1	Lactone Hydrolysis	30	15.63	Olson A.R. and Voule P.V. J. Am. Chem. Soc., 1951, 73 (6), pp 2468–2471	.5HPO4-, lactone 0.117M	10.1021/ja01150a018
+166	10							0.036			min-1	Lactone Hydrolysis	30	15.63	Olson A.R. and Voule P.V. J. Am. Chem. Soc., 1951, 73 (6), pp 2468–2471	0.545M CO3-, 0.15M HCO3-, lactone 0.66M	10.1021/ja01150a018
+166		8.4	9.3					0.00296			min-1	Lactone Hydrolysis	25	15.63	Olson A.R. and Voule P.V. J. Am. Chem. Soc., 1951, 73 (6), pp 2468–2471	0.1M Na2B4O7, lactone .0805M	10.1021/ja01150a018
+166		8.4	9.3					0.006			min-1	Lactone Hydrolysis	30	15.63	Olson A.R. and Voule P.V. J. Am. Chem. Soc., 1951, 73 (6), pp 2468–2471	0.1M Na2B4O7, lactone 0.118M	10.1021/ja01150a018
